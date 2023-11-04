@@ -1,1150 +1,1150 @@
 Station,AirQuality,Longitude,Latitude,NO2 Hour,NO2 Quality,NO2 Value,Month,day
-Barcelona - Palau Reial,Good,2.1151,41.3875,6.0,Good,38.0,11,23
-Barcelona - Ciutadella,Good,2.1874,41.3864,21.0,Good,44.0,11,16
-Barcelona - Observ Fabra,Good,2.1239,41.4183,6.0,Good,8.0,11,21
-Barcelona - Poblenou,Good,2.2045,41.4039,0.0,Good,56.0,11,29
-Barcelona - Gràcia,Good,2.1534,41.3987,19.0,Good,81.0,11,30
-Barcelona - Observ Fabra,Good,2.1239,41.4183,1.0,Good,7.0,11,30
-Barcelona - Sants,Good,2.1331,41.3788,4.0,Good,24.0,11,16
-Barcelona - Eixample,Good,2.1538,41.3853,19.0,Good,87.0,8,11
-Barcelona - Gràcia,Good,2.1534,41.3987,14.0,Good,57.0,11,30
-Barcelona - Palau Reial,Good,2.1151,41.3875,20.0,Good,76.0,2,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,2.0,Good,16.0,8,11
-Barcelona - Gràcia,Good,2.1534,41.3987,9.0,Good,72.0,11,20
-Barcelona - Observ Fabra,Good,2.1239,41.4183,3.0,Good,5.0,11,15
-Barcelona - Eixample,Good,2.1538,41.3853,8.0,Good,63.0,9,11
-Barcelona - Poblenou,--,2.2045,41.4039,12.0,--,,11,27
-Barcelona - Observ Fabra,Good,2.1239,41.4183,6.0,Good,4.0,11,25
-Barcelona - Sants,Good,2.1331,41.3788,1.0,Good,36.0,11,11
-Barcelona - Poblenou,Good,2.2045,41.4039,17.0,Good,40.0,10,11
-Barcelona - Sants,Good,2.1331,41.3788,22.0,Good,66.0,11,27
-Barcelona - Vall Hebron,Good,2.148,41.4261,12.0,Good,21.0,6,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,20.0,Good,61.0,11,16
-Barcelona - Gràcia,Good,2.1534,41.3987,12.0,Good,31.0,10,11
-Barcelona - Poblenou,Good,2.2045,41.4039,13.0,Good,14.0,11,14
-Barcelona - Ciutadella,Good,2.1874,41.3864,21.0,Good,65.0,11,30
-Barcelona - Sants,Good,2.1331,41.3788,8.0,Good,38.0,11,15
-Barcelona - Ciutadella,Good,2.1874,41.3864,6.0,Good,49.0,5,11
-Barcelona - Eixample,Good,2.1538,41.3853,10.0,Good,58.0,11,17
-Barcelona - Gràcia,Good,2.1534,41.3987,2.0,Good,27.0,1,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,19.0,Good,65.0,11,16
-Barcelona - Gràcia,Good,2.1534,41.3987,1.0,Good,24.0,6,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,4.0,Good,9.0,11,25
-Barcelona - Gràcia,Good,2.1534,41.3987,1.0,Good,48.0,11,20
-Barcelona - Palau Reial,Good,2.1151,41.3875,19.0,Good,60.0,11,27
-Barcelona - Vall Hebron,Good,2.148,41.4261,7.0,Good,25.0,11,17
-Barcelona - Observ Fabra,Good,2.1239,41.4183,5.0,Good,17.0,11,29
-Barcelona - Ciutadella,Good,2.1874,41.3864,13.0,Good,17.0,11,17
-Barcelona - Gràcia,Good,2.1534,41.3987,18.0,Good,58.0,3,11
-Barcelona - Gràcia,Good,2.1534,41.3987,9.0,Good,72.0,11,20
-Barcelona - Sants,Good,2.1331,41.3788,7.0,Good,28.0,8,11
-Barcelona - Eixample,Good,2.1538,41.3853,23.0,Good,40.0,10,11
-Barcelona - Poblenou,Good,2.2045,41.4039,14.0,Good,35.0,11,28
-Barcelona - Vall Hebron,Good,2.148,41.4261,1.0,Good,38.0,6,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,4.0,Good,46.0,12,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,8.0,Good,50.0,12,11
-Barcelona - Sants,Good,2.1331,41.3788,11.0,Good,29.0,10,11
-Barcelona - Ciutadella,Good,2.1874,413864.0,9.0,Good,75.0,11,13
-Barcelona - Ciutadella,Good,2.1874,41.3864,15.0,Good,15.0,11,19
-Barcelona - Vall Hebron,Good,2.148,41.4261,10.0,Good,66.0,11,29
-Barcelona - Observ Fabra,Good,2.1239,41.4183,9.0,Good,13.0,12,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,23.0,Good,31.0,6,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,2.0,Good,9.0,11,27
-Barcelona - Sants,Good,2.1331,41.3788,0.0,Good,77.0,9,11
-Barcelona - Sants,Good,2.1331,41.3788,14.0,Good,25.0,11,17
-Barcelona - Ciutadella,Good,2.1874,41.3864,7.0,Good,58.0,7,11
-Barcelona - Sants,--,2.1331,41.3788,14.0,--,,11,14
-Barcelona - Eixample,Good,2.1538,41.3853,9.0,Good,88.0,11,15
-Barcelona - Eixample,Good,2.1538,41.3853,5.0,--,,11,17
-Barcelona - Palau Reial,Good,2.1151,41.3875,14.0,Good,13.0,11,14
-Barcelona - Eixample,Good,2.1538,41.3853,13.0,Good,47.0,2,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,18.0,Good,33.0,11,26
-Barcelona - Palau Reial,Good,2.1151,41.3875,14.0,Good,48.0,11,20
-Barcelona - Observ Fabra,Good,2.1239,41.4183,9.0,Good,7.0,11,18
-Barcelona - Ciutadella,Good,2.1874,41.3864,19.0,Good,61.0,2,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,21.0,Good,32.0,7,11
-Barcelona - Eixample,Good,2.1538,41.3853,18.0,Good,73.0,7,11
-Barcelona - Eixample,Good,2.1538,41.3853,11.0,Good,33.0,3,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,17.0,Good,8.0,6,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,12.0,Good,9.0,11,18
-Barcelona - Palau Reial,Good,2.1151,41.3875,11.0,Good,20.0,11,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,20.0,Good,24.0,11,25
-Barcelona - Palau Reial,Good,2.1151,41.3875,16.0,Good,12.0,11,14
-Barcelona - Observ Fabra,Good,2.1239,41.4183,2.0,Good,7.0,11,18
-Barcelona - Ciutadella,Good,2.1874,41.3864,23.0,Good,47.0,11,30
-Barcelona - Vall Hebron,Good,2.148,41.4261,9.0,Good,68.0,8,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,6.0,Good,13.0,11,15
-Barcelona - Observ Fabra,Good,2.1239,41.4183,17.0,Good,12.0,11,19
-Barcelona - Palau Reial,Good,2.1151,41.3875,12.0,Good,17.0,11,14
-Barcelona - Observ Fabra,Good,2.1239,41.4183,9.0,Good,7.0,11,30
-Barcelona - Observ Fabra,Good,2.1239,41.4183,2.0,Good,6.0,10,11
-Barcelona - Gràcia,Good,2.1534,41.3987,23.0,Good,72.0,11,28
-Barcelona - Ciutadella,Good,2.1874,41.3864,8.0,Good,50.0,11,24
-Barcelona - Eixample,Good,2.1538,41.3853,12.0,Good,60.0,11,15
-Barcelona - Vall Hebron,Good,2.148,41.4261,12.0,Good,21.0,11,15
-Barcelona - Vall Hebron,Good,2.148,41.4261,17.0,Good,16.0,11,17
-Barcelona - Poblenou,Good,2.2045,41.4039,11.0,Good,38.0,11,28
-Barcelona - Ciutadella,Good,2.1874,41.3864,3.0,Good,17.0,11,17
-Barcelona - Palau Reial,--,2.1151,41.3875,20.0,--,,8,11
-Barcelona - Eixample,Good,2.1538,41.3853,14.0,Good,36.0,2,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,16.0,Good,40.0,11,22
-Barcelona - Ciutadella,Good,2.1874,41.3864,15.0,Good,11.0,1,11
-Barcelona - Gràcia,Good,2.1534,41.3987,16.0,Good,20.0,11,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,9.0,Good,12.0,11,18
-Barcelona - Palau Reial,Good,2.1151,41.3875,13.0,Good,14.0,11,27
-Barcelona - Palau Reial,Good,2.1151,41.3875,21.0,Good,41.0,11,15
-Barcelona - Gràcia,Good,2.1534,413987.0,13.0,Good,43.0,11,13
-Barcelona - Observ Fabra,Good,2.1239,41.4183,4.0,Good,4.0,3,11
-Barcelona - Poblenou,Good,2.2045,41.4039,21.0,Good,56.0,6,11
-Barcelona - Eixample,Good,2.1538,41.3853,4.0,--,,11,17
-Barcelona - Gràcia,Good,2.1534,41.3987,8.0,Good,69.0,11,16
-Barcelona - Vall Hebron,Good,2.148,41.4261,20.0,Good,29.0,11,24
-Barcelona - Ciutadella,Good,2.1874,41.3864,17.0,Good,43.0,7,11
-Barcelona - Eixample,Good,2.1538,41.3853,21.0,Good,77.0,11,21
-Barcelona - Vall Hebron,Good,2.148,41.4261,14.0,Good,21.0,11,22
-Barcelona - Vall Hebron,Good,2.148,41.4261,0.0,Good,19.0,11,19
-Barcelona - Vall Hebron,Good,2.148,41.4261,5.0,Good,28.0,6,11
-Barcelona - Sants,Good,2.1331,41.3788,8.0,Good,12.0,11,18
-Barcelona - Gràcia,Good,2.1534,41.3987,3.0,Good,13.0,11,18
-Barcelona - Observ Fabra,Good,2.1239,41.4183,14.0,Good,24.0,11,30
-Barcelona - Poblenou,Good,2.2045,41.4039,1.0,Good,41.0,11,26
-Barcelona - Vall Hebron,Good,2.148,41.4261,11.0,Good,21.0,11,25
-Barcelona - Eixample,Good,2.1538,41.3853,20.0,Good,49.0,3,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,21.0,Good,19.0,9,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,20.0,Good,7.0,11,25
-Barcelona - Eixample,Good,2.1538,41.3853,9.0,Good,88.0,11,29
-Barcelona - Sants,Good,2.1331,41.3788,10.0,Good,40.0,6,11
-Barcelona - Gràcia,Good,2.1534,41.3987,6.0,Good,16.0,11,19
-Barcelona - Poblenou,Good,2.2045,41.4039,16.0,Good,26.0,11,25
-Barcelona - Sants,Good,2.1331,41.3788,13.0,Good,24.0,11,21
-Barcelona - Palau Reial,Good,2.1151,41.3875,6.0,Good,5.0,11,18
-Barcelona - Observ Fabra,Good,2.1239,41.4183,5.0,Good,9.0,10,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,4.0,Good,8.0,6,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,21.0,Good,59.0,11,28
-Barcelona - Poblenou,Good,2.2045,414039.0,22.0,Good,42.0,11,13
-Barcelona - Palau Reial,Good,2.1151,41.3875,13.0,Good,14.0,11,28
-Barcelona - Sants,Good,2.1331,41.3788,5.0,Good,18.0,8,11
-Barcelona - Gràcia,--,2.1534,41.3987,4.0,--,,7,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,10.0,Good,63.0,12,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,14.0,Good,36.0,11,30
-Barcelona - Gràcia,Good,2.1534,41.3987,16.0,Good,21.0,11,17
-Barcelona - Observ Fabra,Good,2.1239,41.4183,9.0,Good,8.0,11,29
-Barcelona - Observ Fabra,Good,2.1239,41.4183,13.0,Good,9.0,11,21
-Barcelona - Ciutadella,Good,2.1874,41.3864,4.0,Good,13.0,10,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,9.0,Good,61.0,11,21
-Barcelona - Ciutadella,Good,2.1874,41.3864,8.0,Good,65.0,7,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,4.0,Good,28.0,2,11
-Barcelona - Poblenou,Good,2.2045,41.4039,17.0,Good,71.0,4,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,17.0,Good,28.0,11,16
-Barcelona - Sants,Good,2.1331,41.3788,11.0,Good,65.0,5,11
-Barcelona - Poblenou,Good,2.2045,41.4039,14.0,Good,21.0,6,11
-Barcelona - Sants,Good,2.1331,41.3788,2.0,Good,19.0,11,26
-Barcelona - Poblenou,Good,2.2045,41.4039,1.0,Good,55.0,11,22
-Barcelona - Observ Fabra,Good,2.1239,41.4183,20.0,Good,14.0,5,11
-Barcelona - Sants,Good,2.1331,41.3788,17.0,Good,18.0,6,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,12.0,Good,18.0,4,11
-Barcelona - Eixample,Good,2.1538,41.3853,22.0,Good,53.0,11,26
-Barcelona - Poblenou,Good,2.2045,41.4039,12.0,Good,52.0,8,11
-Barcelona - Poblenou,Good,2.2045,41.4039,17.0,Good,35.0,2,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,11.0,Good,57.0,11,27
-Barcelona - Observ Fabra,Good,2.1239,41.4183,7.0,Good,8.0,6,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,18.0,Good,32.0,11,14
-Barcelona - Ciutadella,Good,2.1874,41.3864,0.0,Good,18.0,11,18
-Barcelona - Poblenou,Good,2.2045,41.4039,10.0,Good,22.0,11,18
-Barcelona - Eixample,Good,2.1538,41.3853,0.0,Good,85.0,11,17
-Barcelona - Sants,Good,2.1331,41.3788,10.0,Good,29.0,11,17
-Barcelona - Gràcia,Good,2.1534,41.3987,1.0,Good,52.0,3,11
-Barcelona - Poblenou,Good,2.2045,41.4039,12.0,Good,22.0,6,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,23.0,Good,21.0,11,17
-Barcelona - Vall Hebron,Good,2.148,41.4261,0.0,Good,55.0,3,11
-Barcelona - Gràcia,Good,2.1534,41.3987,12.0,Good,26.0,11,25
-Barcelona - Vall Hebron,Good,2.148,41.4261,18.0,Good,25.0,11,26
-Barcelona - Poblenou,Good,2.2045,414039.0,21.0,Good,41.0,11,13
-Barcelona - Vall Hebron,Good,2.148,41.4261,18.0,Good,69.0,8,11
-Barcelona - Gràcia,Good,2.1534,41.3987,4.0,Good,25.0,11,24
-Barcelona - Palau Reial,Good,2.1151,41.3875,19.0,Good,18.0,9,11
-Barcelona - Poblenou,Good,2.2045,41.4039,13.0,Good,27.0,8,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,1.0,Good,52.0,8,11
-Barcelona - Eixample,Good,2.1538,41.3853,17.0,Good,29.0,11,25
-Barcelona - Palau Reial,Good,2.1151,41.3875,20.0,Good,78.0,7,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,8.0,Good,62.0,11,25
-Barcelona - Observ Fabra,Good,2.1239,41.4183,16.0,Good,3.0,1,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,5.0,Good,28.0,12,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,1.0,Good,36.0,11,30
-Barcelona - Sants,Good,2.1331,41.3788,5.0,Good,21.0,4,11
-Barcelona - Gràcia,Good,2.1534,41.3987,1.0,Good,27.0,11,25
-Barcelona - Gràcia,Good,2.1534,413987.0,10.0,Good,65.0,11,13
-Barcelona - Poblenou,Good,2.2045,41.4039,2.0,Good,50.0,11,28
-Barcelona - Vall Hebron,Good,2.148,41.4261,12.0,Good,37.0,11,29
-Barcelona - Vall Hebron,Good,2.148,41.4261,15.0,Good,24.0,11,28
-Barcelona - Vall Hebron,Good,2.148,41.4261,15.0,Good,23.0,11,25
-Barcelona - Gràcia,Good,2.1534,41.3987,17.0,Good,21.0,1,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,22.0,Good,30.0,11,14
-Barcelona - Gràcia,Good,2.1534,41.3987,8.0,Good,80.0,11,23
-Barcelona - Ciutadella,Good,2.1874,41.3864,22.0,Good,57.0,11,30
-Barcelona - Gràcia,Moderate,2.1534,41.3987,9.0,Moderate,97.0,5,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,13.0,Good,11.0,11,22
-Barcelona - Ciutadella,Good,2.1874,41.3864,1.0,Good,56.0,1,11
-Barcelona - Poblenou,Good,2.2045,41.4039,2.0,Good,49.0,12,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,17.0,Good,39.0,11,22
-Barcelona - Ciutadella,Good,2.1874,41.3864,6.0,Good,46.0,4,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,5.0,Good,1.0,4,11
-Barcelona - Eixample,Good,2.1538,41.3853,3.0,--,,9,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,4.0,Good,26.0,5,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,14.0,Good,17.0,9,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,17.0,Good,8.0,11,18
-Barcelona - Gràcia,Good,2.1534,41.3987,9.0,Good,71.0,8,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,17.0,Good,13.0,11,23
-Barcelona - Ciutadella,Good,2.1874,41.3864,9.0,Good,39.0,10,11
-Barcelona - Sants,Good,2.1331,41.3788,6.0,Good,26.0,11,27
-Barcelona - Palau Reial,Good,2.1151,41.3875,19.0,Good,74.0,11,21
-Barcelona - Palau Reial,Good,2.1151,41.3875,18.0,Good,43.0,2,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,17.0,Good,20.0,9,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,3.0,Good,6.0,11,25
-Barcelona - Vall Hebron,Good,2.148,41.4261,14.0,--,,11,21
-Barcelona - Ciutadella,Good,2.1874,41.3864,17.0,Good,9.0,11,17
-Barcelona - Ciutadella,Good,2.1874,41.3864,2.0,Good,15.0,11,15
-Barcelona - Ciutadella,Good,2.1874,41.3864,12.0,Good,40.0,11,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,13.0,Good,2.0,4,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,5.0,Good,11.0,11,17
-Barcelona - Ciutadella,Good,2.1874,41.3864,21.0,Good,45.0,8,11
-Barcelona - Eixample,Good,2.1538,41.3853,16.0,--,,11,24
-Barcelona - Gràcia,Good,2.1534,41.3987,22.0,Good,49.0,11,24
-Barcelona - Observ Fabra,Good,2.1239,41.4183,21.0,Good,11.0,6,11
-Barcelona - Gràcia,Good,2.1534,41.3987,5.0,Good,45.0,11,29
-Barcelona - Poblenou,Good,2.2045,41.4039,10.0,Good,45.0,11,24
-Barcelona - Palau Reial,Good,2.1151,41.3875,0.0,Good,20.0,8,11
-Barcelona - Sants,Good,2.1331,41.3788,2.0,Good,30.0,11,16
-Barcelona - Observ Fabra,Good,2.1239,41.4183,9.0,Good,3.0,11,22
-Barcelona - Observ Fabra,Good,2.1239,41.4183,14.0,Good,15.0,11,19
-Barcelona - Vall Hebron,Good,2.148,41.4261,18.0,Good,36.0,11,23
-Barcelona - Gràcia,Good,2.1534,41.3987,3.0,Good,66.0,11,30
-Barcelona - Palau Reial,Good,2.1151,41.3875,8.0,Good,21.0,11,30
-Barcelona - Palau Reial,Good,2.1151,41.3875,2.0,Good,12.0,11,16
-Barcelona - Vall Hebron,Good,2.148,41.4261,20.0,Good,60.0,11,28
-Barcelona - Observ Fabra,Good,2.1239,41.4183,,,,11,16
-Barcelona - Gràcia,Good,2.1534,41.3987,18.0,Good,82.0,11,22
-Barcelona - Poblenou,Good,2.2045,41.4039,15.0,Good,42.0,11,30
-Barcelona - Palau Reial,Good,2.1151,41.3875,4.0,Good,17.0,11,24
-Barcelona - Sants,Good,2.1331,41.3788,10.0,Good,35.0,11,15
-Barcelona - Ciutadella,Good,2.1874,41.3864,11.0,Good,28.0,11,24
-Barcelona - Observ Fabra,Good,2.1239,41.4183,22.0,Good,13.0,1,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,1.0,Good,40.0,2,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,12.0,Good,26.0,11,15
-Barcelona - Poblenou,Good,2.2045,41.4039,5.0,Good,16.0,10,11
-Barcelona - Poblenou,Good,2.2045,41.4039,17.0,Good,25.0,12,11
-Barcelona - Gràcia,Good,2.1534,41.3987,6.0,Good,10.0,9,11
-Barcelona - Poblenou,Good,2.2045,41.4039,11.0,Good,35.0,11,14
-Barcelona - Observ Fabra,Good,2.1239,41.4183,3.0,Good,8.0,11,11
-Barcelona - Poblenou,Good,2.2045,41.4039,9.0,Good,53.0,6,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,13.0,Good,22.0,9,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,21.0,Good,8.0,5,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,5.0,Good,13.0,11,22
-Barcelona - Vall Hebron,Good,2.148,41.4261,16.0,Good,15.0,11,27
-Barcelona - Eixample,Good,2.1538,41.3853,21.0,Good,88.0,2,11
-Barcelona - Eixample,Good,2.1538,41.3853,4.0,Good,17.0,11,26
-Barcelona - Gràcia,Good,2.1534,41.3987,2.0,Good,54.0,11,23
-Barcelona - Gràcia,Good,2.1534,41.3987,6.0,Good,40.0,2,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,5.0,Good,26.0,11,14
-Barcelona - Ciutadella,Good,2.1874,41.3864,4.0,Good,46.0,11,22
-Barcelona - Palau Reial,Good,2.1151,413875.0,6.0,Good,6.0,11,13
-Barcelona - Gràcia,Good,2.1534,41.3987,0.0,Good,41.0,11,24
-Barcelona - Palau Reial,Good,2.1151,41.3875,1.0,Good,8.0,11,19
-Barcelona - Sants,Good,2.1331,41.3788,2.0,Good,61.0,9,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,2.0,Good,27.0,11,20
-Barcelona - Palau Reial,Good,2.1151,41.3875,10.0,Good,49.0,8,11
-Barcelona - Gràcia,Good,2.1534,41.3987,18.0,Good,57.0,11,23
-Barcelona - Ciutadella,Good,2.1874,41.3864,18.0,Good,26.0,11,15
-Barcelona - Palau Reial,Good,2.1151,41.3875,19.0,Good,43.0,3,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,0.0,Good,9.0,11,16
-Barcelona - Poblenou,Good,2.2045,41.4039,11.0,Good,13.0,11,18
-Barcelona - Observ Fabra,Good,2.1239,41.4183,17.0,Good,21.0,11,30
-Barcelona - Vall Hebron,Good,2.148,41.4261,17.0,Good,20.0,10,11
-Barcelona - Sants,Good,2.1331,41.3788,11.0,Good,17.0,11,24
-Barcelona - Ciutadella,--,2.1874,41.3864,4.0,--,,9,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,0.0,Good,22.0,4,11
-Barcelona - Gràcia,Good,2.1534,41.3987,14.0,Good,24.0,11,24
-Barcelona - Sants,Good,2.1331,41.3788,18.0,Good,66.0,11,28
-Barcelona - Sants,Good,2.1331,41.3788,17.0,Good,51.0,11,22
-Barcelona - Sants,Good,2.1331,41.3788,1.0,Good,46.0,1,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,19.0,Good,20.0,11,14
-Barcelona - Observ Fabra,Good,2.1239,41.4183,8.0,Good,2.0,3,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,12.0,Good,40.0,11,26
-Barcelona - Ciutadella,Good,2.1874,41.3864,1.0,Good,53.0,4,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,6.0,Good,7.0,11,19
-Barcelona - Observ Fabra,Good,2.1239,41.4183,11.0,Good,17.0,11,20
-Barcelona - Palau Reial,Good,2.1151,41.3875,0.0,Good,9.0,11,11
-Barcelona - Eixample,Good,2.1538,41.3853,8.0,Good,43.0,11,27
-Barcelona - Ciutadella,Good,2.1874,41.3864,2.0,Good,26.0,10,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,20.0,Good,42.0,11,15
-Barcelona - Gràcia,--,2.1534,41.3987,15.0,--,,11,21
-Barcelona - Sants,--,2.1331,41.3788,0.0,--,,7,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,6.0,Good,21.0,3,11
-Barcelona - Gràcia,Good,2.1534,41.3987,10.0,Good,58.0,11,30
-Barcelona - Poblenou,Good,2.2045,414039.0,12.0,Good,16.0,11,13
-Barcelona - Poblenou,Good,2.2045,41.4039,16.0,Good,15.0,11,14
-Barcelona - Gràcia,Good,2.1534,41.3987,18.0,Good,45.0,11,19
-Barcelona - Ciutadella,Good,2.1874,41.3864,2.0,Good,46.0,3,11
-Barcelona - Eixample,Good,2.1538,41.3853,9.0,Good,65.0,11,25
-Barcelona - Sants,--,2.1331,41.3788,16.0,--,,11,14
-Barcelona - Observ Fabra,Good,2.1239,41.4183,21.0,Good,16.0,11,20
-Barcelona - Eixample,Moderate,2.1538,41.3853,16.0,Good,47.0,11,30
-Barcelona - Gràcia,Good,2.1534,41.3987,4.0,Good,11.0,11,26
-Barcelona - Sants,Good,2.1331,41.3788,15.0,Good,16.0,11,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,8.0,Good,5.0,11,17
-Barcelona - Vall Hebron,Good,2.148,41.4261,6.0,Good,19.0,11,16
-Barcelona - Vall Hebron,Good,2.148,41.4261,20.0,Good,43.0,7,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,6.0,Good,11.0,11,20
-Barcelona - Observ Fabra,Good,2.1239,41.4183,19.0,Good,10.0,6,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,0.0,Good,70.0,9,11
-Barcelona - Poblenou,Good,2.2045,41.4039,12.0,Good,62.0,11,29
-Barcelona - Ciutadella,Good,2.1874,41.3864,20.0,Good,79.0,11,29
-Barcelona - Ciutadella,Good,2.1874,41.3864,0.0,Good,43.0,11,16
-Barcelona - Ciutadella,Good,2.1874,41.3864,15.0,Good,38.0,2,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,2.0,Good,13.0,11,25
-Barcelona - Ciutadella,Good,2.1874,41.3864,14.0,Good,41.0,11,30
-Barcelona - Eixample,Good,2.1538,41.3853,0.0,Good,39.0,11,15
-Barcelona - Palau Reial,Good,2.1151,41.3875,13.0,Good,11.0,11,24
-Barcelona - Sants,Good,2.1331,41.3788,10.0,Good,60.0,11,20
-Barcelona - Sants,Good,2.1331,41.3788,18.0,Good,20.0,11,17
-Barcelona - Sants,Good,2.1331,41.3788,21.0,Good,38.0,11,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,9.0,Good,13.0,3,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,0.0,Good,24.0,11,22
-Barcelona - Poblenou,Good,2.2045,41.4039,23.0,Good,30.0,6,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,8.0,Good,43.0,11,19
-Barcelona - Vall Hebron,Good,2.148,41.4261,23.0,Good,45.0,11,26
-Barcelona - Sants,Good,2.1331,41.3788,16.0,Good,19.0,11,26
-Barcelona - Ciutadella,Good,2.1874,41.3864,2.0,Good,54.0,11,24
-Barcelona - Gràcia,Good,2.1534,41.3987,6.0,Good,19.0,11,26
-Barcelona - Observ Fabra,Good,2.1239,41.4183,8.0,Good,15.0,10,11
-Barcelona - Sants,Good,2.1331,41.3788,16.0,Good,16.0,7,11
-Barcelona - Gràcia,--,2.1534,41.3987,1.0,--,,11,14
-Barcelona - Palau Reial,Good,2.1151,41.3875,14.0,Good,48.0,11,20
-Barcelona - Gràcia,Good,2.1534,41.3987,0.0,Good,72.0,5,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,5.0,Good,41.0,11,30
-Barcelona - Gràcia,Good,2.1534,41.3987,18.0,Good,71.0,11,21
-Barcelona - Observ Fabra,Good,2.1239,41.4183,23.0,Good,6.0,11,19
-Barcelona - Eixample,Moderate,2.1538,413853.0,1.0,Good,42.0,11,13
-Barcelona - Ciutadella,Good,2.1874,41.3864,4.0,Good,43.0,11,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,0.0,Good,53.0,8,11
-Barcelona - Sants,Good,2.1331,41.3788,0.0,Good,38.0,11,26
-Barcelona - Observ Fabra,Good,2.1239,41.4183,1.0,Good,7.0,11,25
-Barcelona - Poblenou,Good,2.2045,41.4039,19.0,Good,86.0,11,29
-Barcelona - Gràcia,Good,2.1534,413987.0,5.0,Good,14.0,11,13
-Barcelona - Sants,Good,2.1331,41.3788,7.0,Good,43.0,5,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,5.0,Good,32.0,4,11
-Barcelona - Gràcia,Good,2.1534,41.3987,3.0,Good,18.0,1,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,21.0,Good,4.0,11,29
-Barcelona - Sants,Good,2.1331,41.3788,17.0,Good,60.0,11,28
-Barcelona - Gràcia,Good,2.1534,41.3987,10.0,Good,38.0,10,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,22.0,Good,38.0,11,15
-Barcelona - Ciutadella,Good,2.1874,41.3864,11.0,Good,26.0,6,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,4.0,Good,4.0,3,11
-Barcelona - Sants,Good,2.1331,41.3788,8.0,Good,43.0,2,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,22.0,Good,5.0,11,18
-Barcelona - Observ Fabra,Good,2.1239,41.4183,19.0,Good,12.0,3,11
-Barcelona - Gràcia,Good,2.1534,41.3987,10.0,Good,73.0,11,27
-Barcelona - Eixample,Moderate,2.1538,41.3853,20.0,Moderate,99.0,4,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,2.0,Good,6.0,11,19
-Barcelona - Eixample,Good,2.1538,41.3853,3.0,Good,36.0,8,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,18.0,Good,53.0,11,30
-Barcelona - Palau Reial,Good,2.1151,41.3875,11.0,Good,8.0,11,18
-Barcelona - Sants,Good,2.1331,41.3788,7.0,Good,20.0,11,19
-Barcelona - Palau Reial,Good,2.1151,41.3875,21.0,Good,19.0,11,26
-Barcelona - Ciutadella,Good,2.1874,41.3864,9.0,Good,44.0,12,11
-Barcelona - Sants,Good,2.1331,41.3788,14.0,Good,62.0,11,23
-Barcelona - Observ Fabra,Good,2.1239,41.4183,17.0,Good,7.0,11,22
-Barcelona - Ciutadella,Good,2.1874,41.3864,7.0,Good,45.0,8,11
-Barcelona - Poblenou,Good,2.2045,41.4039,12.0,Good,73.0,11,22
-Barcelona - Gràcia,Good,2.1534,41.3987,1.0,Good,34.0,11,17
-Barcelona - Observ Fabra,Good,2.1239,41.4183,16.0,Good,8.0,11,23
-Barcelona - Vall Hebron,Good,2.148,41.4261,8.0,Good,70.0,8,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,13.0,Good,20.0,10,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,21.0,Good,63.0,11,27
-Barcelona - Palau Reial,Good,2.1151,41.3875,15.0,Good,48.0,11,30
-Barcelona - Sants,Good,2.1331,41.3788,15.0,Good,23.0,11,17
-Barcelona - Eixample,Moderate,2.1538,41.3853,8.0,Moderate,101.0,11,28
-Barcelona - Eixample,Good,2.1538,41.3853,5.0,Good,48.0,11,29
-Barcelona - Poblenou,Good,2.2045,41.4039,12.0,Good,43.0,11,28
-Barcelona - Vall Hebron,Good,2.148,41.4261,21.0,Good,17.0,11,25
-Barcelona - Gràcia,Good,2.1534,41.3987,20.0,Good,28.0,9,11
-Barcelona - Sants,Good,2.1331,41.3788,5.0,Good,10.0,11,15
-Barcelona - Sants,Good,2.1331,41.3788,14.0,Good,21.0,12,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,4.0,Good,11.0,2,11
-Barcelona - Gràcia,Good,2.1534,41.3987,23.0,Good,44.0,11,17
-Barcelona - Vall Hebron,Good,2.148,41.4261,20.0,Good,22.0,6,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,0.0,Good,6.0,11,24
-Barcelona - Ciutadella,Good,2.1874,41.3864,7.0,Good,24.0,11,15
-Barcelona - Vall Hebron,Good,2.148,41.4261,12.0,Good,14.0,11,24
-Barcelona - Poblenou,Good,2.2045,41.4039,1.0,Good,20.0,6,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,14.0,Good,16.0,11,15
-Barcelona - Ciutadella,Good,2.1874,41.3864,5.0,Good,51.0,4,11
-Barcelona - Poblenou,--,2.2045,41.4039,8.0,--,,11,27
-Barcelona - Vall Hebron,Good,2.148,41.4261,2.0,Good,15.0,11,22
-Barcelona - Observ Fabra,Good,2.1239,41.4183,2.0,Good,37.0,9,11
-Barcelona - Palau Reial,Good,2.1151,413875.0,7.0,Good,13.0,11,13
-Barcelona - Ciutadella,Good,2.1874,41.3864,18.0,Good,7.0,11,18
-Barcelona - Observ Fabra,Good,2.1239,41.4183,1.0,Good,4.0,11,14
-Barcelona - Gràcia,Good,2.1534,41.3987,20.0,Good,43.0,11,25
-Barcelona - Eixample,Good,2.1538,41.3853,1.0,Good,69.0,5,11
-Barcelona - Sants,Good,2.1331,41.3788,17.0,Good,27.0,12,11
-Barcelona - Poblenou,Good,2.2045,41.4039,1.0,Good,56.0,11,20
-Barcelona - Observ Fabra,Good,2.1239,41.4183,7.0,Good,3.0,3,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,3.0,Good,3.0,11,22
-Barcelona - Observ Fabra,Good,2.1239,41.4183,4.0,Good,7.0,7,11
-Barcelona - Eixample,Moderate,2.1538,41.3853,15.0,Good,70.0,11,30
-Barcelona - Poblenou,Good,2.2045,41.4039,14.0,Good,18.0,11,18
-Barcelona - Gràcia,Good,2.1534,41.3987,4.0,Good,10.0,11,19
-Barcelona - Ciutadella,Good,2.1874,41.3864,2.0,Good,42.0,11,30
-Barcelona - Poblenou,Good,2.2045,41.4039,20.0,Good,81.0,11,20
-Barcelona - Vall Hebron,Good,2.148,41.4261,21.0,Good,87.0,8,11
-Barcelona - Gràcia,Good,2.1534,41.3987,0.0,Good,74.0,12,11
-Barcelona - Sants,Good,2.1331,41.3788,4.0,Good,56.0,5,11
-Barcelona - Poblenou,Good,2.2045,41.4039,15.0,--,,11,26
-Barcelona - Palau Reial,Good,2.1151,41.3875,2.0,Good,31.0,11,23
-Barcelona - Vall Hebron,Good,2.148,41.4261,18.0,Good,16.0,5,11
-Barcelona - Poblenou,Good,2.2045,41.4039,4.0,Good,43.0,11,28
-Barcelona - Ciutadella,Good,2.1874,41.3864,18.0,Good,74.0,11,28
-Barcelona - Vall Hebron,Good,2.148,41.4261,13.0,Good,20.0,11,15
-Barcelona - Poblenou,Good,2.2045,41.4039,7.0,Good,53.0,11,20
-Barcelona - Poblenou,Good,2.2045,41.4039,3.0,Good,19.0,11,11
-Barcelona - Poblenou,Good,2.2045,41.4039,8.0,Good,34.0,11,25
-Barcelona - Sants,Good,2.1331,41.3788,10.0,Good,16.0,3,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,0.0,Good,27.0,11,14
-Barcelona - Palau Reial,Good,2.1151,41.3875,12.0,Good,14.0,9,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,8.0,Good,23.0,11,30
-Barcelona - Palau Reial,Good,2.1151,41.3875,13.0,Good,22.0,9,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,14.0,Good,50.0,11,29
-Barcelona - Sants,Good,2.1331,41.3788,19.0,Good,61.0,11,28
-Barcelona - Observ Fabra,Good,2.1239,41.4183,7.0,Good,6.0,10,11
-Barcelona - Eixample,Good,2.1538,41.3853,1.0,Good,63.0,3,11
-Barcelona - Poblenou,Good,2.2045,41.4039,9.0,Good,47.0,11,29
-Barcelona - Eixample,Good,2.1538,41.3853,22.0,Good,86.0,11,20
-Barcelona - Gràcia,Good,2.1534,41.3987,11.0,Good,23.0,11,18
-Barcelona - Vall Hebron,Good,2.148,41.4261,7.0,Good,28.0,11,28
-Barcelona - Observ Fabra,Good,2.1239,41.4183,18.0,Good,10.0,11,25
-Barcelona - Gràcia,Good,2.1534,41.3987,13.0,Good,37.0,2,11
-Barcelona - Gràcia,Good,2.1534,41.3987,19.0,Good,47.0,11,14
-Barcelona - Sants,Good,2.1331,41.3788,4.0,Good,26.0,6,11
-Barcelona - Poblenou,Good,2.2045,41.4039,3.0,Good,39.0,3,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,19.0,Good,19.0,11,17
-Barcelona - Poblenou,Good,2.2045,41.4039,11.0,Good,39.0,2,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,3.0,Good,3.0,11,14
-Barcelona - Gràcia,Good,2.1534,41.3987,17.0,Good,42.0,11,26
-Barcelona - Gràcia,--,2.1534,41.3987,,,,7,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,4.0,Good,51.0,5,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,17.0,Good,15.0,11,24
-Barcelona - Palau Reial,Good,2.1151,41.3875,7.0,Good,26.0,11,21
-Barcelona - Eixample,Good,2.1538,41.3853,18.0,--,,11,26
-Barcelona - Palau Reial,Good,2.1151,41.3875,7.0,Good,47.0,11,28
-Barcelona - Observ Fabra,Good,2.1239,41.4183,6.0,Good,4.0,11,18
-Barcelona - Ciutadella,Good,2.1874,41.3864,9.0,Good,48.0,11,15
-Barcelona - Sants,Good,2.1331,41.3788,3.0,Good,13.0,11,27
-Barcelona - Eixample,Good,2.1538,41.3853,6.0,Good,49.0,10,11
-Barcelona - Poblenou,Good,2.2045,41.4039,3.0,Good,22.0,11,15
-Barcelona - Ciutadella,Good,2.1874,41.3864,11.0,Good,34.0,11,28
-Barcelona - Sants,Good,2.1331,41.3788,19.0,Good,79.0,11,29
-Barcelona - Palau Reial,Good,2.1151,41.3875,18.0,Good,53.0,11,21
-Barcelona - Eixample,Good,2.1538,41.3853,20.0,Good,76.0,11,14
-Barcelona - Palau Reial,Good,2.1151,41.3875,23.0,Good,6.0,11,19
-Barcelona - Gràcia,Good,2.1534,41.3987,23.0,Good,33.0,11,16
-Barcelona - Gràcia,Good,2.1534,41.3987,9.0,Good,27.0,3,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,0.0,Good,61.0,3,11
-Barcelona - Poblenou,Good,2.2045,41.4039,9.0,Good,40.0,2,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,13.0,Good,22.0,11,30
-Barcelona - Eixample,Good,2.1538,41.3853,13.0,--,,11,20
-Barcelona - Palau Reial,Good,2.1151,413875.0,1.0,Good,12.0,11,13
-Barcelona - Vall Hebron,Good,2.148,41.4261,12.0,Good,28.0,11,14
-Barcelona - Ciutadella,Good,2.1874,41.3864,6.0,Good,21.0,10,11
-Barcelona - Sants,--,2.1331,41.3788,14.0,--,,11,19
-Barcelona - Vall Hebron,Good,2.148,41.4261,18.0,Good,33.0,11,14
-Barcelona - Observ Fabra,Good,2.1239,41.4183,15.0,Good,6.0,6,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,5.0,Good,8.0,11,18
-Barcelona - Eixample,Good,2.1538,41.3853,19.0,Good,77.0,11,21
-Barcelona - Poblenou,Moderate,2.2045,41.4039,6.0,Good,42.0,11,30
-Barcelona - Eixample,Good,2.1538,41.3853,14.0,Good,49.0,11,15
-Barcelona - Observ Fabra,Good,2.1239,414183.0,5.0,Good,3.0,11,13
-Barcelona - Poblenou,--,2.2045,41.4039,20.0,--,,11,26
-Barcelona - Palau Reial,Good,2.1151,41.3875,14.0,Good,16.0,12,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,7.0,Good,52.0,11,11
-Barcelona - Eixample,Good,2.1538,41.3853,16.0,Good,45.0,9,11
-Barcelona - Eixample,Good,2.1538,41.3853,2.0,Good,33.0,4,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,7.0,Good,23.0,11,21
-Barcelona - Vall Hebron,Good,2.148,41.4261,18.0,Good,35.0,11,27
-Barcelona - Observ Fabra,Good,2.1239,41.4183,23.0,Good,6.0,11,14
-Barcelona - Poblenou,Good,2.2045,41.4039,2.0,Good,34.0,11,25
-Barcelona - Vall Hebron,Good,2.148,41.4261,,,,3,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,7.0,Good,46.0,2,11
-Barcelona - Poblenou,Good,2.2045,41.4039,0.0,Good,60.0,11,22
-Barcelona - Observ Fabra,Good,2.1239,41.4183,21.0,Good,15.0,7,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,9.0,Good,48.0,11,11
-Barcelona - Gràcia,Good,2.1534,41.3987,14.0,Good,31.0,2,11
-Barcelona - Sants,Good,2.1331,41.3788,10.0,Good,38.0,10,11
-Barcelona - Poblenou,--,2.2045,41.4039,11.0,--,,11,27
-Barcelona - Poblenou,Good,2.2045,41.4039,8.0,Good,49.0,11,28
-Barcelona - Palau Reial,Good,2.1151,41.3875,5.0,Good,6.0,11,15
-Barcelona - Sants,Good,2.1331,413788.0,12.0,Good,32.0,11,13
-Barcelona - Ciutadella,Good,2.1874,41.3864,3.0,Good,25.0,11,14
-Barcelona - Sants,Good,2.1331,41.3788,16.0,Good,17.0,11,24
-Barcelona - Eixample,Good,2.1538,41.3853,22.0,Good,79.0,10,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,19.0,Good,65.0,11,28
-Barcelona - Vall Hebron,Good,2.148,41.4261,13.0,Good,39.0,11,20
-Barcelona - Gràcia,Good,2.1534,41.3987,5.0,Good,22.0,11,24
-Barcelona - Eixample,Good,2.1538,41.3853,6.0,Good,39.0,11,27
-Barcelona - Sants,Good,2.1331,413788.0,22.0,Good,43.0,11,13
-Barcelona - Palau Reial,Good,2.1151,41.3875,1.0,Good,4.0,10,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,17.0,Good,28.0,12,11
-Barcelona - Gràcia,--,2.1534,413987.0,15.0,--,,11,13
-Barcelona - Poblenou,Good,2.2045,41.4039,5.0,Good,22.0,11,16
-Barcelona - Gràcia,Good,2.1534,41.3987,9.0,Good,69.0,11,30
-Barcelona - Poblenou,Good,2.2045,41.4039,20.0,Good,63.0,3,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,3.0,Good,6.0,10,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,2.0,Good,52.0,11,22
-Barcelona - Poblenou,Good,2.2045,41.4039,22.0,Good,24.0,9,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,9.0,Good,44.0,11,26
-Barcelona - Eixample,Good,2.1538,41.3853,20.0,Good,79.0,11,19
-Barcelona - Vall Hebron,Good,2.148,41.4261,2.0,Good,9.0,10,11
-Barcelona - Poblenou,Good,2.2045,41.4039,22.0,Good,27.0,12,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,6.0,Good,45.0,11,27
-Barcelona - Sants,--,2.1331,41.3788,17.0,--,,11,19
-Barcelona - Palau Reial,Good,2.1151,41.3875,1.0,Good,14.0,11,22
-Barcelona - Observ Fabra,Good,2.1239,41.4183,2.0,Good,12.0,11,20
-Barcelona - Observ Fabra,Good,2.1239,41.4183,16.0,Good,9.0,11,15
-Barcelona - Palau Reial,Good,2.1151,41.3875,18.0,Good,40.0,10,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,10.0,Good,44.0,11,15
-Barcelona - Palau Reial,Good,2.1151,41.3875,5.0,Good,16.0,6,11
-Barcelona - Gràcia,Good,2.1534,41.3987,2.0,Good,24.0,2,11
-Barcelona - Poblenou,Moderate,2.2045,41.4039,8.0,Good,50.0,11,23
-Barcelona - Gràcia,Good,2.1534,41.3987,2.0,Good,23.0,6,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,5.0,Good,9.0,11,18
-Barcelona - Palau Reial,Good,2.1151,41.3875,17.0,Good,44.0,11,20
-Barcelona - Observ Fabra,Good,2.1239,41.4183,9.0,Good,11.0,11,19
-Barcelona - Observ Fabra,Good,2.1239,41.4183,2.0,Good,9.0,7,11
-Barcelona - Ciutadella,--,2.1874,41.3864,12.0,--,,11,24
-Barcelona - Poblenou,Good,2.2045,41.4039,5.0,Good,22.0,11,17
-Barcelona - Palau Reial,Good,2.1151,41.3875,0.0,Good,72.0,9,11
-Barcelona - Sants,Good,2.1331,41.3788,5.0,Good,27.0,11,27
-Barcelona - Observ Fabra,Good,2.1239,41.4183,12.0,Good,18.0,11,14
-Barcelona - Eixample,Good,2.1538,41.3853,19.0,Good,54.0,11,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,14.0,Good,6.0,10,11
-Barcelona - Gràcia,Good,2.1534,41.3987,0.0,Good,32.0,11,21
-Barcelona - Poblenou,Good,2.2045,41.4039,21.0,Good,86.0,8,11
-Barcelona - Eixample,Good,2.1538,41.3853,20.0,Good,32.0,11,18
-Barcelona - Vall Hebron,Good,2.148,41.4261,13.0,Good,16.0,11,25
-Barcelona - Observ Fabra,Good,2.1239,41.4183,8.0,Good,8.0,11,30
-Barcelona - Ciutadella,Good,2.1874,41.3864,21.0,Good,34.0,5,11
-Barcelona - Eixample,Good,2.1538,41.3853,16.0,--,,11,26
-Barcelona - Palau Reial,Good,2.1151,41.3875,22.0,Good,36.0,6,11
-Barcelona - Poblenou,Good,2.2045,41.4039,15.0,Good,35.0,2,11
-Barcelona - Poblenou,Good,2.2045,41.4039,6.0,Good,39.0,11,28
-Barcelona - Sants,Good,2.1331,41.3788,7.0,Good,24.0,11,26
-Barcelona - Sants,Good,2.1331,41.3788,22.0,Good,24.0,5,11
-Barcelona - Eixample,Good,2.1538,41.3853,18.0,Good,49.0,11,17
-Barcelona - Gràcia,Good,2.1534,41.3987,6.0,Good,55.0,11,22
-Barcelona - Palau Reial,Good,2.1151,413875.0,20.0,Good,64.0,11,13
-Barcelona - Ciutadella,Good,2.1874,41.3864,9.0,Good,45.0,11,17
-Barcelona - Eixample,Good,2.1538,41.3853,5.0,Good,67.0,7,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,6.0,Good,6.0,9,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,23.0,Good,22.0,6,11
-Barcelona - Sants,Good,2.1331,41.3788,1.0,Good,50.0,11,16
-Barcelona - Vall Hebron,Good,2.148,41.4261,0.0,Good,44.0,11,15
-Barcelona - Observ Fabra,Good,2.1239,41.4183,5.0,Good,8.0,11,17
-Barcelona - Palau Reial,Good,2.1151,41.3875,7.0,Good,22.0,7,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,23.0,Good,14.0,11,18
-Barcelona - Sants,--,2.1331,41.3788,14.0,--,,11,18
-Barcelona - Eixample,Good,2.1538,41.3853,9.0,--,,6,11
-Barcelona - Poblenou,Good,2.2045,41.4039,12.0,Good,22.0,12,11
-Barcelona - Sants,Good,2.1331,41.3788,3.0,Good,54.0,8,11
-Barcelona - Ciutadella,Good,2.1874,413864.0,2.0,Good,29.0,11,13
-Barcelona - Gràcia,Good,2.1534,41.3987,10.0,Good,42.0,11,17
-Barcelona - Vall Hebron,Good,2.148,41.4261,23.0,Good,13.0,7,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,11.0,Good,39.0,4,11
-Barcelona - Gràcia,Good,2.1534,41.3987,12.0,Good,42.0,11,24
-Barcelona - Poblenou,Good,2.2045,41.4039,18.0,Good,75.0,11,21
-Barcelona - Ciutadella,Good,2.1874,41.3864,4.0,Good,27.0,3,11
-Barcelona - Eixample,Moderate,2.1538,41.3853,15.0,Good,60.0,11,29
-Barcelona - Eixample,Good,2.1538,41.3853,22.0,Good,53.0,11,23
-Barcelona - Eixample,Good,2.1538,41.3853,9.0,Good,51.0,11,27
-Barcelona - Gràcia,Good,2.1534,41.3987,19.0,Good,45.0,12,11
-Barcelona - Sants,Good,2.1331,41.3788,1.0,Good,15.0,6,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,22.0,Good,39.0,11,15
-Barcelona - Observ Fabra,Good,2.1239,41.4183,11.0,Good,9.0,11,23
-Barcelona - Eixample,Good,2.1538,41.3853,14.0,Good,71.0,11,23
-Barcelona - Gràcia,Good,2.1534,41.3987,19.0,Good,62.0,4,11
-Barcelona - Sants,Good,2.1331,41.3788,14.0,Good,25.0,11,25
-Barcelona - Poblenou,Good,2.2045,41.4039,23.0,Good,70.0,11,28
-Barcelona - Sants,--,2.1331,41.3788,16.0,--,,11,16
-Barcelona - Eixample,Good,2.1538,41.3853,2.0,Good,69.0,5,11
-Barcelona - Eixample,Good,2.1538,41.3853,1.0,Good,45.0,11,24
-Barcelona - Gràcia,Good,2.1534,41.3987,11.0,Good,35.0,11,15
-Barcelona - Poblenou,Good,2.2045,41.4039,15.0,Good,14.0,11,15
-Barcelona - Sants,Good,2.1331,41.3788,8.0,Good,65.0,7,11
-Barcelona - Gràcia,Good,2.1534,41.3987,1.0,Good,44.0,4,11
-Barcelona - Eixample,Good,2.1538,41.3853,2.0,Good,68.0,9,11
-Barcelona - Eixample,Good,2.1538,41.3853,15.0,Good,28.0,11,26
-Barcelona - Gràcia,Good,2.1534,41.3987,6.0,Good,14.0,10,11
-Barcelona - Eixample,Good,2.1538,41.3853,7.0,Good,19.0,3,11
-Barcelona - Poblenou,Moderate,2.2045,41.4039,21.0,Moderate,92.0,11,22
-Barcelona - Poblenou,Good,2.2045,41.4039,19.0,Good,72.0,11,30
-Barcelona - Gràcia,Moderate,2.1534,41.3987,20.0,Moderate,103.0,8,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,12.0,Good,33.0,11,17
-Barcelona - Observ Fabra,Good,2.1239,41.4183,2.0,Good,4.0,11,22
-Barcelona - Sants,Good,2.1331,41.3788,0.0,Good,38.0,11,16
-Barcelona - Poblenou,--,2.2045,41.4039,3.0,--,,11,27
-Barcelona - Sants,Good,2.1331,41.3788,15.0,Good,9.0,1,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,13.0,Good,15.0,2,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,21.0,Good,71.0,7,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,5.0,Good,53.0,2,11
-Barcelona - Eixample,Good,2.1538,41.3853,16.0,Good,52.0,11,22
-Barcelona - Palau Reial,Good,2.1151,413875.0,16.0,Good,22.0,11,13
-Barcelona - Vall Hebron,Good,2.148,41.4261,4.0,Good,14.0,11,24
-Barcelona - Poblenou,Good,2.2045,41.4039,15.0,Good,22.0,5,11
-Barcelona - Poblenou,Good,2.2045,41.4039,11.0,Good,18.0,11,15
-Barcelona - Eixample,Good,2.1538,41.3853,20.0,Good,74.0,11,27
-Barcelona - Observ Fabra,Good,2.1239,41.4183,14.0,Good,10.0,12,11
-Barcelona - Vall Hebron,Good,2.148,414261.0,18.0,Good,30.0,11,13
-Barcelona - Eixample,Moderate,2.1538,41.3853,6.0,Good,41.0,11,30
-Barcelona - Poblenou,Good,2.2045,41.4039,4.0,Good,18.0,6,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,1.0,Good,48.0,11,14
-Barcelona - Vall Hebron,Good,2.148,41.4261,11.0,Good,11.0,4,11
-Barcelona - Sants,Good,2.1331,41.3788,16.0,Good,32.0,3,11
-Barcelona - Gràcia,Good,2.1534,41.3987,10.0,Good,50.0,11,28
-Barcelona - Palau Reial,Good,2.1151,41.3875,20.0,Good,45.0,11,30
-Barcelona - Sants,Good,2.1331,41.3788,0.0,Good,46.0,8,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,17.0,Good,35.0,11,16
-Barcelona - Eixample,Good,2.1538,41.3853,11.0,Good,72.0,11,15
-Barcelona - Sants,Good,2.1331,41.3788,9.0,Good,20.0,3,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,1.0,Good,62.0,5,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,18.0,Good,16.0,7,11
-Barcelona - Sants,Good,2.1331,41.3788,0.0,Good,61.0,12,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,12.0,Good,35.0,11,16
-Barcelona - Vall Hebron,Good,2.148,41.4261,,,,7,11
-Barcelona - Sants,Good,2.1331,41.3788,20.0,Good,31.0,11,23
-Barcelona - Poblenou,Good,2.2045,41.4039,0.0,Good,60.0,11,23
-Barcelona - Sants,Good,2.1331,41.3788,16.0,Good,36.0,8,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,13.0,Good,16.0,11,22
-Barcelona - Ciutadella,Good,2.1874,41.3864,17.0,Good,7.0,11,18
-Barcelona - Observ Fabra,Good,2.1239,41.4183,3.0,Good,6.0,7,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,5.0,Good,5.0,11,19
-Barcelona - Observ Fabra,Good,2.1239,41.4183,18.0,Good,18.0,11,30
-Barcelona - Gràcia,Good,2.1534,41.3987,1.0,Good,48.0,11,28
-Barcelona - Eixample,Good,2.1538,41.3853,0.0,Good,54.0,11,21
-Barcelona - Eixample,Good,2.1538,41.3853,4.0,Good,32.0,3,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,18.0,Good,16.0,11,27
-Barcelona - Eixample,Moderate,2.1538,41.3853,17.0,Good,50.0,11,30
-Barcelona - Gràcia,Good,2.1534,41.3987,9.0,Good,72.0,11,20
-Barcelona - Ciutadella,Good,2.1874,41.3864,10.0,Good,45.0,10,11
-Barcelona - Sants,Good,2.1331,41.3788,13.0,Good,74.0,11,23
-Barcelona - Eixample,Good,2.1538,41.3853,17.0,Good,46.0,4,11
-Barcelona - Gràcia,--,2.1534,41.3987,,,,4,11
-Barcelona - Poblenou,Good,2.2045,41.4039,21.0,Good,83.0,2,11
-Barcelona - Gràcia,Good,2.1534,41.3987,12.0,--,,11,27
-Barcelona - Eixample,Good,2.1538,41.3853,17.0,Good,37.0,1,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,4.0,Good,27.0,12,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,17.0,Good,58.0,11,28
-Barcelona - Palau Reial,Good,2.1151,41.3875,14.0,Good,5.0,3,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,15.0,Good,51.0,11,29
-Barcelona - Sants,Good,2.1331,41.3788,16.0,Good,20.0,11,27
-Barcelona - Sants,Good,2.1331,41.3788,15.0,Good,45.0,11,29
-Barcelona - Ciutadella,Good,2.1874,41.3864,4.0,Good,36.0,12,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,15.0,Good,24.0,9,11
-Barcelona - Poblenou,Good,2.2045,41.4039,23.0,Good,48.0,11,21
-Barcelona - Eixample,Good,2.1538,41.3853,13.0,Good,52.0,12,11
-Barcelona - Gràcia,Good,2.1534,41.3987,0.0,Good,58.0,8,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,0.0,Good,19.0,10,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,17.0,Good,37.0,11,21
-Barcelona - Palau Reial,Good,2.1151,41.3875,13.0,Good,13.0,11,30
-Barcelona - Observ Fabra,Good,2.1239,41.4183,20.0,Good,21.0,2,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,15.0,Good,14.0,4,11
-Barcelona - Poblenou,Good,2.2045,41.4039,17.0,Good,17.0,5,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,16.0,Good,17.0,11,14
-Barcelona - Gràcia,Good,2.1534,41.3987,18.0,Good,84.0,8,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,17.0,Good,14.0,11,27
-Barcelona - Vall Hebron,Good,2.148,41.4261,6.0,Good,31.0,6,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,11.0,Good,75.0,11,23
-Barcelona - Sants,Good,2.1331,41.3788,21.0,Good,73.0,11,27
-Barcelona - Eixample,Good,2.1538,41.3853,6.0,Good,48.0,11,20
-Barcelona - Observ Fabra,Good,2.1239,41.4183,20.0,Good,10.0,11,28
-Barcelona - Ciutadella,Good,2.1874,41.3864,14.0,Good,55.0,11,20
-Barcelona - Sants,--,2.1331,41.3788,13.0,--,,11,18
-Barcelona - Sants,Good,2.1331,41.3788,9.0,Good,62.0,11,22
-Barcelona - Ciutadella,Good,2.1874,41.3864,3.0,Good,23.0,11,16
-Barcelona - Eixample,Moderate,2.1538,41.3853,9.0,Moderate,96.0,11,20
-Barcelona - Observ Fabra,Good,2.1239,414183.0,6.0,Good,3.0,11,13
-Barcelona - Eixample,Good,2.1538,41.3853,8.0,Good,52.0,1,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,14.0,Good,27.0,11,16
-Barcelona - Vall Hebron,Good,2.148,41.4261,22.0,Good,26.0,12,11
-Barcelona - Gràcia,Good,2.1534,41.3987,12.0,Good,24.0,6,11
-Barcelona - Sants,Good,2.1331,41.3788,13.0,Good,20.0,11,14
-Barcelona - Eixample,Moderate,2.1538,413853.0,7.0,Good,62.0,11,13
-Barcelona - Vall Hebron,Good,2.148,41.4261,6.0,Good,12.0,11,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,13.0,Good,28.0,12,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,9.0,Good,50.0,11,19
-Barcelona - Observ Fabra,Good,2.1239,41.4183,9.0,Good,4.0,11,28
-Barcelona - Observ Fabra,Good,2.1239,41.4183,19.0,Good,9.0,10,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,7.0,Good,55.0,11,23
-Barcelona - Poblenou,Good,2.2045,41.4039,3.0,Good,47.0,11,29
-Barcelona - Poblenou,Good,2.2045,41.4039,9.0,Good,40.0,11,19
-Barcelona - Vall Hebron,Good,2.148,41.4261,0.0,Good,26.0,4,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,19.0,Good,17.0,5,11
-Barcelona - Eixample,Good,2.1538,41.3853,16.0,Good,33.0,1,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,2.0,Good,38.0,11,23
-Barcelona - Ciutadella,Good,2.1874,41.3864,14.0,Good,53.0,11,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,14.0,Good,52.0,9,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,20.0,Good,52.0,8,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,10.0,Good,7.0,1,11
-Barcelona - Gràcia,Good,2.1534,41.3987,4.0,Good,21.0,8,11
-Barcelona - Sants,Good,2.1331,41.3788,16.0,Good,32.0,11,20
-Barcelona - Eixample,Good,2.1538,41.3853,22.0,Good,62.0,3,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,0.0,Good,13.0,11,27
-Barcelona - Ciutadella,Good,2.1874,41.3864,1.0,Good,60.0,11,11
-Barcelona - Poblenou,Good,2.2045,414039.0,19.0,Good,24.0,11,13
-Barcelona - Observ Fabra,Good,2.1239,41.4183,21.0,Good,17.0,11,27
-Barcelona - Poblenou,Good,2.2045,41.4039,10.0,Good,58.0,11,28
-Barcelona - Eixample,Good,2.1538,41.3853,16.0,Good,54.0,11,19
-Barcelona - Poblenou,Good,2.2045,41.4039,15.0,Good,59.0,4,11
-Barcelona - Sants,Good,2.1331,41.3788,17.0,Good,15.0,10,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,17.0,Good,44.0,11,26
-Barcelona - Eixample,Moderate,2.1538,41.3853,20.0,Moderate,92.0,2,11
-Barcelona - Poblenou,Good,2.2045,41.4039,19.0,Good,17.0,5,11
-Barcelona - Gràcia,--,2.1534,41.3987,17.0,--,,11,17
-Barcelona - Ciutadella,Good,2.1874,41.3864,18.0,Good,23.0,12,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,12.0,Good,29.0,11,30
-Barcelona - Observ Fabra,Good,2.1239,41.4183,15.0,Good,5.0,3,11
-Barcelona - Ciutadella,Good,2.1874,413864.0,7.0,Good,39.0,11,13
-Barcelona - Palau Reial,Good,2.1151,41.3875,1.0,Good,6.0,4,11
-Barcelona - Gràcia,Good,2.1534,41.3987,3.0,Good,20.0,11,27
-Barcelona - Vall Hebron,Good,2.148,41.4261,21.0,Good,26.0,11,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,10.0,Good,17.0,11,27
-Barcelona - Poblenou,Good,2.2045,41.4039,3.0,Good,48.0,11,22
-Barcelona - Poblenou,--,2.2045,41.4039,1.0,--,,11,27
-Barcelona - Eixample,Moderate,2.1538,413853.0,6.0,Good,36.0,11,13
-Barcelona - Ciutadella,Good,2.1874,41.3864,15.0,Good,22.0,6,11
-Barcelona - Poblenou,Good,2.2045,41.4039,14.0,Good,56.0,11,29
-Barcelona - Eixample,Moderate,2.1538,413853.0,16.0,Good,48.0,11,13
-Barcelona - Eixample,Moderate,2.1538,413853.0,22.0,Good,74.0,11,13
-Barcelona - Poblenou,Good,2.2045,41.4039,10.0,Good,59.0,11,20
-Barcelona - Eixample,Good,2.1538,41.3853,4.0,Good,39.0,11,16
-Barcelona - Poblenou,Good,2.2045,41.4039,20.0,Good,52.0,6,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,10.0,Good,87.0,5,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,3.0,Good,6.0,3,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,22.0,Good,87.0,11,29
-Barcelona - Eixample,Good,2.1538,41.3853,13.0,Good,46.0,11,17
-Barcelona - Observ Fabra,Good,2.1239,41.4183,14.0,Good,17.0,11,17
-Barcelona - Poblenou,Good,2.2045,41.4039,3.0,Good,9.0,11,19
-Barcelona - Gràcia,Good,2.1534,41.3987,17.0,Good,42.0,11,26
-Barcelona - Ciutadella,Good,2.1874,41.3864,15.0,Good,35.0,11,11
-Barcelona - Sants,Good,2.1331,41.3788,0.0,Good,56.0,11,22
-Barcelona - Ciutadella,Good,2.1874,41.3864,19.0,Good,61.0,11,28
-Barcelona - Palau Reial,Good,2.1151,41.3875,6.0,Good,35.0,11,29
-Barcelona - Vall Hebron,Good,2.148,41.4261,7.0,Good,24.0,11,19
-Barcelona - Vall Hebron,Good,2.148,41.4261,9.0,Good,20.0,11,27
-Barcelona - Gràcia,--,2.1534,41.3987,15.0,--,,11,16
-Barcelona - Observ Fabra,Good,2.1239,41.4183,2.0,Good,8.0,8,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,22.0,Good,20.0,11,30
-Barcelona - Eixample,Good,2.1538,41.3853,4.0,Good,55.0,11,29
-Barcelona - Palau Reial,Good,2.1151,41.3875,,,,3,11
-Barcelona - Gràcia,Good,2.1534,41.3987,4.0,Good,50.0,11,22
-Barcelona - Gràcia,Good,2.1534,41.3987,3.0,Good,62.0,12,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,0.0,Good,58.0,9,11
-Barcelona - Gràcia,--,2.1534,41.3987,4.0,--,,11,16
-Barcelona - Vall Hebron,Good,2.148,41.4261,2.0,Good,58.0,11,30
-Barcelona - Palau Reial,Good,2.1151,41.3875,11.0,Good,22.0,11,27
-Barcelona - Sants,Good,2.1331,41.3788,21.0,Good,52.0,11,30
-Barcelona - Poblenou,Good,2.2045,41.4039,22.0,Good,51.0,11,17
-Barcelona - Observ Fabra,Good,2.1239,41.4183,1.0,Good,53.0,11,29
-Barcelona - Eixample,Good,2.1538,41.3853,21.0,Good,74.0,10,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,2.0,Good,25.0,3,11
-Barcelona - Poblenou,Good,2.2045,41.4039,21.0,Good,64.0,11,16
-Barcelona - Poblenou,Good,2.2045,41.4039,19.0,Good,86.0,4,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,12.0,Good,28.0,6,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,23.0,Good,35.0,11,14
-Barcelona - Vall Hebron,Good,2.148,41.4261,3.0,Good,13.0,11,24
-Barcelona - Ciutadella,Good,2.1874,41.3864,3.0,Good,24.0,11,20
-Barcelona - Eixample,Good,2.1538,41.3853,2.0,Good,51.0,11,25
-Barcelona - Sants,Good,2.1331,41.3788,21.0,Good,73.0,1,11
-Barcelona - Sants,Good,2.1331,41.3788,7.0,Good,25.0,11,30
-Barcelona - Vall Hebron,Good,2.148,41.4261,5.0,Good,23.0,3,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,23.0,Good,30.0,7,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,3.0,Good,17.0,10,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,14.0,Good,11.0,4,11
-Barcelona - Sants,Good,2.1331,41.3788,2.0,Good,9.0,11,21
-Barcelona - Eixample,Good,2.1538,41.3853,4.0,Good,61.0,7,11
-Barcelona - Eixample,Good,2.1538,41.3853,19.0,--,,11,22
-Barcelona - Vall Hebron,Good,2.148,41.4261,12.0,Good,43.0,11,26
-Barcelona - Poblenou,Good,2.2045,41.4039,15.0,Good,39.0,11,25
-Barcelona - Eixample,Good,2.1538,41.3853,5.0,Good,18.0,11,18
-Barcelona - Gràcia,Good,2.1534,41.3987,4.0,Good,15.0,11,25
-Barcelona - Vall Hebron,Good,2.148,41.4261,12.0,Good,20.0,11,27
-Barcelona - Sants,Good,2.1331,41.3788,10.0,Good,79.0,5,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,13.0,Good,13.0,11,18
-Barcelona - Sants,Good,2.1331,41.3788,12.0,Good,19.0,11,25
-Barcelona - Vall Hebron,Good,2.148,41.4261,14.0,Good,17.0,11,15
-Barcelona - Poblenou,Good,2.2045,41.4039,17.0,Good,25.0,11,16
-Barcelona - Observ Fabra,Good,2.1239,41.4183,0.0,Good,17.0,5,11
-Barcelona - Gràcia,Good,2.1534,41.3987,17.0,Good,39.0,9,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,17.0,Good,26.0,10,11
-Barcelona - Eixample,Good,2.1538,41.3853,7.0,Good,19.0,4,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,2.0,Good,30.0,11,17
-Barcelona - Palau Reial,Good,2.1151,41.3875,13.0,Good,13.0,11,14
-Barcelona - Sants,Good,2.1331,41.3788,8.0,Good,14.0,4,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,12.0,Good,22.0,11,18
-Barcelona - Ciutadella,Good,2.1874,41.3864,21.0,Good,32.0,11,14
-Barcelona - Palau Reial,Good,2.1151,41.3875,17.0,Good,28.0,7,11
-Barcelona - Sants,Good,2.1331,41.3788,21.0,Good,40.0,12,11
-Barcelona - Observ Fabra,Good,2.1239,414183.0,16.0,Good,11.0,11,13
-Barcelona - Vall Hebron,Good,2.148,41.4261,4.0,Good,10.0,11,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,22.0,Good,25.0,11,24
-Barcelona - Palau Reial,Good,2.1151,41.3875,10.0,Good,52.0,11,16
-Barcelona - Palau Reial,Good,2.1151,41.3875,10.0,Good,74.0,11,23
-Barcelona - Vall Hebron,Good,2.148,41.4261,7.0,Good,21.0,3,11
-Barcelona - Sants,Good,2.1331,41.3788,9.0,Good,61.0,12,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,4.0,Good,36.0,5,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,5.0,Good,4.0,11,19
-Barcelona - Palau Reial,Good,2.1151,41.3875,4.0,Good,35.0,11,29
-Barcelona - Vall Hebron,Good,2.148,41.4261,0.0,Good,25.0,11,16
-Barcelona - Palau Reial,Good,2.1151,41.3875,14.0,Good,5.0,2,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,8.0,Good,16.0,3,11
-Barcelona - Observ Fabra,Good,2.1239,414183.0,10.0,Good,9.0,11,13
-Barcelona - Eixample,Good,2.1538,41.3853,14.0,Good,71.0,8,11
-Barcelona - Poblenou,--,2.2045,41.4039,5.0,--,,11,27
-Barcelona - Gràcia,Good,2.1534,41.3987,9.0,Good,68.0,11,15
-Barcelona - Poblenou,Good,2.2045,41.4039,3.0,Good,22.0,11,25
-Barcelona - Ciutadella,Good,2.1874,41.3864,19.0,Good,19.0,11,25
-Barcelona - Palau Reial,Good,2.1151,41.3875,7.0,Good,37.0,11,29
-Barcelona - Sants,Good,2.1331,41.3788,3.0,Good,25.0,3,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,7.0,Good,34.0,1,11
-Barcelona - Gràcia,Good,2.1534,41.3987,6.0,Good,14.0,3,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,15.0,Good,16.0,10,11
-Barcelona - Eixample,Moderate,2.1538,41.3853,9.0,Moderate,101.0,8,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,3.0,Good,1.0,4,11
-Barcelona - Observ Fabra,Good,2.1239,414183.0,20.0,Good,12.0,11,13
-Barcelona - Poblenou,Good,2.2045,41.4039,13.0,Good,32.0,10,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,15.0,Good,15.0,11,15
-Barcelona - Poblenou,Good,2.2045,41.4039,18.0,--,,11,26
-Barcelona - Observ Fabra,Good,2.1239,41.4183,17.0,Good,10.0,12,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,2.0,Good,47.0,5,11
-Barcelona - Gràcia,Good,2.1534,41.3987,20.0,Good,56.0,5,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,1.0,Good,38.0,11,23
-Barcelona - Eixample,Good,2.1538,41.3853,0.0,Good,35.0,11,25
-Barcelona - Eixample,Moderate,2.1538,41.3853,1.0,Good,55.0,11,14
-Barcelona - Vall Hebron,Good,2.148,41.4261,8.0,Good,32.0,9,11
-Barcelona - Gràcia,Good,2.1534,41.3987,14.0,Good,28.0,11,11
-Barcelona - Sants,Good,2.1331,41.3788,23.0,Good,41.0,11,22
-Barcelona - Sants,--,2.1331,41.3788,17.0,--,,11,16
-Barcelona - Palau Reial,Good,2.1151,41.3875,2.0,Good,8.0,11,22
-Barcelona - Sants,Good,2.1331,41.3788,9.0,Good,51.0,11,30
-Barcelona - Vall Hebron,Good,2.148,41.4261,22.0,Good,18.0,6,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,11.0,Good,35.0,11,22
-Barcelona - Eixample,Good,2.1538,41.3853,3.0,Good,37.0,11,17
-Barcelona - Gràcia,Good,2.1534,41.3987,10.0,Good,46.0,7,11
-Barcelona - Gràcia,Good,2.1534,41.3987,5.0,Good,19.0,3,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,13.0,Good,11.0,11,15
-Barcelona - Gràcia,Good,2.1534,41.3987,17.0,Good,29.0,6,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,18.0,Good,39.0,11,28
-Barcelona - Ciutadella,Good,2.1874,41.3864,5.0,Good,32.0,12,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,9.0,Good,10.0,11,21
-Barcelona - Gràcia,Good,2.1534,41.3987,4.0,Good,19.0,3,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,0.0,Good,10.0,7,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,6.0,Good,16.0,7,11
-Barcelona - Eixample,Good,2.1538,41.3853,18.0,Good,86.0,8,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,17.0,Good,31.0,11,11
-Barcelona - Eixample,Good,2.1538,41.3853,10.0,Good,77.0,11,20
-Barcelona - Eixample,Good,2.1538,41.3853,8.0,Good,76.0,11,15
-Barcelona - Sants,Good,2.1331,41.3788,16.0,Good,39.0,11,28
-Barcelona - Vall Hebron,Good,2.148,41.4261,4.0,Good,17.0,11,18
-Barcelona - Observ Fabra,Good,2.1239,41.4183,12.0,Good,16.0,9,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,5.0,Good,55.0,11,22
-Barcelona - Gràcia,Good,2.1534,41.3987,12.0,Good,37.0,11,17
-Barcelona - Poblenou,Good,2.2045,41.4039,17.0,Good,46.0,7,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,17.0,Good,40.0,11,16
-Barcelona - Gràcia,Good,2.1534,41.3987,8.0,Good,44.0,11,24
-Barcelona - Vall Hebron,Good,2.148,41.4261,14.0,Good,50.0,11,20
-Barcelona - Eixample,Good,2.1538,41.3853,7.0,Good,47.0,10,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,3.0,Good,40.0,11,30
-Barcelona - Gràcia,Good,2.1534,41.3987,22.0,Good,57.0,11,11
-Barcelona - Gràcia,Good,2.1534,41.3987,20.0,--,,11,28
-Barcelona - Ciutadella,Good,2.1874,41.3864,11.0,Good,46.0,11,21
-Barcelona - Palau Reial,Good,2.1151,41.3875,11.0,Good,55.0,5,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,10.0,Good,60.0,11,20
-Barcelona - Vall Hebron,Good,2.148,41.4261,18.0,Good,46.0,11,16
-Barcelona - Observ Fabra,Good,2.1239,41.4183,13.0,Good,4.0,2,11
-Barcelona - Poblenou,Good,2.2045,41.4039,23.0,Good,74.0,11,22
-Barcelona - Gràcia,Good,2.1534,41.3987,10.0,Good,33.0,1,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,22.0,Good,52.0,11,26
-Barcelona - Observ Fabra,Good,2.1239,41.4183,22.0,Good,6.0,5,11
-Barcelona - Sants,Good,2.1331,41.3788,23.0,Good,11.0,11,19
-Barcelona - Eixample,Good,2.1538,41.3853,9.0,Good,51.0,11,27
-Barcelona - Ciutadella,Good,2.1874,41.3864,2.0,Good,55.0,11,23
-Barcelona - Ciutadella,Good,2.1874,41.3864,4.0,Good,52.0,11,23
-Barcelona - Sants,Good,2.1331,41.3788,20.0,Good,51.0,10,11
-Barcelona - Gràcia,Good,2.1534,41.3987,1.0,Good,72.0,5,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,15.0,Good,13.0,6,11
-Barcelona - Poblenou,Good,2.2045,41.4039,15.0,Good,56.0,11,29
-Barcelona - Palau Reial,Good,2.1151,41.3875,14.0,Good,10.0,6,11
-Barcelona - Gràcia,Good,2.1534,41.3987,18.0,Good,51.0,4,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,9.0,Good,13.0,10,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,15.0,Good,20.0,3,11
-Barcelona - Gràcia,Good,2.1534,41.3987,6.0,Good,19.0,1,11
-Barcelona - Eixample,Good,2.1538,41.3853,3.0,Good,22.0,11,27
-Barcelona - Poblenou,Good,2.2045,41.4039,9.0,Good,52.0,11,16
-Barcelona - Palau Reial,Good,2.1151,41.3875,10.0,Good,11.0,1,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,23.0,Good,72.0,11,23
-Barcelona - Poblenou,Good,2.2045,41.4039,18.0,Good,41.0,9,11
-Barcelona - Poblenou,Good,2.2045,41.4039,18.0,Good,25.0,12,11
-Barcelona - Ciutadella,Good,2.1874,413864.0,14.0,Good,12.0,11,13
-Barcelona - Eixample,Good,2.1538,41.3853,11.0,Good,78.0,11,23
-Barcelona - Eixample,Good,2.1538,41.3853,2.0,Good,23.0,11,27
-Barcelona - Ciutadella,Good,2.1874,41.3864,16.0,Good,10.0,11,17
-Barcelona - Sants,Good,2.1331,41.3788,14.0,Good,25.0,5,11
-Barcelona - Sants,Good,2.1331,41.3788,0.0,Good,25.0,10,11
-Barcelona - Vall Hebron,Good,2.148,414261.0,7.0,Good,30.0,11,13
-Barcelona - Gràcia,Good,2.1534,41.3987,21.0,Good,51.0,11,23
-Barcelona - Poblenou,Good,2.2045,41.4039,1.0,Good,57.0,9,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,18.0,Good,33.0,4,11
-Barcelona - Eixample,Good,2.1538,41.3853,4.0,Good,52.0,2,11
-Barcelona - Poblenou,Good,2.2045,414039.0,5.0,Good,26.0,11,13
-Barcelona - Palau Reial,Good,2.1151,41.3875,0.0,Good,16.0,7,11
-Barcelona - Eixample,Good,2.1538,41.3853,5.0,--,,11,22
-Barcelona - Eixample,Good,2.1538,41.3853,23.0,Good,82.0,11,28
-Barcelona - Ciutadella,Good,2.1874,41.3864,10.0,Good,61.0,11,27
-Barcelona - Poblenou,Good,2.2045,41.4039,4.0,Good,32.0,3,11
-Barcelona - Ciutadella,Good,2.1874,413864.0,21.0,Good,31.0,11,13
-Barcelona - Poblenou,Good,2.2045,41.4039,11.0,Good,46.0,10,11
-Barcelona - Gràcia,Good,2.1534,41.3987,4.0,Good,33.0,2,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,18.0,Good,50.0,9,11
-Barcelona - Poblenou,Good,2.2045,41.4039,5.0,Good,27.0,1,11
-Barcelona - Poblenou,Good,2.2045,41.4039,0.0,Good,69.0,11,11
-Barcelona - Sants,Good,2.1331,41.3788,14.0,Good,33.0,9,11
-Barcelona - Sants,Good,2.1331,41.3788,9.0,Good,16.0,11,18
-Barcelona - Palau Reial,Good,2.1151,41.3875,10.0,Good,28.0,2,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,17.0,Good,32.0,3,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,19.0,--,,11,15
-Barcelona - Palau Reial,Good,2.1151,41.3875,9.0,Good,91.0,11,22
-Barcelona - Palau Reial,Good,2.1151,41.3875,9.0,Good,44.0,7,11
-Barcelona - Gràcia,Moderate,2.1534,41.3987,9.0,Moderate,92.0,11,23
-Barcelona - Eixample,Good,2.1538,41.3853,1.0,Good,65.0,11,23
-Barcelona - Palau Reial,Good,2.1151,41.3875,8.0,Good,69.0,11,23
-Barcelona - Observ Fabra,Good,2.1239,41.4183,8.0,Good,4.0,11,18
-Barcelona - Poblenou,Good,2.2045,41.4039,0.0,Good,59.0,12,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,7.0,Good,57.0,11,29
-Barcelona - Ciutadella,Good,2.1874,41.3864,3.0,Good,33.0,8,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,0.0,Good,47.0,11,30
-Barcelona - Ciutadella,Good,2.1874,41.3864,17.0,Good,19.0,12,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,5.0,Good,13.0,11,20
-Barcelona - Observ Fabra,Good,2.1239,41.4183,17.0,Good,10.0,11,11
-Barcelona - Sants,Good,2.1331,413788.0,14.0,Good,22.0,11,13
-Barcelona - Vall Hebron,Good,2.148,41.4261,9.0,Good,60.0,11,14
-Barcelona - Palau Reial,Good,2.1151,41.3875,18.0,Good,14.0,11,17
-Barcelona - Ciutadella,--,2.1874,41.3864,,,,4,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,18.0,Good,53.0,11,15
-Barcelona - Observ Fabra,Good,2.1239,414183.0,11.0,Good,9.0,11,13
-Barcelona - Ciutadella,Good,2.1874,41.3864,19.0,Good,51.0,8,11
-Barcelona - Gràcia,Good,2.1534,41.3987,15.0,Good,23.0,11,24
-Barcelona - Poblenou,Good,2.2045,41.4039,6.0,Good,14.0,4,11
-Barcelona - Observ Fabra,Good,2.1239,414183.0,13.0,Good,11.0,11,13
-Barcelona - Sants,Good,2.1331,413788.0,18.0,Good,28.0,11,13
-Barcelona - Poblenou,Good,2.2045,41.4039,14.0,Good,58.0,11,23
-Barcelona - Poblenou,Good,2.2045,41.4039,,,,3,11
-Barcelona - Poblenou,Good,2.2045,41.4039,19.0,Good,8.0,11,18
-Barcelona - Palau Reial,Good,2.1151,41.3875,15.0,Good,22.0,5,11
-Barcelona - Gràcia,Good,2.1534,41.3987,9.0,Good,33.0,4,11
-Barcelona - Poblenou,Good,2.2045,41.4039,19.0,Good,28.0,12,11
-Barcelona - Eixample,Good,2.1538,41.3853,1.0,Good,77.0,9,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,8.0,Good,10.0,11,15
-Barcelona - Sants,Good,2.1331,41.3788,7.0,Good,32.0,11,11
-Barcelona - Sants,Good,2.1331,41.3788,12.0,Good,23.0,11,14
-Barcelona - Sants,Good,2.1331,41.3788,6.0,Good,32.0,11,20
-Barcelona - Poblenou,Good,2.2045,41.4039,7.0,Good,42.0,11,14
-Barcelona - Ciutadella,Good,2.1874,41.3864,23.0,Good,64.0,11,20
-Barcelona - Sants,Good,2.1331,41.3788,2.0,Good,37.0,11,23
-Barcelona - Vall Hebron,Good,2.148,41.4261,16.0,Good,30.0,11,28
-Barcelona - Ciutadella,Good,2.1874,41.3864,16.0,Good,20.0,12,11
-Barcelona - Sants,Good,2.1331,41.3788,7.0,Good,41.0,7,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,6.0,Good,3.0,3,11
-Barcelona - Sants,Good,2.1331,41.3788,7.0,Good,25.0,11,24
-Barcelona - Gràcia,Good,2.1534,41.3987,3.0,Good,62.0,5,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,19.0,Good,52.0,11,16
-Barcelona - Eixample,Good,2.1538,41.3853,23.0,Good,55.0,11,26
-Barcelona - Ciutadella,Good,2.1874,41.3864,19.0,Good,83.0,7,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,1.0,Good,17.0,11,14
-Barcelona - Vall Hebron,Good,2.148,41.4261,17.0,Good,12.0,11,25
-Barcelona - Poblenou,Good,2.2045,41.4039,5.0,Good,27.0,2,11
-Barcelona - Poblenou,Good,2.2045,41.4039,19.0,Good,46.0,9,11
-Barcelona - Eixample,Good,2.1538,41.3853,10.0,Good,60.0,11,25
-Barcelona - Gràcia,Good,2.1534,41.3987,18.0,Good,24.0,11,18
-Barcelona - Observ Fabra,Good,2.1239,41.4183,22.0,Good,6.0,11,24
-Barcelona - Observ Fabra,Good,2.1239,41.4183,5.0,Good,3.0,11,22
-Barcelona - Eixample,Good,2.1538,41.3853,8.0,Good,38.0,4,11
-Barcelona - Eixample,Moderate,2.1538,41.3853,23.0,Good,67.0,11,14
-Barcelona - Vall Hebron,Good,2.148,41.4261,21.0,Good,53.0,11,14
-Barcelona - Ciutadella,Good,2.1874,41.3864,15.0,Good,13.0,11,17
-Barcelona - Eixample,Moderate,2.1538,41.3853,,,,11,30
-Barcelona - Poblenou,Good,2.2045,41.4039,11.0,Good,69.0,11,22
-Barcelona - Sants,Good,2.1331,41.3788,23.0,Good,29.0,11,18
-Barcelona - Palau Reial,Good,2.1151,413875.0,17.0,Good,24.0,11,13
-Barcelona - Ciutadella,Good,2.1874,41.3864,17.0,Good,12.0,5,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,14.0,Good,12.0,10,11
-Barcelona - Palau Reial,Good,2.1151,413875.0,2.0,Good,11.0,11,13
-Barcelona - Palau Reial,Good,2.1151,41.3875,19.0,Good,30.0,11,23
-Barcelona - Eixample,Good,2.1538,41.3853,22.0,Good,24.0,11,18
-Barcelona - Poblenou,Good,2.2045,41.4039,2.0,Good,41.0,8,11
-Barcelona - Sants,Good,2.1331,41.3788,12.0,Good,15.0,3,11
-Barcelona - Poblenou,Good,2.2045,41.4039,9.0,Good,37.0,1,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,2.0,Good,9.0,2,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,16.0,Good,15.0,12,11
-Barcelona - Poblenou,Good,2.2045,41.4039,10.0,Good,46.0,11,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,8.0,Good,46.0,11,14
-Barcelona - Vall Hebron,Good,2.148,41.4261,14.0,Good,15.0,12,11
-Barcelona - Sants,Good,2.1331,41.3788,7.0,Good,38.0,2,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,0.0,Good,30.0,6,11
-Barcelona - Poblenou,Good,2.2045,41.4039,17.0,Good,9.0,11,18
-Barcelona - Observ Fabra,Good,2.1239,41.4183,16.0,Good,25.0,11,16
-Barcelona - Palau Reial,Good,2.1151,41.3875,6.0,Good,3.0,6,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,15.0,Good,47.0,8,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,1.0,Good,11.0,11,25
-Barcelona - Palau Reial,Good,2.1151,41.3875,1.0,Good,59.0,5,11
-Barcelona - Gràcia,Good,2.1534,41.3987,20.0,Good,83.0,11,21
-Barcelona - Ciutadella,Good,2.1874,41.3864,21.0,Good,36.0,11,26
-Barcelona - Gràcia,Good,2.1534,41.3987,1.0,Good,72.0,9,11
-Barcelona - Poblenou,Good,2.2045,41.4039,13.0,Good,20.0,12,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,9.0,Good,27.0,11,24
-Barcelona - Vall Hebron,Good,2.148,41.4261,13.0,Good,16.0,11,21
-Barcelona - Poblenou,Good,2.2045,41.4039,0.0,Good,56.0,3,11
-Barcelona - Sants,Good,2.1331,41.3788,9.0,Good,58.0,11,29
-Barcelona - Eixample,Good,2.1538,41.3853,13.0,--,,4,11
-Barcelona - Eixample,Good,2.1538,41.3853,4.0,Good,24.0,11,15
-Barcelona - Sants,Good,2.1331,41.3788,14.0,Good,14.0,11,24
-Barcelona - Ciutadella,Good,2.1874,41.3864,13.0,Good,41.0,11,27
-Barcelona - Gràcia,Good,2.1534,41.3987,12.0,Good,38.0,11,21
-Barcelona - Poblenou,Good,2.2045,41.4039,,,,7,11
-Barcelona - Gràcia,Good,2.1534,41.3987,15.0,Good,27.0,2,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,14.0,Good,15.0,11,28
-Barcelona - Ciutadella,Good,2.1874,41.3864,11.0,Good,25.0,11,19
-Barcelona - Vall Hebron,Good,2.148,41.4261,8.0,Good,11.0,11,11
-Barcelona - Sants,Good,2.1331,41.3788,23.0,Good,39.0,11,26
-Barcelona - Gràcia,Good,2.1534,41.3987,15.0,Good,36.0,11,22
-Barcelona - Poblenou,Good,2.2045,41.4039,9.0,Good,25.0,4,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,3.0,Good,19.0,11,17
-Barcelona - Ciutadella,Good,2.1874,41.3864,5.0,Good,23.0,6,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,14.0,Good,23.0,11,25
-Barcelona - Sants,Good,2.1331,41.3788,23.0,Good,43.0,11,14
-Barcelona - Sants,Good,2.1331,41.3788,18.0,Good,16.0,11,11
-Barcelona - Eixample,Good,2.1538,41.3853,12.0,Good,31.0,6,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,12.0,Good,22.0,11,17
-Barcelona - Ciutadella,Good,2.1874,41.3864,22.0,Good,40.0,5,11
-Barcelona - Poblenou,Good,2.2045,41.4039,1.0,Good,12.0,11,19
-Barcelona - Vall Hebron,Good,2.148,41.4261,5.0,Good,24.0,11,17
-Barcelona - Ciutadella,Good,2.1874,41.3864,6.0,Good,49.0,5,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,4.0,Good,13.0,11,17
-Barcelona - Ciutadella,Good,2.1874,41.3864,5.0,Good,32.0,11,20
-Barcelona - Observ Fabra,Good,2.1239,41.4183,14.0,Good,7.0,11,24
-Barcelona - Vall Hebron,Good,2.148,41.4261,7.0,Good,27.0,11,16
-Barcelona - Ciutadella,Good,2.1874,41.3864,9.0,Good,70.0,11,28
-Barcelona - Ciutadella,Good,2.1874,41.3864,10.0,Good,59.0,11,29
-Barcelona - Palau Reial,Good,2.1151,41.3875,15.0,Good,14.0,11,26
-Barcelona - Observ Fabra,Good,2.1239,41.4183,0.0,Good,5.0,11,25
-Barcelona - Ciutadella,Good,2.1874,41.3864,17.0,Good,13.0,11,20
-Barcelona - Sants,Good,2.1331,41.3788,13.0,Good,23.0,11,15
-Barcelona - Palau Reial,Good,2.1151,41.3875,11.0,Good,24.0,2,11
-Barcelona - Poblenou,Good,2.2045,41.4039,17.0,Good,18.0,1,11
-Barcelona - Sants,Good,2.1331,41.3788,21.0,Good,30.0,11,23
-Barcelona - Eixample,Good,2.1538,41.3853,12.0,Good,80.0,11,20
-Barcelona - Palau Reial,Good,2.1151,41.3875,13.0,Good,47.0,11,29
-Barcelona - Vall Hebron,Good,2.148,41.4261,5.0,Good,12.0,8,11
-Barcelona - Sants,Good,2.1331,41.3788,10.0,Good,17.0,11,24
-Barcelona - Observ Fabra,Good,2.1239,41.4183,10.0,Good,17.0,12,11
-Barcelona - Eixample,Good,2.1538,41.3853,10.0,Good,81.0,11,16
-Barcelona - Gràcia,Good,2.1534,41.3987,5.0,Good,24.0,11,17
-Barcelona - Sants,Good,2.1331,41.3788,6.0,Good,45.0,11,22
-Barcelona - Eixample,Good,2.1538,41.3853,16.0,Good,84.0,11,16
-Barcelona - Palau Reial,Good,2.1151,41.3875,1.0,Good,18.0,7,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,10.0,Good,11.0,11,25
-Barcelona - Sants,Good,2.1331,41.3788,22.0,Good,58.0,11,30
-Barcelona - Poblenou,Good,2.2045,41.4039,12.0,Good,39.0,11,11
-Barcelona - Sants,Good,2.1331,41.3788,22.0,Good,13.0,11,18
-Barcelona - Sants,Good,2.1331,41.3788,14.0,Good,19.0,11,15
-Barcelona - Poblenou,Good,2.2045,41.4039,22.0,Good,55.0,11,20
-Barcelona - Poblenou,Good,2.2045,41.4039,,,,1,11
-Barcelona - Gràcia,Good,2.1534,41.3987,6.0,Good,31.0,11,27
-Barcelona - Poblenou,Good,2.2045,41.4039,6.0,Good,37.0,11,14
-Barcelona - Gràcia,--,2.1534,41.3987,11.0,--,,9,11
-Barcelona - Sants,Good,2.1331,413788.0,5.0,Good,16.0,11,13
-Barcelona - Sants,Good,2.1331,41.3788,11.0,Good,32.0,11,27
-Barcelona - Sants,Good,2.1331,41.3788,0.0,Good,83.0,9,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,7.0,Good,3.0,11,22
-Barcelona - Gràcia,Good,2.1534,41.3987,17.0,Good,46.0,11,27
-Barcelona - Observ Fabra,Good,2.1239,41.4183,21.0,Good,8.0,11,28
-Barcelona - Eixample,Good,2.1538,41.3853,13.0,Good,33.0,3,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,18.0,Good,28.0,11,18
-Barcelona - Eixample,Good,2.1538,41.3853,11.0,Good,42.0,11,11
-Barcelona - Eixample,Moderate,2.1538,413853.0,21.0,Good,82.0,11,13
-Barcelona - Palau Reial,Good,2.1151,41.3875,19.0,Good,73.0,11,29
-Barcelona - Vall Hebron,Good,2.148,41.4261,15.0,Good,59.0,11,16
-Barcelona - Poblenou,Good,2.2045,41.4039,1.0,Good,6.0,11,15
-Barcelona - Gràcia,Good,2.1534,41.3987,17.0,Good,46.0,12,11
-Barcelona - Eixample,Good,2.1538,41.3853,19.0,Good,43.0,11,18
-Barcelona - Poblenou,Good,2.2045,41.4039,14.0,Good,28.0,11,25
-Barcelona - Vall Hebron,Good,2.148,41.4261,5.0,Good,14.0,11,21
-Barcelona - Gràcia,Good,2.1534,41.3987,18.0,Good,58.0,11,27
-Barcelona - Ciutadella,Good,2.1874,41.3864,1.0,Good,31.0,11,25
-Barcelona - Ciutadella,Good,2.1874,41.3864,19.0,Good,40.0,11,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,4.0,Good,4.0,8,11
-Barcelona - Sants,Good,2.1331,413788.0,7.0,Good,20.0,11,13
-Barcelona - Poblenou,Good,2.2045,41.4039,10.0,Good,21.0,3,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,8.0,Good,38.0,12,11
-Barcelona - Sants,Good,2.1331,41.3788,14.0,Good,25.0,11,25
-Barcelona - Palau Reial,Good,2.1151,41.3875,6.0,Good,22.0,11,28
-Barcelona - Gràcia,Good,2.1534,41.3987,3.0,Good,55.0,4,11
-Barcelona - Palau Reial,Good,2.1151,41.3875,1.0,Good,28.0,1,11
-Barcelona - Eixample,Moderate,2.1538,41.3853,4.0,Good,39.0,11,14
-Barcelona - Palau Reial,Good,2.1151,41.3875,22.0,Good,41.0,11,14
-Barcelona - Poblenou,Good,2.2045,41.4039,10.0,Good,70.0,5,11
-Barcelona - Eixample,Good,2.1538,41.3853,20.0,--,,11,15
-Barcelona - Eixample,Good,2.1538,41.3853,11.0,Good,76.0,2,11
-Barcelona - Eixample,Good,2.1538,41.3853,9.0,Good,65.0,11,22
-Barcelona - Gràcia,Good,2.1534,41.3987,22.0,Good,44.0,11,17
-Barcelona - Palau Reial,Good,2.1151,41.3875,13.0,Good,4.0,3,11
-Barcelona - Eixample,Good,2.1538,41.3853,11.0,Good,74.0,11,16
-Barcelona - Sants,Good,2.1331,41.3788,20.0,Good,74.0,11,22
-Barcelona - Vall Hebron,Good,2.148,41.4261,1.0,Good,32.0,11,17
-Barcelona - Gràcia,Good,2.1534,41.3987,17.0,Good,42.0,11,26
-Barcelona - Sants,Good,2.1331,41.3788,1.0,Good,12.0,11,19
-Barcelona - Poblenou,Good,2.2045,41.4039,20.0,Good,71.0,4,11
-Barcelona - Eixample,Good,2.1538,41.3853,9.0,Good,34.0,3,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,5.0,Good,33.0,8,11
-Barcelona - Sants,Good,2.1331,41.3788,15.0,Good,18.0,11,21
-Barcelona - Sants,Good,2.1331,41.3788,2.0,Good,14.0,11,19
-Barcelona - Palau Reial,Good,2.1151,41.3875,15.0,--,,8,11
-Barcelona - Ciutadella,Good,2.1874,41.3864,9.0,Good,68.0,11,23
-Barcelona - Palau Reial,Good,2.1151,41.3875,15.0,Good,18.0,11,15
-Barcelona - Vall Hebron,Good,2.148,414261.0,1.0,Good,26.0,11,13
-Barcelona - Poblenou,Good,2.2045,41.4039,18.0,Good,89.0,11,22
-Barcelona - Palau Reial,Good,2.1151,41.3875,12.0,Good,52.0,11,29
-Barcelona - Sants,Good,2.1331,41.3788,6.0,Good,21.0,11,21
-Barcelona - Poblenou,Good,2.2045,41.4039,18.0,Good,35.0,11,19
-Barcelona - Sants,Good,2.1331,41.3788,20.0,Good,68.0,11,28
-Barcelona - Sants,Good,2.1331,41.3788,13.0,Good,18.0,11,24
-Barcelona - Sants,Good,2.1331,41.3788,16.0,Good,17.0,11,17
-Barcelona - Vall Hebron,Good,2.148,41.4261,14.0,Good,11.0,10,11
-Barcelona - Sants,Good,2.1331,41.3788,8.0,Good,45.0,1,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,3.0,Good,11.0,6,11
-Barcelona - Observ Fabra,Good,2.1239,41.4183,8.0,Good,9.0,9,11
-Barcelona - Vall Hebron,Good,2.148,41.4261,19.0,Good,39.0,11,18
-Barcelona - Palau Reial,Good,2.1151,41.3875,20.0,Good,78.0,11,27
-Barcelona - Vall Hebron,Good,2.148,41.4261,9.0,Good,32.0,11,26
-Barcelona - Poblenou,Good,2.2045,41.4039,21.0,Good,44.0,11,23
-Barcelona - Vall Hebron,Good,2.148,41.4261,4.0,Good,10.0,11,14
-Barcelona - Sants,Good,2.1331,41.3788,13.0,Good,20.0,11,14
-Barcelona - Gràcia,Good,2.1534,41.3987,0.0,Good,38.0,11,25
-Barcelona - Ciutadella,Good,2.1874,41.3864,11.0,Good,50.0,7,11
-Barcelona - Gràcia,Good,2.1534,413987.0,13.0,Good,43.0,11,13
-Barcelona - Observ Fabra,Good,2.1239,41.4183,11.0,Good,4.0,11,22
-Barcelona - Eixample,Good,2.1538,41.3853,18.0,--,,11,22
-Barcelona - Poblenou,Good,2.2045,41.4039,4.0,Good,18.0,11,15
-Barcelona - Vall Hebron,Good,2.148,41.4261,15.0,Good,15.0,2,11
-Barcelona - Gràcia,Good,2.1534,41.3987,3.0,Good,52.0,11,29
-Barcelona - Ciutadella,Good,2.1874,41.3864,5.0,Good,53.0,11,23
-Barcelona - Observ Fabra,Good,2.1239,41.4183,3.0,Good,11.0,11,30
-Barcelona - Sants,Good,2.1331,41.3788,12.0,Good,15.0,11,18
-Barcelona - Poblenou,Good,2.2045,41.4039,14.0,Good,13.0,12,11
+Barcelona - Palau Reial,1,2.1151,41.3875,6.0,Good,38.0,11,23
+Barcelona - Ciutadella,1,2.1874,41.3864,21.0,Good,44.0,11,16
+Barcelona - Observ Fabra,1,2.1239,41.4183,6.0,Good,8.0,11,21
+Barcelona - Poblenou,1,2.2045,41.4039,0.0,Good,56.0,11,29
+Barcelona - Gràcia,1,2.1534,41.3987,19.0,Good,81.0,11,30
+Barcelona - Observ Fabra,1,2.1239,41.4183,1.0,Good,7.0,11,30
+Barcelona - Sants,1,2.1331,41.3788,4.0,Good,24.0,11,16
+Barcelona - Eixample,1,2.1538,41.3853,19.0,Good,87.0,8,11
+Barcelona - Gràcia,1,2.1534,41.3987,14.0,Good,57.0,11,30
+Barcelona - Palau Reial,1,2.1151,41.3875,20.0,Good,76.0,2,11
+Barcelona - Palau Reial,1,2.1151,41.3875,2.0,Good,16.0,8,11
+Barcelona - Gràcia,1,2.1534,41.3987,9.0,Good,72.0,11,20
+Barcelona - Observ Fabra,1,2.1239,41.4183,3.0,Good,5.0,11,15
+Barcelona - Eixample,1,2.1538,41.3853,8.0,Good,63.0,9,11
+Barcelona - Poblenou,0,2.2045,41.4039,12.0,--,,11,27
+Barcelona - Observ Fabra,1,2.1239,41.4183,6.0,Good,4.0,11,25
+Barcelona - Sants,1,2.1331,41.3788,1.0,Good,36.0,11,11
+Barcelona - Poblenou,1,2.2045,41.4039,17.0,Good,40.0,10,11
+Barcelona - Sants,1,2.1331,41.3788,22.0,Good,66.0,11,27
+Barcelona - Vall Hebron,1,2.148,41.4261,12.0,Good,21.0,6,11
+Barcelona - Palau Reial,1,2.1151,41.3875,20.0,Good,61.0,11,16
+Barcelona - Gràcia,1,2.1534,41.3987,12.0,Good,31.0,10,11
+Barcelona - Poblenou,1,2.2045,41.4039,13.0,Good,14.0,11,14
+Barcelona - Ciutadella,1,2.1874,41.3864,21.0,Good,65.0,11,30
+Barcelona - Sants,1,2.1331,41.3788,8.0,Good,38.0,11,15
+Barcelona - Ciutadella,1,2.1874,41.3864,6.0,Good,49.0,5,11
+Barcelona - Eixample,1,2.1538,41.3853,10.0,Good,58.0,11,17
+Barcelona - Gràcia,1,2.1534,41.3987,2.0,Good,27.0,1,11
+Barcelona - Vall Hebron,1,2.148,41.4261,19.0,Good,65.0,11,16
+Barcelona - Gràcia,1,2.1534,41.3987,1.0,Good,24.0,6,11
+Barcelona - Palau Reial,1,2.1151,41.3875,4.0,Good,9.0,11,25
+Barcelona - Gràcia,1,2.1534,41.3987,1.0,Good,48.0,11,20
+Barcelona - Palau Reial,1,2.1151,41.3875,19.0,Good,60.0,11,27
+Barcelona - Vall Hebron,1,2.148,41.4261,7.0,Good,25.0,11,17
+Barcelona - Observ Fabra,1,2.1239,41.4183,5.0,Good,17.0,11,29
+Barcelona - Ciutadella,1,2.1874,41.3864,13.0,Good,17.0,11,17
+Barcelona - Gràcia,1,2.1534,41.3987,18.0,Good,58.0,3,11
+Barcelona - Gràcia,1,2.1534,41.3987,9.0,Good,72.0,11,20
+Barcelona - Sants,1,2.1331,41.3788,7.0,Good,28.0,8,11
+Barcelona - Eixample,1,2.1538,41.3853,23.0,Good,40.0,10,11
+Barcelona - Poblenou,1,2.2045,41.4039,14.0,Good,35.0,11,28
+Barcelona - Vall Hebron,1,2.148,41.4261,1.0,Good,38.0,6,11
+Barcelona - Vall Hebron,1,2.148,41.4261,4.0,Good,46.0,12,11
+Barcelona - Palau Reial,1,2.1151,41.3875,8.0,Good,50.0,12,11
+Barcelona - Sants,1,2.1331,41.3788,11.0,Good,29.0,10,11
+Barcelona - Ciutadella,1,2.1874,413864.0,9.0,Good,75.0,11,13
+Barcelona - Ciutadella,1,2.1874,41.3864,15.0,Good,15.0,11,19
+Barcelona - Vall Hebron,1,2.148,41.4261,10.0,Good,66.0,11,29
+Barcelona - Observ Fabra,1,2.1239,41.4183,9.0,Good,13.0,12,11
+Barcelona - Ciutadella,1,2.1874,41.3864,23.0,Good,31.0,6,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,2.0,Good,9.0,11,27
+Barcelona - Sants,1,2.1331,41.3788,0.0,Good,77.0,9,11
+Barcelona - Sants,1,2.1331,41.3788,14.0,Good,25.0,11,17
+Barcelona - Ciutadella,1,2.1874,41.3864,7.0,Good,58.0,7,11
+Barcelona - Sants,0,2.1331,41.3788,14.0,--,,11,14
+Barcelona - Eixample,1,2.1538,41.3853,9.0,Good,88.0,11,15
+Barcelona - Eixample,1,2.1538,41.3853,5.0,--,,11,17
+Barcelona - Palau Reial,1,2.1151,41.3875,14.0,Good,13.0,11,14
+Barcelona - Eixample,1,2.1538,41.3853,13.0,Good,47.0,2,11
+Barcelona - Palau Reial,1,2.1151,41.3875,18.0,Good,33.0,11,26
+Barcelona - Palau Reial,1,2.1151,41.3875,14.0,Good,48.0,11,20
+Barcelona - Observ Fabra,1,2.1239,41.4183,9.0,Good,7.0,11,18
+Barcelona - Ciutadella,1,2.1874,41.3864,19.0,Good,61.0,2,11
+Barcelona - Vall Hebron,1,2.148,41.4261,21.0,Good,32.0,7,11
+Barcelona - Eixample,1,2.1538,41.3853,18.0,Good,73.0,7,11
+Barcelona - Eixample,1,2.1538,41.3853,11.0,Good,33.0,3,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,17.0,Good,8.0,6,11
+Barcelona - Palau Reial,1,2.1151,41.3875,12.0,Good,9.0,11,18
+Barcelona - Palau Reial,1,2.1151,41.3875,11.0,Good,20.0,11,11
+Barcelona - Ciutadella,1,2.1874,41.3864,20.0,Good,24.0,11,25
+Barcelona - Palau Reial,1,2.1151,41.3875,16.0,Good,12.0,11,14
+Barcelona - Observ Fabra,1,2.1239,41.4183,2.0,Good,7.0,11,18
+Barcelona - Ciutadella,1,2.1874,41.3864,23.0,Good,47.0,11,30
+Barcelona - Vall Hebron,1,2.148,41.4261,9.0,Good,68.0,8,11
+Barcelona - Ciutadella,1,2.1874,41.3864,6.0,Good,13.0,11,15
+Barcelona - Observ Fabra,1,2.1239,41.4183,17.0,Good,12.0,11,19
+Barcelona - Palau Reial,1,2.1151,41.3875,12.0,Good,17.0,11,14
+Barcelona - Observ Fabra,1,2.1239,41.4183,9.0,Good,7.0,11,30
+Barcelona - Observ Fabra,1,2.1239,41.4183,2.0,Good,6.0,10,11
+Barcelona - Gràcia,1,2.1534,41.3987,23.0,Good,72.0,11,28
+Barcelona - Ciutadella,1,2.1874,41.3864,8.0,Good,50.0,11,24
+Barcelona - Eixample,1,2.1538,41.3853,12.0,Good,60.0,11,15
+Barcelona - Vall Hebron,1,2.148,41.4261,12.0,Good,21.0,11,15
+Barcelona - Vall Hebron,1,2.148,41.4261,17.0,Good,16.0,11,17
+Barcelona - Poblenou,1,2.2045,41.4039,11.0,Good,38.0,11,28
+Barcelona - Ciutadella,1,2.1874,41.3864,3.0,Good,17.0,11,17
+Barcelona - Palau Reial,0,2.1151,41.3875,20.0,--,,8,11
+Barcelona - Eixample,1,2.1538,41.3853,14.0,Good,36.0,2,11
+Barcelona - Ciutadella,1,2.1874,41.3864,16.0,Good,40.0,11,22
+Barcelona - Ciutadella,1,2.1874,41.3864,15.0,Good,11.0,1,11
+Barcelona - Gràcia,1,2.1534,41.3987,16.0,Good,20.0,11,11
+Barcelona - Ciutadella,1,2.1874,41.3864,9.0,Good,12.0,11,18
+Barcelona - Palau Reial,1,2.1151,41.3875,13.0,Good,14.0,11,27
+Barcelona - Palau Reial,1,2.1151,41.3875,21.0,Good,41.0,11,15
+Barcelona - Gràcia,1,2.1534,413987.0,13.0,Good,43.0,11,13
+Barcelona - Observ Fabra,1,2.1239,41.4183,4.0,Good,4.0,3,11
+Barcelona - Poblenou,1,2.2045,41.4039,21.0,Good,56.0,6,11
+Barcelona - Eixample,1,2.1538,41.3853,4.0,--,,11,17
+Barcelona - Gràcia,1,2.1534,41.3987,8.0,Good,69.0,11,16
+Barcelona - Vall Hebron,1,2.148,41.4261,20.0,Good,29.0,11,24
+Barcelona - Ciutadella,1,2.1874,41.3864,17.0,Good,43.0,7,11
+Barcelona - Eixample,1,2.1538,41.3853,21.0,Good,77.0,11,21
+Barcelona - Vall Hebron,1,2.148,41.4261,14.0,Good,21.0,11,22
+Barcelona - Vall Hebron,1,2.148,41.4261,0.0,Good,19.0,11,19
+Barcelona - Vall Hebron,1,2.148,41.4261,5.0,Good,28.0,6,11
+Barcelona - Sants,1,2.1331,41.3788,8.0,Good,12.0,11,18
+Barcelona - Gràcia,1,2.1534,41.3987,3.0,Good,13.0,11,18
+Barcelona - Observ Fabra,1,2.1239,41.4183,14.0,Good,24.0,11,30
+Barcelona - Poblenou,1,2.2045,41.4039,1.0,Good,41.0,11,26
+Barcelona - Vall Hebron,1,2.148,41.4261,11.0,Good,21.0,11,25
+Barcelona - Eixample,1,2.1538,41.3853,20.0,Good,49.0,3,11
+Barcelona - Palau Reial,1,2.1151,41.3875,21.0,Good,19.0,9,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,20.0,Good,7.0,11,25
+Barcelona - Eixample,1,2.1538,41.3853,9.0,Good,88.0,11,29
+Barcelona - Sants,1,2.1331,41.3788,10.0,Good,40.0,6,11
+Barcelona - Gràcia,1,2.1534,41.3987,6.0,Good,16.0,11,19
+Barcelona - Poblenou,1,2.2045,41.4039,16.0,Good,26.0,11,25
+Barcelona - Sants,1,2.1331,41.3788,13.0,Good,24.0,11,21
+Barcelona - Palau Reial,1,2.1151,41.3875,6.0,Good,5.0,11,18
+Barcelona - Observ Fabra,1,2.1239,41.4183,5.0,Good,9.0,10,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,4.0,Good,8.0,6,11
+Barcelona - Ciutadella,1,2.1874,41.3864,21.0,Good,59.0,11,28
+Barcelona - Poblenou,1,2.2045,414039.0,22.0,Good,42.0,11,13
+Barcelona - Palau Reial,1,2.1151,41.3875,13.0,Good,14.0,11,28
+Barcelona - Sants,1,2.1331,41.3788,5.0,Good,18.0,8,11
+Barcelona - Gràcia,0,2.1534,41.3987,4.0,--,,7,11
+Barcelona - Vall Hebron,1,2.148,41.4261,10.0,Good,63.0,12,11
+Barcelona - Vall Hebron,1,2.148,41.4261,14.0,Good,36.0,11,30
+Barcelona - Gràcia,1,2.1534,41.3987,16.0,Good,21.0,11,17
+Barcelona - Observ Fabra,1,2.1239,41.4183,9.0,Good,8.0,11,29
+Barcelona - Observ Fabra,1,2.1239,41.4183,13.0,Good,9.0,11,21
+Barcelona - Ciutadella,1,2.1874,41.3864,4.0,Good,13.0,10,11
+Barcelona - Ciutadella,1,2.1874,41.3864,9.0,Good,61.0,11,21
+Barcelona - Ciutadella,1,2.1874,41.3864,8.0,Good,65.0,7,11
+Barcelona - Ciutadella,1,2.1874,41.3864,4.0,Good,28.0,2,11
+Barcelona - Poblenou,1,2.2045,41.4039,17.0,Good,71.0,4,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,17.0,Good,28.0,11,16
+Barcelona - Sants,1,2.1331,41.3788,11.0,Good,65.0,5,11
+Barcelona - Poblenou,1,2.2045,41.4039,14.0,Good,21.0,6,11
+Barcelona - Sants,1,2.1331,41.3788,2.0,Good,19.0,11,26
+Barcelona - Poblenou,1,2.2045,41.4039,1.0,Good,55.0,11,22
+Barcelona - Observ Fabra,1,2.1239,41.4183,20.0,Good,14.0,5,11
+Barcelona - Sants,1,2.1331,41.3788,17.0,Good,18.0,6,11
+Barcelona - Palau Reial,1,2.1151,41.3875,12.0,Good,18.0,4,11
+Barcelona - Eixample,1,2.1538,41.3853,22.0,Good,53.0,11,26
+Barcelona - Poblenou,1,2.2045,41.4039,12.0,Good,52.0,8,11
+Barcelona - Poblenou,1,2.2045,41.4039,17.0,Good,35.0,2,11
+Barcelona - Ciutadella,1,2.1874,41.3864,11.0,Good,57.0,11,27
+Barcelona - Observ Fabra,1,2.1239,41.4183,7.0,Good,8.0,6,11
+Barcelona - Palau Reial,1,2.1151,41.3875,18.0,Good,32.0,11,14
+Barcelona - Ciutadella,1,2.1874,41.3864,0.0,Good,18.0,11,18
+Barcelona - Poblenou,1,2.2045,41.4039,10.0,Good,22.0,11,18
+Barcelona - Eixample,1,2.1538,41.3853,0.0,Good,85.0,11,17
+Barcelona - Sants,1,2.1331,41.3788,10.0,Good,29.0,11,17
+Barcelona - Gràcia,1,2.1534,41.3987,1.0,Good,52.0,3,11
+Barcelona - Poblenou,1,2.2045,41.4039,12.0,Good,22.0,6,11
+Barcelona - Ciutadella,1,2.1874,41.3864,23.0,Good,21.0,11,17
+Barcelona - Vall Hebron,1,2.148,41.4261,0.0,Good,55.0,3,11
+Barcelona - Gràcia,1,2.1534,41.3987,12.0,Good,26.0,11,25
+Barcelona - Vall Hebron,1,2.148,41.4261,18.0,Good,25.0,11,26
+Barcelona - Poblenou,1,2.2045,414039.0,21.0,Good,41.0,11,13
+Barcelona - Vall Hebron,1,2.148,41.4261,18.0,Good,69.0,8,11
+Barcelona - Gràcia,1,2.1534,41.3987,4.0,Good,25.0,11,24
+Barcelona - Palau Reial,1,2.1151,41.3875,19.0,Good,18.0,9,11
+Barcelona - Poblenou,1,2.2045,41.4039,13.0,Good,27.0,8,11
+Barcelona - Ciutadella,1,2.1874,41.3864,1.0,Good,52.0,8,11
+Barcelona - Eixample,1,2.1538,41.3853,17.0,Good,29.0,11,25
+Barcelona - Palau Reial,1,2.1151,41.3875,20.0,Good,78.0,7,11
+Barcelona - Ciutadella,1,2.1874,41.3864,8.0,Good,62.0,11,25
+Barcelona - Observ Fabra,1,2.1239,41.4183,16.0,Good,3.0,1,11
+Barcelona - Vall Hebron,1,2.148,41.4261,5.0,Good,28.0,12,11
+Barcelona - Ciutadella,1,2.1874,41.3864,1.0,Good,36.0,11,30
+Barcelona - Sants,1,2.1331,41.3788,5.0,Good,21.0,4,11
+Barcelona - Gràcia,1,2.1534,41.3987,1.0,Good,27.0,11,25
+Barcelona - Gràcia,1,2.1534,413987.0,10.0,Good,65.0,11,13
+Barcelona - Poblenou,1,2.2045,41.4039,2.0,Good,50.0,11,28
+Barcelona - Vall Hebron,1,2.148,41.4261,12.0,Good,37.0,11,29
+Barcelona - Vall Hebron,1,2.148,41.4261,15.0,Good,24.0,11,28
+Barcelona - Vall Hebron,1,2.148,41.4261,15.0,Good,23.0,11,25
+Barcelona - Gràcia,1,2.1534,41.3987,17.0,Good,21.0,1,11
+Barcelona - Ciutadella,1,2.1874,41.3864,22.0,Good,30.0,11,14
+Barcelona - Gràcia,1,2.1534,41.3987,8.0,Good,80.0,11,23
+Barcelona - Ciutadella,1,2.1874,41.3864,22.0,Good,57.0,11,30
+Barcelona - Gràcia,0,2.1534,41.3987,9.0,Moderate,97.0,5,11
+Barcelona - Palau Reial,1,2.1151,41.3875,13.0,Good,11.0,11,22
+Barcelona - Ciutadella,1,2.1874,41.3864,1.0,Good,56.0,1,11
+Barcelona - Poblenou,1,2.2045,41.4039,2.0,Good,49.0,12,11
+Barcelona - Vall Hebron,1,2.148,41.4261,17.0,Good,39.0,11,22
+Barcelona - Ciutadella,1,2.1874,41.3864,6.0,Good,46.0,4,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,5.0,Good,1.0,4,11
+Barcelona - Eixample,1,2.1538,41.3853,3.0,--,,9,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,4.0,Good,26.0,5,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,14.0,Good,17.0,9,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,17.0,Good,8.0,11,18
+Barcelona - Gràcia,1,2.1534,41.3987,9.0,Good,71.0,8,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,17.0,Good,13.0,11,23
+Barcelona - Ciutadella,1,2.1874,41.3864,9.0,Good,39.0,10,11
+Barcelona - Sants,1,2.1331,41.3788,6.0,Good,26.0,11,27
+Barcelona - Palau Reial,1,2.1151,41.3875,19.0,Good,74.0,11,21
+Barcelona - Palau Reial,1,2.1151,41.3875,18.0,Good,43.0,2,11
+Barcelona - Vall Hebron,1,2.148,41.4261,17.0,Good,20.0,9,11
+Barcelona - Palau Reial,1,2.1151,41.3875,3.0,Good,6.0,11,25
+Barcelona - Vall Hebron,1,2.148,41.4261,14.0,--,,11,21
+Barcelona - Ciutadella,1,2.1874,41.3864,17.0,Good,9.0,11,17
+Barcelona - Ciutadella,1,2.1874,41.3864,2.0,Good,15.0,11,15
+Barcelona - Ciutadella,1,2.1874,41.3864,12.0,Good,40.0,11,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,13.0,Good,2.0,4,11
+Barcelona - Palau Reial,1,2.1151,41.3875,5.0,Good,11.0,11,17
+Barcelona - Ciutadella,1,2.1874,41.3864,21.0,Good,45.0,8,11
+Barcelona - Eixample,1,2.1538,41.3853,16.0,--,,11,24
+Barcelona - Gràcia,1,2.1534,41.3987,22.0,Good,49.0,11,24
+Barcelona - Observ Fabra,1,2.1239,41.4183,21.0,Good,11.0,6,11
+Barcelona - Gràcia,1,2.1534,41.3987,5.0,Good,45.0,11,29
+Barcelona - Poblenou,1,2.2045,41.4039,10.0,Good,45.0,11,24
+Barcelona - Palau Reial,1,2.1151,41.3875,0.0,Good,20.0,8,11
+Barcelona - Sants,1,2.1331,41.3788,2.0,Good,30.0,11,16
+Barcelona - Observ Fabra,1,2.1239,41.4183,9.0,Good,3.0,11,22
+Barcelona - Observ Fabra,1,2.1239,41.4183,14.0,Good,15.0,11,19
+Barcelona - Vall Hebron,1,2.148,41.4261,18.0,Good,36.0,11,23
+Barcelona - Gràcia,1,2.1534,41.3987,3.0,Good,66.0,11,30
+Barcelona - Palau Reial,1,2.1151,41.3875,8.0,Good,21.0,11,30
+Barcelona - Palau Reial,1,2.1151,41.3875,2.0,Good,12.0,11,16
+Barcelona - Vall Hebron,1,2.148,41.4261,20.0,Good,60.0,11,28
+Barcelona - Observ Fabra,1,2.1239,41.4183,,,,11,16
+Barcelona - Gràcia,1,2.1534,41.3987,18.0,Good,82.0,11,22
+Barcelona - Poblenou,1,2.2045,41.4039,15.0,Good,42.0,11,30
+Barcelona - Palau Reial,1,2.1151,41.3875,4.0,Good,17.0,11,24
+Barcelona - Sants,1,2.1331,41.3788,10.0,Good,35.0,11,15
+Barcelona - Ciutadella,1,2.1874,41.3864,11.0,Good,28.0,11,24
+Barcelona - Observ Fabra,1,2.1239,41.4183,22.0,Good,13.0,1,11
+Barcelona - Ciutadella,1,2.1874,41.3864,1.0,Good,40.0,2,11
+Barcelona - Palau Reial,1,2.1151,41.3875,12.0,Good,26.0,11,15
+Barcelona - Poblenou,1,2.2045,41.4039,5.0,Good,16.0,10,11
+Barcelona - Poblenou,1,2.2045,41.4039,17.0,Good,25.0,12,11
+Barcelona - Gràcia,1,2.1534,41.3987,6.0,Good,10.0,9,11
+Barcelona - Poblenou,1,2.2045,41.4039,11.0,Good,35.0,11,14
+Barcelona - Observ Fabra,1,2.1239,41.4183,3.0,Good,8.0,11,11
+Barcelona - Poblenou,1,2.2045,41.4039,9.0,Good,53.0,6,11
+Barcelona - Palau Reial,1,2.1151,41.3875,13.0,Good,22.0,9,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,21.0,Good,8.0,5,11
+Barcelona - Vall Hebron,1,2.148,41.4261,5.0,Good,13.0,11,22
+Barcelona - Vall Hebron,1,2.148,41.4261,16.0,Good,15.0,11,27
+Barcelona - Eixample,1,2.1538,41.3853,21.0,Good,88.0,2,11
+Barcelona - Eixample,1,2.1538,41.3853,4.0,Good,17.0,11,26
+Barcelona - Gràcia,1,2.1534,41.3987,2.0,Good,54.0,11,23
+Barcelona - Gràcia,1,2.1534,41.3987,6.0,Good,40.0,2,11
+Barcelona - Ciutadella,1,2.1874,41.3864,5.0,Good,26.0,11,14
+Barcelona - Ciutadella,1,2.1874,41.3864,4.0,Good,46.0,11,22
+Barcelona - Palau Reial,1,2.1151,413875.0,6.0,Good,6.0,11,13
+Barcelona - Gràcia,1,2.1534,41.3987,0.0,Good,41.0,11,24
+Barcelona - Palau Reial,1,2.1151,41.3875,1.0,Good,8.0,11,19
+Barcelona - Sants,1,2.1331,41.3788,2.0,Good,61.0,9,11
+Barcelona - Ciutadella,1,2.1874,41.3864,2.0,Good,27.0,11,20
+Barcelona - Palau Reial,1,2.1151,41.3875,10.0,Good,49.0,8,11
+Barcelona - Gràcia,1,2.1534,41.3987,18.0,Good,57.0,11,23
+Barcelona - Ciutadella,1,2.1874,41.3864,18.0,Good,26.0,11,15
+Barcelona - Palau Reial,1,2.1151,41.3875,19.0,Good,43.0,3,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,0.0,Good,9.0,11,16
+Barcelona - Poblenou,1,2.2045,41.4039,11.0,Good,13.0,11,18
+Barcelona - Observ Fabra,1,2.1239,41.4183,17.0,Good,21.0,11,30
+Barcelona - Vall Hebron,1,2.148,41.4261,17.0,Good,20.0,10,11
+Barcelona - Sants,1,2.1331,41.3788,11.0,Good,17.0,11,24
+Barcelona - Ciutadella,0,2.1874,41.3864,4.0,--,,9,11
+Barcelona - Palau Reial,1,2.1151,41.3875,0.0,Good,22.0,4,11
+Barcelona - Gràcia,1,2.1534,41.3987,14.0,Good,24.0,11,24
+Barcelona - Sants,1,2.1331,41.3788,18.0,Good,66.0,11,28
+Barcelona - Sants,1,2.1331,41.3788,17.0,Good,51.0,11,22
+Barcelona - Sants,1,2.1331,41.3788,1.0,Good,46.0,1,11
+Barcelona - Ciutadella,1,2.1874,41.3864,19.0,Good,20.0,11,14
+Barcelona - Observ Fabra,1,2.1239,41.4183,8.0,Good,2.0,3,11
+Barcelona - Palau Reial,1,2.1151,41.3875,12.0,Good,40.0,11,26
+Barcelona - Ciutadella,1,2.1874,41.3864,1.0,Good,53.0,4,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,6.0,Good,7.0,11,19
+Barcelona - Observ Fabra,1,2.1239,41.4183,11.0,Good,17.0,11,20
+Barcelona - Palau Reial,1,2.1151,41.3875,0.0,Good,9.0,11,11
+Barcelona - Eixample,1,2.1538,41.3853,8.0,Good,43.0,11,27
+Barcelona - Ciutadella,1,2.1874,41.3864,2.0,Good,26.0,10,11
+Barcelona - Ciutadella,1,2.1874,41.3864,20.0,Good,42.0,11,15
+Barcelona - Gràcia,0,2.1534,41.3987,15.0,--,,11,21
+Barcelona - Sants,0,2.1331,41.3788,0.0,--,,7,11
+Barcelona - Vall Hebron,1,2.148,41.4261,6.0,Good,21.0,3,11
+Barcelona - Gràcia,1,2.1534,41.3987,10.0,Good,58.0,11,30
+Barcelona - Poblenou,1,2.2045,414039.0,12.0,Good,16.0,11,13
+Barcelona - Poblenou,1,2.2045,41.4039,16.0,Good,15.0,11,14
+Barcelona - Gràcia,1,2.1534,41.3987,18.0,Good,45.0,11,19
+Barcelona - Ciutadella,1,2.1874,41.3864,2.0,Good,46.0,3,11
+Barcelona - Eixample,1,2.1538,41.3853,9.0,Good,65.0,11,25
+Barcelona - Sants,0,2.1331,41.3788,16.0,--,,11,14
+Barcelona - Observ Fabra,1,2.1239,41.4183,21.0,Good,16.0,11,20
+Barcelona - Eixample,0,2.1538,41.3853,16.0,Good,47.0,11,30
+Barcelona - Gràcia,1,2.1534,41.3987,4.0,Good,11.0,11,26
+Barcelona - Sants,1,2.1331,41.3788,15.0,Good,16.0,11,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,8.0,Good,5.0,11,17
+Barcelona - Vall Hebron,1,2.148,41.4261,6.0,Good,19.0,11,16
+Barcelona - Vall Hebron,1,2.148,41.4261,20.0,Good,43.0,7,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,6.0,Good,11.0,11,20
+Barcelona - Observ Fabra,1,2.1239,41.4183,19.0,Good,10.0,6,11
+Barcelona - Vall Hebron,1,2.148,41.4261,0.0,Good,70.0,9,11
+Barcelona - Poblenou,1,2.2045,41.4039,12.0,Good,62.0,11,29
+Barcelona - Ciutadella,1,2.1874,41.3864,20.0,Good,79.0,11,29
+Barcelona - Ciutadella,1,2.1874,41.3864,0.0,Good,43.0,11,16
+Barcelona - Ciutadella,1,2.1874,41.3864,15.0,Good,38.0,2,11
+Barcelona - Vall Hebron,1,2.148,41.4261,2.0,Good,13.0,11,25
+Barcelona - Ciutadella,1,2.1874,41.3864,14.0,Good,41.0,11,30
+Barcelona - Eixample,1,2.1538,41.3853,0.0,Good,39.0,11,15
+Barcelona - Palau Reial,1,2.1151,41.3875,13.0,Good,11.0,11,24
+Barcelona - Sants,1,2.1331,41.3788,10.0,Good,60.0,11,20
+Barcelona - Sants,1,2.1331,41.3788,18.0,Good,20.0,11,17
+Barcelona - Sants,1,2.1331,41.3788,21.0,Good,38.0,11,11
+Barcelona - Vall Hebron,1,2.148,41.4261,9.0,Good,13.0,3,11
+Barcelona - Vall Hebron,1,2.148,41.4261,0.0,Good,24.0,11,22
+Barcelona - Poblenou,1,2.2045,41.4039,23.0,Good,30.0,6,11
+Barcelona - Vall Hebron,1,2.148,41.4261,8.0,Good,43.0,11,19
+Barcelona - Vall Hebron,1,2.148,41.4261,23.0,Good,45.0,11,26
+Barcelona - Sants,1,2.1331,41.3788,16.0,Good,19.0,11,26
+Barcelona - Ciutadella,1,2.1874,41.3864,2.0,Good,54.0,11,24
+Barcelona - Gràcia,1,2.1534,41.3987,6.0,Good,19.0,11,26
+Barcelona - Observ Fabra,1,2.1239,41.4183,8.0,Good,15.0,10,11
+Barcelona - Sants,1,2.1331,41.3788,16.0,Good,16.0,7,11
+Barcelona - Gràcia,0,2.1534,41.3987,1.0,--,,11,14
+Barcelona - Palau Reial,1,2.1151,41.3875,14.0,Good,48.0,11,20
+Barcelona - Gràcia,1,2.1534,41.3987,0.0,Good,72.0,5,11
+Barcelona - Vall Hebron,1,2.148,41.4261,5.0,Good,41.0,11,30
+Barcelona - Gràcia,1,2.1534,41.3987,18.0,Good,71.0,11,21
+Barcelona - Observ Fabra,1,2.1239,41.4183,23.0,Good,6.0,11,19
+Barcelona - Eixample,0,2.1538,413853.0,1.0,Good,42.0,11,13
+Barcelona - Ciutadella,1,2.1874,41.3864,4.0,Good,43.0,11,11
+Barcelona - Ciutadella,1,2.1874,41.3864,0.0,Good,53.0,8,11
+Barcelona - Sants,1,2.1331,41.3788,0.0,Good,38.0,11,26
+Barcelona - Observ Fabra,1,2.1239,41.4183,1.0,Good,7.0,11,25
+Barcelona - Poblenou,1,2.2045,41.4039,19.0,Good,86.0,11,29
+Barcelona - Gràcia,1,2.1534,413987.0,5.0,Good,14.0,11,13
+Barcelona - Sants,1,2.1331,41.3788,7.0,Good,43.0,5,11
+Barcelona - Palau Reial,1,2.1151,41.3875,5.0,Good,32.0,4,11
+Barcelona - Gràcia,1,2.1534,41.3987,3.0,Good,18.0,1,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,21.0,Good,4.0,11,29
+Barcelona - Sants,1,2.1331,41.3788,17.0,Good,60.0,11,28
+Barcelona - Gràcia,1,2.1534,41.3987,10.0,Good,38.0,10,11
+Barcelona - Ciutadella,1,2.1874,41.3864,22.0,Good,38.0,11,15
+Barcelona - Ciutadella,1,2.1874,41.3864,11.0,Good,26.0,6,11
+Barcelona - Palau Reial,1,2.1151,41.3875,4.0,Good,4.0,3,11
+Barcelona - Sants,1,2.1331,41.3788,8.0,Good,43.0,2,11
+Barcelona - Ciutadella,1,2.1874,41.3864,22.0,Good,5.0,11,18
+Barcelona - Observ Fabra,1,2.1239,41.4183,19.0,Good,12.0,3,11
+Barcelona - Gràcia,1,2.1534,41.3987,10.0,Good,73.0,11,27
+Barcelona - Eixample,0,2.1538,41.3853,20.0,Moderate,99.0,4,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,2.0,Good,6.0,11,19
+Barcelona - Eixample,1,2.1538,41.3853,3.0,Good,36.0,8,11
+Barcelona - Palau Reial,1,2.1151,41.3875,18.0,Good,53.0,11,30
+Barcelona - Palau Reial,1,2.1151,41.3875,11.0,Good,8.0,11,18
+Barcelona - Sants,1,2.1331,41.3788,7.0,Good,20.0,11,19
+Barcelona - Palau Reial,1,2.1151,41.3875,21.0,Good,19.0,11,26
+Barcelona - Ciutadella,1,2.1874,41.3864,9.0,Good,44.0,12,11
+Barcelona - Sants,1,2.1331,41.3788,14.0,Good,62.0,11,23
+Barcelona - Observ Fabra,1,2.1239,41.4183,17.0,Good,7.0,11,22
+Barcelona - Ciutadella,1,2.1874,41.3864,7.0,Good,45.0,8,11
+Barcelona - Poblenou,1,2.2045,41.4039,12.0,Good,73.0,11,22
+Barcelona - Gràcia,1,2.1534,41.3987,1.0,Good,34.0,11,17
+Barcelona - Observ Fabra,1,2.1239,41.4183,16.0,Good,8.0,11,23
+Barcelona - Vall Hebron,1,2.148,41.4261,8.0,Good,70.0,8,11
+Barcelona - Ciutadella,1,2.1874,41.3864,13.0,Good,20.0,10,11
+Barcelona - Vall Hebron,1,2.148,41.4261,21.0,Good,63.0,11,27
+Barcelona - Palau Reial,1,2.1151,41.3875,15.0,Good,48.0,11,30
+Barcelona - Sants,1,2.1331,41.3788,15.0,Good,23.0,11,17
+Barcelona - Eixample,0,2.1538,41.3853,8.0,Moderate,101.0,11,28
+Barcelona - Eixample,1,2.1538,41.3853,5.0,Good,48.0,11,29
+Barcelona - Poblenou,1,2.2045,41.4039,12.0,Good,43.0,11,28
+Barcelona - Vall Hebron,1,2.148,41.4261,21.0,Good,17.0,11,25
+Barcelona - Gràcia,1,2.1534,41.3987,20.0,Good,28.0,9,11
+Barcelona - Sants,1,2.1331,41.3788,5.0,Good,10.0,11,15
+Barcelona - Sants,1,2.1331,41.3788,14.0,Good,21.0,12,11
+Barcelona - Palau Reial,1,2.1151,41.3875,4.0,Good,11.0,2,11
+Barcelona - Gràcia,1,2.1534,41.3987,23.0,Good,44.0,11,17
+Barcelona - Vall Hebron,1,2.148,41.4261,20.0,Good,22.0,6,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,0.0,Good,6.0,11,24
+Barcelona - Ciutadella,1,2.1874,41.3864,7.0,Good,24.0,11,15
+Barcelona - Vall Hebron,1,2.148,41.4261,12.0,Good,14.0,11,24
+Barcelona - Poblenou,1,2.2045,41.4039,1.0,Good,20.0,6,11
+Barcelona - Ciutadella,1,2.1874,41.3864,14.0,Good,16.0,11,15
+Barcelona - Ciutadella,1,2.1874,41.3864,5.0,Good,51.0,4,11
+Barcelona - Poblenou,0,2.2045,41.4039,8.0,--,,11,27
+Barcelona - Vall Hebron,1,2.148,41.4261,2.0,Good,15.0,11,22
+Barcelona - Observ Fabra,1,2.1239,41.4183,2.0,Good,37.0,9,11
+Barcelona - Palau Reial,1,2.1151,413875.0,7.0,Good,13.0,11,13
+Barcelona - Ciutadella,1,2.1874,41.3864,18.0,Good,7.0,11,18
+Barcelona - Observ Fabra,1,2.1239,41.4183,1.0,Good,4.0,11,14
+Barcelona - Gràcia,1,2.1534,41.3987,20.0,Good,43.0,11,25
+Barcelona - Eixample,1,2.1538,41.3853,1.0,Good,69.0,5,11
+Barcelona - Sants,1,2.1331,41.3788,17.0,Good,27.0,12,11
+Barcelona - Poblenou,1,2.2045,41.4039,1.0,Good,56.0,11,20
+Barcelona - Observ Fabra,1,2.1239,41.4183,7.0,Good,3.0,3,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,3.0,Good,3.0,11,22
+Barcelona - Observ Fabra,1,2.1239,41.4183,4.0,Good,7.0,7,11
+Barcelona - Eixample,0,2.1538,41.3853,15.0,Good,70.0,11,30
+Barcelona - Poblenou,1,2.2045,41.4039,14.0,Good,18.0,11,18
+Barcelona - Gràcia,1,2.1534,41.3987,4.0,Good,10.0,11,19
+Barcelona - Ciutadella,1,2.1874,41.3864,2.0,Good,42.0,11,30
+Barcelona - Poblenou,1,2.2045,41.4039,20.0,Good,81.0,11,20
+Barcelona - Vall Hebron,1,2.148,41.4261,21.0,Good,87.0,8,11
+Barcelona - Gràcia,1,2.1534,41.3987,0.0,Good,74.0,12,11
+Barcelona - Sants,1,2.1331,41.3788,4.0,Good,56.0,5,11
+Barcelona - Poblenou,1,2.2045,41.4039,15.0,--,,11,26
+Barcelona - Palau Reial,1,2.1151,41.3875,2.0,Good,31.0,11,23
+Barcelona - Vall Hebron,1,2.148,41.4261,18.0,Good,16.0,5,11
+Barcelona - Poblenou,1,2.2045,41.4039,4.0,Good,43.0,11,28
+Barcelona - Ciutadella,1,2.1874,41.3864,18.0,Good,74.0,11,28
+Barcelona - Vall Hebron,1,2.148,41.4261,13.0,Good,20.0,11,15
+Barcelona - Poblenou,1,2.2045,41.4039,7.0,Good,53.0,11,20
+Barcelona - Poblenou,1,2.2045,41.4039,3.0,Good,19.0,11,11
+Barcelona - Poblenou,1,2.2045,41.4039,8.0,Good,34.0,11,25
+Barcelona - Sants,1,2.1331,41.3788,10.0,Good,16.0,3,11
+Barcelona - Vall Hebron,1,2.148,41.4261,0.0,Good,27.0,11,14
+Barcelona - Palau Reial,1,2.1151,41.3875,12.0,Good,14.0,9,11
+Barcelona - Vall Hebron,1,2.148,41.4261,8.0,Good,23.0,11,30
+Barcelona - Palau Reial,1,2.1151,41.3875,13.0,Good,22.0,9,11
+Barcelona - Palau Reial,1,2.1151,41.3875,14.0,Good,50.0,11,29
+Barcelona - Sants,1,2.1331,41.3788,19.0,Good,61.0,11,28
+Barcelona - Observ Fabra,1,2.1239,41.4183,7.0,Good,6.0,10,11
+Barcelona - Eixample,1,2.1538,41.3853,1.0,Good,63.0,3,11
+Barcelona - Poblenou,1,2.2045,41.4039,9.0,Good,47.0,11,29
+Barcelona - Eixample,1,2.1538,41.3853,22.0,Good,86.0,11,20
+Barcelona - Gràcia,1,2.1534,41.3987,11.0,Good,23.0,11,18
+Barcelona - Vall Hebron,1,2.148,41.4261,7.0,Good,28.0,11,28
+Barcelona - Observ Fabra,1,2.1239,41.4183,18.0,Good,10.0,11,25
+Barcelona - Gràcia,1,2.1534,41.3987,13.0,Good,37.0,2,11
+Barcelona - Gràcia,1,2.1534,41.3987,19.0,Good,47.0,11,14
+Barcelona - Sants,1,2.1331,41.3788,4.0,Good,26.0,6,11
+Barcelona - Poblenou,1,2.2045,41.4039,3.0,Good,39.0,3,11
+Barcelona - Palau Reial,1,2.1151,41.3875,19.0,Good,19.0,11,17
+Barcelona - Poblenou,1,2.2045,41.4039,11.0,Good,39.0,2,11
+Barcelona - Palau Reial,1,2.1151,41.3875,3.0,Good,3.0,11,14
+Barcelona - Gràcia,1,2.1534,41.3987,17.0,Good,42.0,11,26
+Barcelona - Gràcia,0,2.1534,41.3987,,,,7,11
+Barcelona - Palau Reial,1,2.1151,41.3875,4.0,Good,51.0,5,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,17.0,Good,15.0,11,24
+Barcelona - Palau Reial,1,2.1151,41.3875,7.0,Good,26.0,11,21
+Barcelona - Eixample,1,2.1538,41.3853,18.0,--,,11,26
+Barcelona - Palau Reial,1,2.1151,41.3875,7.0,Good,47.0,11,28
+Barcelona - Observ Fabra,1,2.1239,41.4183,6.0,Good,4.0,11,18
+Barcelona - Ciutadella,1,2.1874,41.3864,9.0,Good,48.0,11,15
+Barcelona - Sants,1,2.1331,41.3788,3.0,Good,13.0,11,27
+Barcelona - Eixample,1,2.1538,41.3853,6.0,Good,49.0,10,11
+Barcelona - Poblenou,1,2.2045,41.4039,3.0,Good,22.0,11,15
+Barcelona - Ciutadella,1,2.1874,41.3864,11.0,Good,34.0,11,28
+Barcelona - Sants,1,2.1331,41.3788,19.0,Good,79.0,11,29
+Barcelona - Palau Reial,1,2.1151,41.3875,18.0,Good,53.0,11,21
+Barcelona - Eixample,1,2.1538,41.3853,20.0,Good,76.0,11,14
+Barcelona - Palau Reial,1,2.1151,41.3875,23.0,Good,6.0,11,19
+Barcelona - Gràcia,1,2.1534,41.3987,23.0,Good,33.0,11,16
+Barcelona - Gràcia,1,2.1534,41.3987,9.0,Good,27.0,3,11
+Barcelona - Ciutadella,1,2.1874,41.3864,0.0,Good,61.0,3,11
+Barcelona - Poblenou,1,2.2045,41.4039,9.0,Good,40.0,2,11
+Barcelona - Ciutadella,1,2.1874,41.3864,13.0,Good,22.0,11,30
+Barcelona - Eixample,1,2.1538,41.3853,13.0,--,,11,20
+Barcelona - Palau Reial,1,2.1151,413875.0,1.0,Good,12.0,11,13
+Barcelona - Vall Hebron,1,2.148,41.4261,12.0,Good,28.0,11,14
+Barcelona - Ciutadella,1,2.1874,41.3864,6.0,Good,21.0,10,11
+Barcelona - Sants,0,2.1331,41.3788,14.0,--,,11,19
+Barcelona - Vall Hebron,1,2.148,41.4261,18.0,Good,33.0,11,14
+Barcelona - Observ Fabra,1,2.1239,41.4183,15.0,Good,6.0,6,11
+Barcelona - Vall Hebron,1,2.148,41.4261,5.0,Good,8.0,11,18
+Barcelona - Eixample,1,2.1538,41.3853,19.0,Good,77.0,11,21
+Barcelona - Poblenou,0,2.2045,41.4039,6.0,Good,42.0,11,30
+Barcelona - Eixample,1,2.1538,41.3853,14.0,Good,49.0,11,15
+Barcelona - Observ Fabra,1,2.1239,414183.0,5.0,Good,3.0,11,13
+Barcelona - Poblenou,0,2.2045,41.4039,20.0,--,,11,26
+Barcelona - Palau Reial,1,2.1151,41.3875,14.0,Good,16.0,12,11
+Barcelona - Ciutadella,1,2.1874,41.3864,7.0,Good,52.0,11,11
+Barcelona - Eixample,1,2.1538,41.3853,16.0,Good,45.0,9,11
+Barcelona - Eixample,1,2.1538,41.3853,2.0,Good,33.0,4,11
+Barcelona - Vall Hebron,1,2.148,41.4261,7.0,Good,23.0,11,21
+Barcelona - Vall Hebron,1,2.148,41.4261,18.0,Good,35.0,11,27
+Barcelona - Observ Fabra,1,2.1239,41.4183,23.0,Good,6.0,11,14
+Barcelona - Poblenou,1,2.2045,41.4039,2.0,Good,34.0,11,25
+Barcelona - Vall Hebron,1,2.148,41.4261,,,,3,11
+Barcelona - Ciutadella,1,2.1874,41.3864,7.0,Good,46.0,2,11
+Barcelona - Poblenou,1,2.2045,41.4039,0.0,Good,60.0,11,22
+Barcelona - Observ Fabra,1,2.1239,41.4183,21.0,Good,15.0,7,11
+Barcelona - Ciutadella,1,2.1874,41.3864,9.0,Good,48.0,11,11
+Barcelona - Gràcia,1,2.1534,41.3987,14.0,Good,31.0,2,11
+Barcelona - Sants,1,2.1331,41.3788,10.0,Good,38.0,10,11
+Barcelona - Poblenou,0,2.2045,41.4039,11.0,--,,11,27
+Barcelona - Poblenou,1,2.2045,41.4039,8.0,Good,49.0,11,28
+Barcelona - Palau Reial,1,2.1151,41.3875,5.0,Good,6.0,11,15
+Barcelona - Sants,1,2.1331,413788.0,12.0,Good,32.0,11,13
+Barcelona - Ciutadella,1,2.1874,41.3864,3.0,Good,25.0,11,14
+Barcelona - Sants,1,2.1331,41.3788,16.0,Good,17.0,11,24
+Barcelona - Eixample,1,2.1538,41.3853,22.0,Good,79.0,10,11
+Barcelona - Palau Reial,1,2.1151,41.3875,19.0,Good,65.0,11,28
+Barcelona - Vall Hebron,1,2.148,41.4261,13.0,Good,39.0,11,20
+Barcelona - Gràcia,1,2.1534,41.3987,5.0,Good,22.0,11,24
+Barcelona - Eixample,1,2.1538,41.3853,6.0,Good,39.0,11,27
+Barcelona - Sants,1,2.1331,413788.0,22.0,Good,43.0,11,13
+Barcelona - Palau Reial,1,2.1151,41.3875,1.0,Good,4.0,10,11
+Barcelona - Palau Reial,1,2.1151,41.3875,17.0,Good,28.0,12,11
+Barcelona - Gràcia,0,2.1534,413987.0,15.0,--,,11,13
+Barcelona - Poblenou,1,2.2045,41.4039,5.0,Good,22.0,11,16
+Barcelona - Gràcia,1,2.1534,41.3987,9.0,Good,69.0,11,30
+Barcelona - Poblenou,1,2.2045,41.4039,20.0,Good,63.0,3,11
+Barcelona - Vall Hebron,1,2.148,41.4261,3.0,Good,6.0,10,11
+Barcelona - Ciutadella,1,2.1874,41.3864,2.0,Good,52.0,11,22
+Barcelona - Poblenou,1,2.2045,41.4039,22.0,Good,24.0,9,11
+Barcelona - Palau Reial,1,2.1151,41.3875,9.0,Good,44.0,11,26
+Barcelona - Eixample,1,2.1538,41.3853,20.0,Good,79.0,11,19
+Barcelona - Vall Hebron,1,2.148,41.4261,2.0,Good,9.0,10,11
+Barcelona - Poblenou,1,2.2045,41.4039,22.0,Good,27.0,12,11
+Barcelona - Ciutadella,1,2.1874,41.3864,6.0,Good,45.0,11,27
+Barcelona - Sants,0,2.1331,41.3788,17.0,--,,11,19
+Barcelona - Palau Reial,1,2.1151,41.3875,1.0,Good,14.0,11,22
+Barcelona - Observ Fabra,1,2.1239,41.4183,2.0,Good,12.0,11,20
+Barcelona - Observ Fabra,1,2.1239,41.4183,16.0,Good,9.0,11,15
+Barcelona - Palau Reial,1,2.1151,41.3875,18.0,Good,40.0,10,11
+Barcelona - Palau Reial,1,2.1151,41.3875,10.0,Good,44.0,11,15
+Barcelona - Palau Reial,1,2.1151,41.3875,5.0,Good,16.0,6,11
+Barcelona - Gràcia,1,2.1534,41.3987,2.0,Good,24.0,2,11
+Barcelona - Poblenou,0,2.2045,41.4039,8.0,Good,50.0,11,23
+Barcelona - Gràcia,1,2.1534,41.3987,2.0,Good,23.0,6,11
+Barcelona - Ciutadella,1,2.1874,41.3864,5.0,Good,9.0,11,18
+Barcelona - Palau Reial,1,2.1151,41.3875,17.0,Good,44.0,11,20
+Barcelona - Observ Fabra,1,2.1239,41.4183,9.0,Good,11.0,11,19
+Barcelona - Observ Fabra,1,2.1239,41.4183,2.0,Good,9.0,7,11
+Barcelona - Ciutadella,0,2.1874,41.3864,12.0,--,,11,24
+Barcelona - Poblenou,1,2.2045,41.4039,5.0,Good,22.0,11,17
+Barcelona - Palau Reial,1,2.1151,41.3875,0.0,Good,72.0,9,11
+Barcelona - Sants,1,2.1331,41.3788,5.0,Good,27.0,11,27
+Barcelona - Observ Fabra,1,2.1239,41.4183,12.0,Good,18.0,11,14
+Barcelona - Eixample,1,2.1538,41.3853,19.0,Good,54.0,11,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,14.0,Good,6.0,10,11
+Barcelona - Gràcia,1,2.1534,41.3987,0.0,Good,32.0,11,21
+Barcelona - Poblenou,1,2.2045,41.4039,21.0,Good,86.0,8,11
+Barcelona - Eixample,1,2.1538,41.3853,20.0,Good,32.0,11,18
+Barcelona - Vall Hebron,1,2.148,41.4261,13.0,Good,16.0,11,25
+Barcelona - Observ Fabra,1,2.1239,41.4183,8.0,Good,8.0,11,30
+Barcelona - Ciutadella,1,2.1874,41.3864,21.0,Good,34.0,5,11
+Barcelona - Eixample,1,2.1538,41.3853,16.0,--,,11,26
+Barcelona - Palau Reial,1,2.1151,41.3875,22.0,Good,36.0,6,11
+Barcelona - Poblenou,1,2.2045,41.4039,15.0,Good,35.0,2,11
+Barcelona - Poblenou,1,2.2045,41.4039,6.0,Good,39.0,11,28
+Barcelona - Sants,1,2.1331,41.3788,7.0,Good,24.0,11,26
+Barcelona - Sants,1,2.1331,41.3788,22.0,Good,24.0,5,11
+Barcelona - Eixample,1,2.1538,41.3853,18.0,Good,49.0,11,17
+Barcelona - Gràcia,1,2.1534,41.3987,6.0,Good,55.0,11,22
+Barcelona - Palau Reial,1,2.1151,413875.0,20.0,Good,64.0,11,13
+Barcelona - Ciutadella,1,2.1874,41.3864,9.0,Good,45.0,11,17
+Barcelona - Eixample,1,2.1538,41.3853,5.0,Good,67.0,7,11
+Barcelona - Palau Reial,1,2.1151,41.3875,6.0,Good,6.0,9,11
+Barcelona - Vall Hebron,1,2.148,41.4261,23.0,Good,22.0,6,11
+Barcelona - Sants,1,2.1331,41.3788,1.0,Good,50.0,11,16
+Barcelona - Vall Hebron,1,2.148,41.4261,0.0,Good,44.0,11,15
+Barcelona - Observ Fabra,1,2.1239,41.4183,5.0,Good,8.0,11,17
+Barcelona - Palau Reial,1,2.1151,41.3875,7.0,Good,22.0,7,11
+Barcelona - Palau Reial,1,2.1151,41.3875,23.0,Good,14.0,11,18
+Barcelona - Sants,0,2.1331,41.3788,14.0,--,,11,18
+Barcelona - Eixample,1,2.1538,41.3853,9.0,--,,6,11
+Barcelona - Poblenou,1,2.2045,41.4039,12.0,Good,22.0,12,11
+Barcelona - Sants,1,2.1331,41.3788,3.0,Good,54.0,8,11
+Barcelona - Ciutadella,1,2.1874,413864.0,2.0,Good,29.0,11,13
+Barcelona - Gràcia,1,2.1534,41.3987,10.0,Good,42.0,11,17
+Barcelona - Vall Hebron,1,2.148,41.4261,23.0,Good,13.0,7,11
+Barcelona - Ciutadella,1,2.1874,41.3864,11.0,Good,39.0,4,11
+Barcelona - Gràcia,1,2.1534,41.3987,12.0,Good,42.0,11,24
+Barcelona - Poblenou,1,2.2045,41.4039,18.0,Good,75.0,11,21
+Barcelona - Ciutadella,1,2.1874,41.3864,4.0,Good,27.0,3,11
+Barcelona - Eixample,0,2.1538,41.3853,15.0,Good,60.0,11,29
+Barcelona - Eixample,1,2.1538,41.3853,22.0,Good,53.0,11,23
+Barcelona - Eixample,1,2.1538,41.3853,9.0,Good,51.0,11,27
+Barcelona - Gràcia,1,2.1534,41.3987,19.0,Good,45.0,12,11
+Barcelona - Sants,1,2.1331,41.3788,1.0,Good,15.0,6,11
+Barcelona - Palau Reial,1,2.1151,41.3875,22.0,Good,39.0,11,15
+Barcelona - Observ Fabra,1,2.1239,41.4183,11.0,Good,9.0,11,23
+Barcelona - Eixample,1,2.1538,41.3853,14.0,Good,71.0,11,23
+Barcelona - Gràcia,1,2.1534,41.3987,19.0,Good,62.0,4,11
+Barcelona - Sants,1,2.1331,41.3788,14.0,Good,25.0,11,25
+Barcelona - Poblenou,1,2.2045,41.4039,23.0,Good,70.0,11,28
+Barcelona - Sants,0,2.1331,41.3788,16.0,--,,11,16
+Barcelona - Eixample,1,2.1538,41.3853,2.0,Good,69.0,5,11
+Barcelona - Eixample,1,2.1538,41.3853,1.0,Good,45.0,11,24
+Barcelona - Gràcia,1,2.1534,41.3987,11.0,Good,35.0,11,15
+Barcelona - Poblenou,1,2.2045,41.4039,15.0,Good,14.0,11,15
+Barcelona - Sants,1,2.1331,41.3788,8.0,Good,65.0,7,11
+Barcelona - Gràcia,1,2.1534,41.3987,1.0,Good,44.0,4,11
+Barcelona - Eixample,1,2.1538,41.3853,2.0,Good,68.0,9,11
+Barcelona - Eixample,1,2.1538,41.3853,15.0,Good,28.0,11,26
+Barcelona - Gràcia,1,2.1534,41.3987,6.0,Good,14.0,10,11
+Barcelona - Eixample,1,2.1538,41.3853,7.0,Good,19.0,3,11
+Barcelona - Poblenou,0,2.2045,41.4039,21.0,Moderate,92.0,11,22
+Barcelona - Poblenou,1,2.2045,41.4039,19.0,Good,72.0,11,30
+Barcelona - Gràcia,0,2.1534,41.3987,20.0,Moderate,103.0,8,11
+Barcelona - Vall Hebron,1,2.148,41.4261,12.0,Good,33.0,11,17
+Barcelona - Observ Fabra,1,2.1239,41.4183,2.0,Good,4.0,11,22
+Barcelona - Sants,1,2.1331,41.3788,0.0,Good,38.0,11,16
+Barcelona - Poblenou,0,2.2045,41.4039,3.0,--,,11,27
+Barcelona - Sants,1,2.1331,41.3788,15.0,Good,9.0,1,11
+Barcelona - Vall Hebron,1,2.148,41.4261,13.0,Good,15.0,2,11
+Barcelona - Ciutadella,1,2.1874,41.3864,21.0,Good,71.0,7,11
+Barcelona - Vall Hebron,1,2.148,41.4261,5.0,Good,53.0,2,11
+Barcelona - Eixample,1,2.1538,41.3853,16.0,Good,52.0,11,22
+Barcelona - Palau Reial,1,2.1151,413875.0,16.0,Good,22.0,11,13
+Barcelona - Vall Hebron,1,2.148,41.4261,4.0,Good,14.0,11,24
+Barcelona - Poblenou,1,2.2045,41.4039,15.0,Good,22.0,5,11
+Barcelona - Poblenou,1,2.2045,41.4039,11.0,Good,18.0,11,15
+Barcelona - Eixample,1,2.1538,41.3853,20.0,Good,74.0,11,27
+Barcelona - Observ Fabra,1,2.1239,41.4183,14.0,Good,10.0,12,11
+Barcelona - Vall Hebron,1,2.148,414261.0,18.0,Good,30.0,11,13
+Barcelona - Eixample,0,2.1538,41.3853,6.0,Good,41.0,11,30
+Barcelona - Poblenou,1,2.2045,41.4039,4.0,Good,18.0,6,11
+Barcelona - Ciutadella,1,2.1874,41.3864,1.0,Good,48.0,11,14
+Barcelona - Vall Hebron,1,2.148,41.4261,11.0,Good,11.0,4,11
+Barcelona - Sants,1,2.1331,41.3788,16.0,Good,32.0,3,11
+Barcelona - Gràcia,1,2.1534,41.3987,10.0,Good,50.0,11,28
+Barcelona - Palau Reial,1,2.1151,41.3875,20.0,Good,45.0,11,30
+Barcelona - Sants,1,2.1331,41.3788,0.0,Good,46.0,8,11
+Barcelona - Palau Reial,1,2.1151,41.3875,17.0,Good,35.0,11,16
+Barcelona - Eixample,1,2.1538,41.3853,11.0,Good,72.0,11,15
+Barcelona - Sants,1,2.1331,41.3788,9.0,Good,20.0,3,11
+Barcelona - Vall Hebron,1,2.148,41.4261,1.0,Good,62.0,5,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,18.0,Good,16.0,7,11
+Barcelona - Sants,1,2.1331,41.3788,0.0,Good,61.0,12,11
+Barcelona - Vall Hebron,1,2.148,41.4261,12.0,Good,35.0,11,16
+Barcelona - Vall Hebron,1,2.148,41.4261,,,,7,11
+Barcelona - Sants,1,2.1331,41.3788,20.0,Good,31.0,11,23
+Barcelona - Poblenou,1,2.2045,41.4039,0.0,Good,60.0,11,23
+Barcelona - Sants,1,2.1331,41.3788,16.0,Good,36.0,8,11
+Barcelona - Vall Hebron,1,2.148,41.4261,13.0,Good,16.0,11,22
+Barcelona - Ciutadella,1,2.1874,41.3864,17.0,Good,7.0,11,18
+Barcelona - Observ Fabra,1,2.1239,41.4183,3.0,Good,6.0,7,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,5.0,Good,5.0,11,19
+Barcelona - Observ Fabra,1,2.1239,41.4183,18.0,Good,18.0,11,30
+Barcelona - Gràcia,1,2.1534,41.3987,1.0,Good,48.0,11,28
+Barcelona - Eixample,1,2.1538,41.3853,0.0,Good,54.0,11,21
+Barcelona - Eixample,1,2.1538,41.3853,4.0,Good,32.0,3,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,18.0,Good,16.0,11,27
+Barcelona - Eixample,0,2.1538,41.3853,17.0,Good,50.0,11,30
+Barcelona - Gràcia,1,2.1534,41.3987,9.0,Good,72.0,11,20
+Barcelona - Ciutadella,1,2.1874,41.3864,10.0,Good,45.0,10,11
+Barcelona - Sants,1,2.1331,41.3788,13.0,Good,74.0,11,23
+Barcelona - Eixample,1,2.1538,41.3853,17.0,Good,46.0,4,11
+Barcelona - Gràcia,0,2.1534,41.3987,,,,4,11
+Barcelona - Poblenou,1,2.2045,41.4039,21.0,Good,83.0,2,11
+Barcelona - Gràcia,1,2.1534,41.3987,12.0,--,,11,27
+Barcelona - Eixample,1,2.1538,41.3853,17.0,Good,37.0,1,11
+Barcelona - Palau Reial,1,2.1151,41.3875,4.0,Good,27.0,12,11
+Barcelona - Palau Reial,1,2.1151,41.3875,17.0,Good,58.0,11,28
+Barcelona - Palau Reial,1,2.1151,41.3875,14.0,Good,5.0,3,11
+Barcelona - Ciutadella,1,2.1874,41.3864,15.0,Good,51.0,11,29
+Barcelona - Sants,1,2.1331,41.3788,16.0,Good,20.0,11,27
+Barcelona - Sants,1,2.1331,41.3788,15.0,Good,45.0,11,29
+Barcelona - Ciutadella,1,2.1874,41.3864,4.0,Good,36.0,12,11
+Barcelona - Palau Reial,1,2.1151,41.3875,15.0,Good,24.0,9,11
+Barcelona - Poblenou,1,2.2045,41.4039,23.0,Good,48.0,11,21
+Barcelona - Eixample,1,2.1538,41.3853,13.0,Good,52.0,12,11
+Barcelona - Gràcia,1,2.1534,41.3987,0.0,Good,58.0,8,11
+Barcelona - Vall Hebron,1,2.148,41.4261,0.0,Good,19.0,10,11
+Barcelona - Vall Hebron,1,2.148,41.4261,17.0,Good,37.0,11,21
+Barcelona - Palau Reial,1,2.1151,41.3875,13.0,Good,13.0,11,30
+Barcelona - Observ Fabra,1,2.1239,41.4183,20.0,Good,21.0,2,11
+Barcelona - Vall Hebron,1,2.148,41.4261,15.0,Good,14.0,4,11
+Barcelona - Poblenou,1,2.2045,41.4039,17.0,Good,17.0,5,11
+Barcelona - Vall Hebron,1,2.148,41.4261,16.0,Good,17.0,11,14
+Barcelona - Gràcia,1,2.1534,41.3987,18.0,Good,84.0,8,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,17.0,Good,14.0,11,27
+Barcelona - Vall Hebron,1,2.148,41.4261,6.0,Good,31.0,6,11
+Barcelona - Palau Reial,1,2.1151,41.3875,11.0,Good,75.0,11,23
+Barcelona - Sants,1,2.1331,41.3788,21.0,Good,73.0,11,27
+Barcelona - Eixample,1,2.1538,41.3853,6.0,Good,48.0,11,20
+Barcelona - Observ Fabra,1,2.1239,41.4183,20.0,Good,10.0,11,28
+Barcelona - Ciutadella,1,2.1874,41.3864,14.0,Good,55.0,11,20
+Barcelona - Sants,0,2.1331,41.3788,13.0,--,,11,18
+Barcelona - Sants,1,2.1331,41.3788,9.0,Good,62.0,11,22
+Barcelona - Ciutadella,1,2.1874,41.3864,3.0,Good,23.0,11,16
+Barcelona - Eixample,0,2.1538,41.3853,9.0,Moderate,96.0,11,20
+Barcelona - Observ Fabra,1,2.1239,414183.0,6.0,Good,3.0,11,13
+Barcelona - Eixample,1,2.1538,41.3853,8.0,Good,52.0,1,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,14.0,Good,27.0,11,16
+Barcelona - Vall Hebron,1,2.148,41.4261,22.0,Good,26.0,12,11
+Barcelona - Gràcia,1,2.1534,41.3987,12.0,Good,24.0,6,11
+Barcelona - Sants,1,2.1331,41.3788,13.0,Good,20.0,11,14
+Barcelona - Eixample,0,2.1538,413853.0,7.0,Good,62.0,11,13
+Barcelona - Vall Hebron,1,2.148,41.4261,6.0,Good,12.0,11,11
+Barcelona - Palau Reial,1,2.1151,41.3875,13.0,Good,28.0,12,11
+Barcelona - Palau Reial,1,2.1151,41.3875,9.0,Good,50.0,11,19
+Barcelona - Observ Fabra,1,2.1239,41.4183,9.0,Good,4.0,11,28
+Barcelona - Observ Fabra,1,2.1239,41.4183,19.0,Good,9.0,10,11
+Barcelona - Palau Reial,1,2.1151,41.3875,7.0,Good,55.0,11,23
+Barcelona - Poblenou,1,2.2045,41.4039,3.0,Good,47.0,11,29
+Barcelona - Poblenou,1,2.2045,41.4039,9.0,Good,40.0,11,19
+Barcelona - Vall Hebron,1,2.148,41.4261,0.0,Good,26.0,4,11
+Barcelona - Vall Hebron,1,2.148,41.4261,19.0,Good,17.0,5,11
+Barcelona - Eixample,1,2.1538,41.3853,16.0,Good,33.0,1,11
+Barcelona - Vall Hebron,1,2.148,41.4261,2.0,Good,38.0,11,23
+Barcelona - Ciutadella,1,2.1874,41.3864,14.0,Good,53.0,11,11
+Barcelona - Ciutadella,1,2.1874,41.3864,14.0,Good,52.0,9,11
+Barcelona - Ciutadella,1,2.1874,41.3864,20.0,Good,52.0,8,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,10.0,Good,7.0,1,11
+Barcelona - Gràcia,1,2.1534,41.3987,4.0,Good,21.0,8,11
+Barcelona - Sants,1,2.1331,41.3788,16.0,Good,32.0,11,20
+Barcelona - Eixample,1,2.1538,41.3853,22.0,Good,62.0,3,11
+Barcelona - Palau Reial,1,2.1151,41.3875,0.0,Good,13.0,11,27
+Barcelona - Ciutadella,1,2.1874,41.3864,1.0,Good,60.0,11,11
+Barcelona - Poblenou,1,2.2045,414039.0,19.0,Good,24.0,11,13
+Barcelona - Observ Fabra,1,2.1239,41.4183,21.0,Good,17.0,11,27
+Barcelona - Poblenou,1,2.2045,41.4039,10.0,Good,58.0,11,28
+Barcelona - Eixample,1,2.1538,41.3853,16.0,Good,54.0,11,19
+Barcelona - Poblenou,1,2.2045,41.4039,15.0,Good,59.0,4,11
+Barcelona - Sants,1,2.1331,41.3788,17.0,Good,15.0,10,11
+Barcelona - Ciutadella,1,2.1874,41.3864,17.0,Good,44.0,11,26
+Barcelona - Eixample,0,2.1538,41.3853,20.0,Moderate,92.0,2,11
+Barcelona - Poblenou,1,2.2045,41.4039,19.0,Good,17.0,5,11
+Barcelona - Gràcia,0,2.1534,41.3987,17.0,--,,11,17
+Barcelona - Ciutadella,1,2.1874,41.3864,18.0,Good,23.0,12,11
+Barcelona - Ciutadella,1,2.1874,41.3864,12.0,Good,29.0,11,30
+Barcelona - Observ Fabra,1,2.1239,41.4183,15.0,Good,5.0,3,11
+Barcelona - Ciutadella,1,2.1874,413864.0,7.0,Good,39.0,11,13
+Barcelona - Palau Reial,1,2.1151,41.3875,1.0,Good,6.0,4,11
+Barcelona - Gràcia,1,2.1534,41.3987,3.0,Good,20.0,11,27
+Barcelona - Vall Hebron,1,2.148,41.4261,21.0,Good,26.0,11,11
+Barcelona - Vall Hebron,1,2.148,41.4261,10.0,Good,17.0,11,27
+Barcelona - Poblenou,1,2.2045,41.4039,3.0,Good,48.0,11,22
+Barcelona - Poblenou,0,2.2045,41.4039,1.0,--,,11,27
+Barcelona - Eixample,0,2.1538,413853.0,6.0,Good,36.0,11,13
+Barcelona - Ciutadella,1,2.1874,41.3864,15.0,Good,22.0,6,11
+Barcelona - Poblenou,1,2.2045,41.4039,14.0,Good,56.0,11,29
+Barcelona - Eixample,0,2.1538,413853.0,16.0,Good,48.0,11,13
+Barcelona - Eixample,0,2.1538,413853.0,22.0,Good,74.0,11,13
+Barcelona - Poblenou,1,2.2045,41.4039,10.0,Good,59.0,11,20
+Barcelona - Eixample,1,2.1538,41.3853,4.0,Good,39.0,11,16
+Barcelona - Poblenou,1,2.2045,41.4039,20.0,Good,52.0,6,11
+Barcelona - Vall Hebron,1,2.148,41.4261,10.0,Good,87.0,5,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,3.0,Good,6.0,3,11
+Barcelona - Vall Hebron,1,2.148,41.4261,22.0,Good,87.0,11,29
+Barcelona - Eixample,1,2.1538,41.3853,13.0,Good,46.0,11,17
+Barcelona - Observ Fabra,1,2.1239,41.4183,14.0,Good,17.0,11,17
+Barcelona - Poblenou,1,2.2045,41.4039,3.0,Good,9.0,11,19
+Barcelona - Gràcia,1,2.1534,41.3987,17.0,Good,42.0,11,26
+Barcelona - Ciutadella,1,2.1874,41.3864,15.0,Good,35.0,11,11
+Barcelona - Sants,1,2.1331,41.3788,0.0,Good,56.0,11,22
+Barcelona - Ciutadella,1,2.1874,41.3864,19.0,Good,61.0,11,28
+Barcelona - Palau Reial,1,2.1151,41.3875,6.0,Good,35.0,11,29
+Barcelona - Vall Hebron,1,2.148,41.4261,7.0,Good,24.0,11,19
+Barcelona - Vall Hebron,1,2.148,41.4261,9.0,Good,20.0,11,27
+Barcelona - Gràcia,0,2.1534,41.3987,15.0,--,,11,16
+Barcelona - Observ Fabra,1,2.1239,41.4183,2.0,Good,8.0,8,11
+Barcelona - Palau Reial,1,2.1151,41.3875,22.0,Good,20.0,11,30
+Barcelona - Eixample,1,2.1538,41.3853,4.0,Good,55.0,11,29
+Barcelona - Palau Reial,1,2.1151,41.3875,,,,3,11
+Barcelona - Gràcia,1,2.1534,41.3987,4.0,Good,50.0,11,22
+Barcelona - Gràcia,1,2.1534,41.3987,3.0,Good,62.0,12,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,0.0,Good,58.0,9,11
+Barcelona - Gràcia,0,2.1534,41.3987,4.0,--,,11,16
+Barcelona - Vall Hebron,1,2.148,41.4261,2.0,Good,58.0,11,30
+Barcelona - Palau Reial,1,2.1151,41.3875,11.0,Good,22.0,11,27
+Barcelona - Sants,1,2.1331,41.3788,21.0,Good,52.0,11,30
+Barcelona - Poblenou,1,2.2045,41.4039,22.0,Good,51.0,11,17
+Barcelona - Observ Fabra,1,2.1239,41.4183,1.0,Good,53.0,11,29
+Barcelona - Eixample,1,2.1538,41.3853,21.0,Good,74.0,10,11
+Barcelona - Palau Reial,1,2.1151,41.3875,2.0,Good,25.0,3,11
+Barcelona - Poblenou,1,2.2045,41.4039,21.0,Good,64.0,11,16
+Barcelona - Poblenou,1,2.2045,41.4039,19.0,Good,86.0,4,11
+Barcelona - Ciutadella,1,2.1874,41.3864,12.0,Good,28.0,6,11
+Barcelona - Palau Reial,1,2.1151,41.3875,23.0,Good,35.0,11,14
+Barcelona - Vall Hebron,1,2.148,41.4261,3.0,Good,13.0,11,24
+Barcelona - Ciutadella,1,2.1874,41.3864,3.0,Good,24.0,11,20
+Barcelona - Eixample,1,2.1538,41.3853,2.0,Good,51.0,11,25
+Barcelona - Sants,1,2.1331,41.3788,21.0,Good,73.0,1,11
+Barcelona - Sants,1,2.1331,41.3788,7.0,Good,25.0,11,30
+Barcelona - Vall Hebron,1,2.148,41.4261,5.0,Good,23.0,3,11
+Barcelona - Palau Reial,1,2.1151,41.3875,23.0,Good,30.0,7,11
+Barcelona - Ciutadella,1,2.1874,41.3864,3.0,Good,17.0,10,11
+Barcelona - Vall Hebron,1,2.148,41.4261,14.0,Good,11.0,4,11
+Barcelona - Sants,1,2.1331,41.3788,2.0,Good,9.0,11,21
+Barcelona - Eixample,1,2.1538,41.3853,4.0,Good,61.0,7,11
+Barcelona - Eixample,1,2.1538,41.3853,19.0,--,,11,22
+Barcelona - Vall Hebron,1,2.148,41.4261,12.0,Good,43.0,11,26
+Barcelona - Poblenou,1,2.2045,41.4039,15.0,Good,39.0,11,25
+Barcelona - Eixample,1,2.1538,41.3853,5.0,Good,18.0,11,18
+Barcelona - Gràcia,1,2.1534,41.3987,4.0,Good,15.0,11,25
+Barcelona - Vall Hebron,1,2.148,41.4261,12.0,Good,20.0,11,27
+Barcelona - Sants,1,2.1331,41.3788,10.0,Good,79.0,5,11
+Barcelona - Ciutadella,1,2.1874,41.3864,13.0,Good,13.0,11,18
+Barcelona - Sants,1,2.1331,41.3788,12.0,Good,19.0,11,25
+Barcelona - Vall Hebron,1,2.148,41.4261,14.0,Good,17.0,11,15
+Barcelona - Poblenou,1,2.2045,41.4039,17.0,Good,25.0,11,16
+Barcelona - Observ Fabra,1,2.1239,41.4183,0.0,Good,17.0,5,11
+Barcelona - Gràcia,1,2.1534,41.3987,17.0,Good,39.0,9,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,17.0,Good,26.0,10,11
+Barcelona - Eixample,1,2.1538,41.3853,7.0,Good,19.0,4,11
+Barcelona - Vall Hebron,1,2.148,41.4261,2.0,Good,30.0,11,17
+Barcelona - Palau Reial,1,2.1151,41.3875,13.0,Good,13.0,11,14
+Barcelona - Sants,1,2.1331,41.3788,8.0,Good,14.0,4,11
+Barcelona - Vall Hebron,1,2.148,41.4261,12.0,Good,22.0,11,18
+Barcelona - Ciutadella,1,2.1874,41.3864,21.0,Good,32.0,11,14
+Barcelona - Palau Reial,1,2.1151,41.3875,17.0,Good,28.0,7,11
+Barcelona - Sants,1,2.1331,41.3788,21.0,Good,40.0,12,11
+Barcelona - Observ Fabra,1,2.1239,414183.0,16.0,Good,11.0,11,13
+Barcelona - Vall Hebron,1,2.148,41.4261,4.0,Good,10.0,11,11
+Barcelona - Palau Reial,1,2.1151,41.3875,22.0,Good,25.0,11,24
+Barcelona - Palau Reial,1,2.1151,41.3875,10.0,Good,52.0,11,16
+Barcelona - Palau Reial,1,2.1151,41.3875,10.0,Good,74.0,11,23
+Barcelona - Vall Hebron,1,2.148,41.4261,7.0,Good,21.0,3,11
+Barcelona - Sants,1,2.1331,41.3788,9.0,Good,61.0,12,11
+Barcelona - Vall Hebron,1,2.148,41.4261,4.0,Good,36.0,5,11
+Barcelona - Palau Reial,1,2.1151,41.3875,5.0,Good,4.0,11,19
+Barcelona - Palau Reial,1,2.1151,41.3875,4.0,Good,35.0,11,29
+Barcelona - Vall Hebron,1,2.148,41.4261,0.0,Good,25.0,11,16
+Barcelona - Palau Reial,1,2.1151,41.3875,14.0,Good,5.0,2,11
+Barcelona - Vall Hebron,1,2.148,41.4261,8.0,Good,16.0,3,11
+Barcelona - Observ Fabra,1,2.1239,414183.0,10.0,Good,9.0,11,13
+Barcelona - Eixample,1,2.1538,41.3853,14.0,Good,71.0,8,11
+Barcelona - Poblenou,0,2.2045,41.4039,5.0,--,,11,27
+Barcelona - Gràcia,1,2.1534,41.3987,9.0,Good,68.0,11,15
+Barcelona - Poblenou,1,2.2045,41.4039,3.0,Good,22.0,11,25
+Barcelona - Ciutadella,1,2.1874,41.3864,19.0,Good,19.0,11,25
+Barcelona - Palau Reial,1,2.1151,41.3875,7.0,Good,37.0,11,29
+Barcelona - Sants,1,2.1331,41.3788,3.0,Good,25.0,3,11
+Barcelona - Palau Reial,1,2.1151,41.3875,7.0,Good,34.0,1,11
+Barcelona - Gràcia,1,2.1534,41.3987,6.0,Good,14.0,3,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,15.0,Good,16.0,10,11
+Barcelona - Eixample,0,2.1538,41.3853,9.0,Moderate,101.0,8,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,3.0,Good,1.0,4,11
+Barcelona - Observ Fabra,1,2.1239,414183.0,20.0,Good,12.0,11,13
+Barcelona - Poblenou,1,2.2045,41.4039,13.0,Good,32.0,10,11
+Barcelona - Ciutadella,1,2.1874,41.3864,15.0,Good,15.0,11,15
+Barcelona - Poblenou,1,2.2045,41.4039,18.0,--,,11,26
+Barcelona - Observ Fabra,1,2.1239,41.4183,17.0,Good,10.0,12,11
+Barcelona - Vall Hebron,1,2.148,41.4261,2.0,Good,47.0,5,11
+Barcelona - Gràcia,1,2.1534,41.3987,20.0,Good,56.0,5,11
+Barcelona - Palau Reial,1,2.1151,41.3875,1.0,Good,38.0,11,23
+Barcelona - Eixample,1,2.1538,41.3853,0.0,Good,35.0,11,25
+Barcelona - Eixample,0,2.1538,41.3853,1.0,Good,55.0,11,14
+Barcelona - Vall Hebron,1,2.148,41.4261,8.0,Good,32.0,9,11
+Barcelona - Gràcia,1,2.1534,41.3987,14.0,Good,28.0,11,11
+Barcelona - Sants,1,2.1331,41.3788,23.0,Good,41.0,11,22
+Barcelona - Sants,0,2.1331,41.3788,17.0,--,,11,16
+Barcelona - Palau Reial,1,2.1151,41.3875,2.0,Good,8.0,11,22
+Barcelona - Sants,1,2.1331,41.3788,9.0,Good,51.0,11,30
+Barcelona - Vall Hebron,1,2.148,41.4261,22.0,Good,18.0,6,11
+Barcelona - Palau Reial,1,2.1151,41.3875,11.0,Good,35.0,11,22
+Barcelona - Eixample,1,2.1538,41.3853,3.0,Good,37.0,11,17
+Barcelona - Gràcia,1,2.1534,41.3987,10.0,Good,46.0,7,11
+Barcelona - Gràcia,1,2.1534,41.3987,5.0,Good,19.0,3,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,13.0,Good,11.0,11,15
+Barcelona - Gràcia,1,2.1534,41.3987,17.0,Good,29.0,6,11
+Barcelona - Vall Hebron,1,2.148,41.4261,18.0,Good,39.0,11,28
+Barcelona - Ciutadella,1,2.1874,41.3864,5.0,Good,32.0,12,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,9.0,Good,10.0,11,21
+Barcelona - Gràcia,1,2.1534,41.3987,4.0,Good,19.0,3,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,0.0,Good,10.0,7,11
+Barcelona - Palau Reial,1,2.1151,41.3875,6.0,Good,16.0,7,11
+Barcelona - Eixample,1,2.1538,41.3853,18.0,Good,86.0,8,11
+Barcelona - Ciutadella,1,2.1874,41.3864,17.0,Good,31.0,11,11
+Barcelona - Eixample,1,2.1538,41.3853,10.0,Good,77.0,11,20
+Barcelona - Eixample,1,2.1538,41.3853,8.0,Good,76.0,11,15
+Barcelona - Sants,1,2.1331,41.3788,16.0,Good,39.0,11,28
+Barcelona - Vall Hebron,1,2.148,41.4261,4.0,Good,17.0,11,18
+Barcelona - Observ Fabra,1,2.1239,41.4183,12.0,Good,16.0,9,11
+Barcelona - Palau Reial,1,2.1151,41.3875,5.0,Good,55.0,11,22
+Barcelona - Gràcia,1,2.1534,41.3987,12.0,Good,37.0,11,17
+Barcelona - Poblenou,1,2.2045,41.4039,17.0,Good,46.0,7,11
+Barcelona - Vall Hebron,1,2.148,41.4261,17.0,Good,40.0,11,16
+Barcelona - Gràcia,1,2.1534,41.3987,8.0,Good,44.0,11,24
+Barcelona - Vall Hebron,1,2.148,41.4261,14.0,Good,50.0,11,20
+Barcelona - Eixample,1,2.1538,41.3853,7.0,Good,47.0,10,11
+Barcelona - Ciutadella,1,2.1874,41.3864,3.0,Good,40.0,11,30
+Barcelona - Gràcia,1,2.1534,41.3987,22.0,Good,57.0,11,11
+Barcelona - Gràcia,1,2.1534,41.3987,20.0,--,,11,28
+Barcelona - Ciutadella,1,2.1874,41.3864,11.0,Good,46.0,11,21
+Barcelona - Palau Reial,1,2.1151,41.3875,11.0,Good,55.0,5,11
+Barcelona - Ciutadella,1,2.1874,41.3864,10.0,Good,60.0,11,20
+Barcelona - Vall Hebron,1,2.148,41.4261,18.0,Good,46.0,11,16
+Barcelona - Observ Fabra,1,2.1239,41.4183,13.0,Good,4.0,2,11
+Barcelona - Poblenou,1,2.2045,41.4039,23.0,Good,74.0,11,22
+Barcelona - Gràcia,1,2.1534,41.3987,10.0,Good,33.0,1,11
+Barcelona - Ciutadella,1,2.1874,41.3864,22.0,Good,52.0,11,26
+Barcelona - Observ Fabra,1,2.1239,41.4183,22.0,Good,6.0,5,11
+Barcelona - Sants,1,2.1331,41.3788,23.0,Good,11.0,11,19
+Barcelona - Eixample,1,2.1538,41.3853,9.0,Good,51.0,11,27
+Barcelona - Ciutadella,1,2.1874,41.3864,2.0,Good,55.0,11,23
+Barcelona - Ciutadella,1,2.1874,41.3864,4.0,Good,52.0,11,23
+Barcelona - Sants,1,2.1331,41.3788,20.0,Good,51.0,10,11
+Barcelona - Gràcia,1,2.1534,41.3987,1.0,Good,72.0,5,11
+Barcelona - Vall Hebron,1,2.148,41.4261,15.0,Good,13.0,6,11
+Barcelona - Poblenou,1,2.2045,41.4039,15.0,Good,56.0,11,29
+Barcelona - Palau Reial,1,2.1151,41.3875,14.0,Good,10.0,6,11
+Barcelona - Gràcia,1,2.1534,41.3987,18.0,Good,51.0,4,11
+Barcelona - Vall Hebron,1,2.148,41.4261,9.0,Good,13.0,10,11
+Barcelona - Ciutadella,1,2.1874,41.3864,15.0,Good,20.0,3,11
+Barcelona - Gràcia,1,2.1534,41.3987,6.0,Good,19.0,1,11
+Barcelona - Eixample,1,2.1538,41.3853,3.0,Good,22.0,11,27
+Barcelona - Poblenou,1,2.2045,41.4039,9.0,Good,52.0,11,16
+Barcelona - Palau Reial,1,2.1151,41.3875,10.0,Good,11.0,1,11
+Barcelona - Ciutadella,1,2.1874,41.3864,23.0,Good,72.0,11,23
+Barcelona - Poblenou,1,2.2045,41.4039,18.0,Good,41.0,9,11
+Barcelona - Poblenou,1,2.2045,41.4039,18.0,Good,25.0,12,11
+Barcelona - Ciutadella,1,2.1874,413864.0,14.0,Good,12.0,11,13
+Barcelona - Eixample,1,2.1538,41.3853,11.0,Good,78.0,11,23
+Barcelona - Eixample,1,2.1538,41.3853,2.0,Good,23.0,11,27
+Barcelona - Ciutadella,1,2.1874,41.3864,16.0,Good,10.0,11,17
+Barcelona - Sants,1,2.1331,41.3788,14.0,Good,25.0,5,11
+Barcelona - Sants,1,2.1331,41.3788,0.0,Good,25.0,10,11
+Barcelona - Vall Hebron,1,2.148,414261.0,7.0,Good,30.0,11,13
+Barcelona - Gràcia,1,2.1534,41.3987,21.0,Good,51.0,11,23
+Barcelona - Poblenou,1,2.2045,41.4039,1.0,Good,57.0,9,11
+Barcelona - Palau Reial,1,2.1151,41.3875,18.0,Good,33.0,4,11
+Barcelona - Eixample,1,2.1538,41.3853,4.0,Good,52.0,2,11
+Barcelona - Poblenou,1,2.2045,414039.0,5.0,Good,26.0,11,13
+Barcelona - Palau Reial,1,2.1151,41.3875,0.0,Good,16.0,7,11
+Barcelona - Eixample,1,2.1538,41.3853,5.0,--,,11,22
+Barcelona - Eixample,1,2.1538,41.3853,23.0,Good,82.0,11,28
+Barcelona - Ciutadella,1,2.1874,41.3864,10.0,Good,61.0,11,27
+Barcelona - Poblenou,1,2.2045,41.4039,4.0,Good,32.0,3,11
+Barcelona - Ciutadella,1,2.1874,413864.0,21.0,Good,31.0,11,13
+Barcelona - Poblenou,1,2.2045,41.4039,11.0,Good,46.0,10,11
+Barcelona - Gràcia,1,2.1534,41.3987,4.0,Good,33.0,2,11
+Barcelona - Ciutadella,1,2.1874,41.3864,18.0,Good,50.0,9,11
+Barcelona - Poblenou,1,2.2045,41.4039,5.0,Good,27.0,1,11
+Barcelona - Poblenou,1,2.2045,41.4039,0.0,Good,69.0,11,11
+Barcelona - Sants,1,2.1331,41.3788,14.0,Good,33.0,9,11
+Barcelona - Sants,1,2.1331,41.3788,9.0,Good,16.0,11,18
+Barcelona - Palau Reial,1,2.1151,41.3875,10.0,Good,28.0,2,11
+Barcelona - Vall Hebron,1,2.148,41.4261,17.0,Good,32.0,3,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,19.0,--,,11,15
+Barcelona - Palau Reial,1,2.1151,41.3875,9.0,Good,91.0,11,22
+Barcelona - Palau Reial,1,2.1151,41.3875,9.0,Good,44.0,7,11
+Barcelona - Gràcia,0,2.1534,41.3987,9.0,Moderate,92.0,11,23
+Barcelona - Eixample,1,2.1538,41.3853,1.0,Good,65.0,11,23
+Barcelona - Palau Reial,1,2.1151,41.3875,8.0,Good,69.0,11,23
+Barcelona - Observ Fabra,1,2.1239,41.4183,8.0,Good,4.0,11,18
+Barcelona - Poblenou,1,2.2045,41.4039,0.0,Good,59.0,12,11
+Barcelona - Vall Hebron,1,2.148,41.4261,7.0,Good,57.0,11,29
+Barcelona - Ciutadella,1,2.1874,41.3864,3.0,Good,33.0,8,11
+Barcelona - Palau Reial,1,2.1151,41.3875,0.0,Good,47.0,11,30
+Barcelona - Ciutadella,1,2.1874,41.3864,17.0,Good,19.0,12,11
+Barcelona - Palau Reial,1,2.1151,41.3875,5.0,Good,13.0,11,20
+Barcelona - Observ Fabra,1,2.1239,41.4183,17.0,Good,10.0,11,11
+Barcelona - Sants,1,2.1331,413788.0,14.0,Good,22.0,11,13
+Barcelona - Vall Hebron,1,2.148,41.4261,9.0,Good,60.0,11,14
+Barcelona - Palau Reial,1,2.1151,41.3875,18.0,Good,14.0,11,17
+Barcelona - Ciutadella,0,2.1874,41.3864,,,,4,11
+Barcelona - Palau Reial,1,2.1151,41.3875,18.0,Good,53.0,11,15
+Barcelona - Observ Fabra,1,2.1239,414183.0,11.0,Good,9.0,11,13
+Barcelona - Ciutadella,1,2.1874,41.3864,19.0,Good,51.0,8,11
+Barcelona - Gràcia,1,2.1534,41.3987,15.0,Good,23.0,11,24
+Barcelona - Poblenou,1,2.2045,41.4039,6.0,Good,14.0,4,11
+Barcelona - Observ Fabra,1,2.1239,414183.0,13.0,Good,11.0,11,13
+Barcelona - Sants,1,2.1331,413788.0,18.0,Good,28.0,11,13
+Barcelona - Poblenou,1,2.2045,41.4039,14.0,Good,58.0,11,23
+Barcelona - Poblenou,1,2.2045,41.4039,,,,3,11
+Barcelona - Poblenou,1,2.2045,41.4039,19.0,Good,8.0,11,18
+Barcelona - Palau Reial,1,2.1151,41.3875,15.0,Good,22.0,5,11
+Barcelona - Gràcia,1,2.1534,41.3987,9.0,Good,33.0,4,11
+Barcelona - Poblenou,1,2.2045,41.4039,19.0,Good,28.0,12,11
+Barcelona - Eixample,1,2.1538,41.3853,1.0,Good,77.0,9,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,8.0,Good,10.0,11,15
+Barcelona - Sants,1,2.1331,41.3788,7.0,Good,32.0,11,11
+Barcelona - Sants,1,2.1331,41.3788,12.0,Good,23.0,11,14
+Barcelona - Sants,1,2.1331,41.3788,6.0,Good,32.0,11,20
+Barcelona - Poblenou,1,2.2045,41.4039,7.0,Good,42.0,11,14
+Barcelona - Ciutadella,1,2.1874,41.3864,23.0,Good,64.0,11,20
+Barcelona - Sants,1,2.1331,41.3788,2.0,Good,37.0,11,23
+Barcelona - Vall Hebron,1,2.148,41.4261,16.0,Good,30.0,11,28
+Barcelona - Ciutadella,1,2.1874,41.3864,16.0,Good,20.0,12,11
+Barcelona - Sants,1,2.1331,41.3788,7.0,Good,41.0,7,11
+Barcelona - Palau Reial,1,2.1151,41.3875,6.0,Good,3.0,3,11
+Barcelona - Sants,1,2.1331,41.3788,7.0,Good,25.0,11,24
+Barcelona - Gràcia,1,2.1534,41.3987,3.0,Good,62.0,5,11
+Barcelona - Palau Reial,1,2.1151,41.3875,19.0,Good,52.0,11,16
+Barcelona - Eixample,1,2.1538,41.3853,23.0,Good,55.0,11,26
+Barcelona - Ciutadella,1,2.1874,41.3864,19.0,Good,83.0,7,11
+Barcelona - Vall Hebron,1,2.148,41.4261,1.0,Good,17.0,11,14
+Barcelona - Vall Hebron,1,2.148,41.4261,17.0,Good,12.0,11,25
+Barcelona - Poblenou,1,2.2045,41.4039,5.0,Good,27.0,2,11
+Barcelona - Poblenou,1,2.2045,41.4039,19.0,Good,46.0,9,11
+Barcelona - Eixample,1,2.1538,41.3853,10.0,Good,60.0,11,25
+Barcelona - Gràcia,1,2.1534,41.3987,18.0,Good,24.0,11,18
+Barcelona - Observ Fabra,1,2.1239,41.4183,22.0,Good,6.0,11,24
+Barcelona - Observ Fabra,1,2.1239,41.4183,5.0,Good,3.0,11,22
+Barcelona - Eixample,1,2.1538,41.3853,8.0,Good,38.0,4,11
+Barcelona - Eixample,0,2.1538,41.3853,23.0,Good,67.0,11,14
+Barcelona - Vall Hebron,1,2.148,41.4261,21.0,Good,53.0,11,14
+Barcelona - Ciutadella,1,2.1874,41.3864,15.0,Good,13.0,11,17
+Barcelona - Eixample,0,2.1538,41.3853,,,,11,30
+Barcelona - Poblenou,1,2.2045,41.4039,11.0,Good,69.0,11,22
+Barcelona - Sants,1,2.1331,41.3788,23.0,Good,29.0,11,18
+Barcelona - Palau Reial,1,2.1151,413875.0,17.0,Good,24.0,11,13
+Barcelona - Ciutadella,1,2.1874,41.3864,17.0,Good,12.0,5,11
+Barcelona - Palau Reial,1,2.1151,41.3875,14.0,Good,12.0,10,11
+Barcelona - Palau Reial,1,2.1151,413875.0,2.0,Good,11.0,11,13
+Barcelona - Palau Reial,1,2.1151,41.3875,19.0,Good,30.0,11,23
+Barcelona - Eixample,1,2.1538,41.3853,22.0,Good,24.0,11,18
+Barcelona - Poblenou,1,2.2045,41.4039,2.0,Good,41.0,8,11
+Barcelona - Sants,1,2.1331,41.3788,12.0,Good,15.0,3,11
+Barcelona - Poblenou,1,2.2045,41.4039,9.0,Good,37.0,1,11
+Barcelona - Vall Hebron,1,2.148,41.4261,2.0,Good,9.0,2,11
+Barcelona - Vall Hebron,1,2.148,41.4261,16.0,Good,15.0,12,11
+Barcelona - Poblenou,1,2.2045,41.4039,10.0,Good,46.0,11,11
+Barcelona - Vall Hebron,1,2.148,41.4261,8.0,Good,46.0,11,14
+Barcelona - Vall Hebron,1,2.148,41.4261,14.0,Good,15.0,12,11
+Barcelona - Sants,1,2.1331,41.3788,7.0,Good,38.0,2,11
+Barcelona - Ciutadella,1,2.1874,41.3864,0.0,Good,30.0,6,11
+Barcelona - Poblenou,1,2.2045,41.4039,17.0,Good,9.0,11,18
+Barcelona - Observ Fabra,1,2.1239,41.4183,16.0,Good,25.0,11,16
+Barcelona - Palau Reial,1,2.1151,41.3875,6.0,Good,3.0,6,11
+Barcelona - Vall Hebron,1,2.148,41.4261,15.0,Good,47.0,8,11
+Barcelona - Palau Reial,1,2.1151,41.3875,1.0,Good,11.0,11,25
+Barcelona - Palau Reial,1,2.1151,41.3875,1.0,Good,59.0,5,11
+Barcelona - Gràcia,1,2.1534,41.3987,20.0,Good,83.0,11,21
+Barcelona - Ciutadella,1,2.1874,41.3864,21.0,Good,36.0,11,26
+Barcelona - Gràcia,1,2.1534,41.3987,1.0,Good,72.0,9,11
+Barcelona - Poblenou,1,2.2045,41.4039,13.0,Good,20.0,12,11
+Barcelona - Palau Reial,1,2.1151,41.3875,9.0,Good,27.0,11,24
+Barcelona - Vall Hebron,1,2.148,41.4261,13.0,Good,16.0,11,21
+Barcelona - Poblenou,1,2.2045,41.4039,0.0,Good,56.0,3,11
+Barcelona - Sants,1,2.1331,41.3788,9.0,Good,58.0,11,29
+Barcelona - Eixample,1,2.1538,41.3853,13.0,--,,4,11
+Barcelona - Eixample,1,2.1538,41.3853,4.0,Good,24.0,11,15
+Barcelona - Sants,1,2.1331,41.3788,14.0,Good,14.0,11,24
+Barcelona - Ciutadella,1,2.1874,41.3864,13.0,Good,41.0,11,27
+Barcelona - Gràcia,1,2.1534,41.3987,12.0,Good,38.0,11,21
+Barcelona - Poblenou,1,2.2045,41.4039,,,,7,11
+Barcelona - Gràcia,1,2.1534,41.3987,15.0,Good,27.0,2,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,14.0,Good,15.0,11,28
+Barcelona - Ciutadella,1,2.1874,41.3864,11.0,Good,25.0,11,19
+Barcelona - Vall Hebron,1,2.148,41.4261,8.0,Good,11.0,11,11
+Barcelona - Sants,1,2.1331,41.3788,23.0,Good,39.0,11,26
+Barcelona - Gràcia,1,2.1534,41.3987,15.0,Good,36.0,11,22
+Barcelona - Poblenou,1,2.2045,41.4039,9.0,Good,25.0,4,11
+Barcelona - Palau Reial,1,2.1151,41.3875,3.0,Good,19.0,11,17
+Barcelona - Ciutadella,1,2.1874,41.3864,5.0,Good,23.0,6,11
+Barcelona - Vall Hebron,1,2.148,41.4261,14.0,Good,23.0,11,25
+Barcelona - Sants,1,2.1331,41.3788,23.0,Good,43.0,11,14
+Barcelona - Sants,1,2.1331,41.3788,18.0,Good,16.0,11,11
+Barcelona - Eixample,1,2.1538,41.3853,12.0,Good,31.0,6,11
+Barcelona - Palau Reial,1,2.1151,41.3875,12.0,Good,22.0,11,17
+Barcelona - Ciutadella,1,2.1874,41.3864,22.0,Good,40.0,5,11
+Barcelona - Poblenou,1,2.2045,41.4039,1.0,Good,12.0,11,19
+Barcelona - Vall Hebron,1,2.148,41.4261,5.0,Good,24.0,11,17
+Barcelona - Ciutadella,1,2.1874,41.3864,6.0,Good,49.0,5,11
+Barcelona - Palau Reial,1,2.1151,41.3875,4.0,Good,13.0,11,17
+Barcelona - Ciutadella,1,2.1874,41.3864,5.0,Good,32.0,11,20
+Barcelona - Observ Fabra,1,2.1239,41.4183,14.0,Good,7.0,11,24
+Barcelona - Vall Hebron,1,2.148,41.4261,7.0,Good,27.0,11,16
+Barcelona - Ciutadella,1,2.1874,41.3864,9.0,Good,70.0,11,28
+Barcelona - Ciutadella,1,2.1874,41.3864,10.0,Good,59.0,11,29
+Barcelona - Palau Reial,1,2.1151,41.3875,15.0,Good,14.0,11,26
+Barcelona - Observ Fabra,1,2.1239,41.4183,0.0,Good,5.0,11,25
+Barcelona - Ciutadella,1,2.1874,41.3864,17.0,Good,13.0,11,20
+Barcelona - Sants,1,2.1331,41.3788,13.0,Good,23.0,11,15
+Barcelona - Palau Reial,1,2.1151,41.3875,11.0,Good,24.0,2,11
+Barcelona - Poblenou,1,2.2045,41.4039,17.0,Good,18.0,1,11
+Barcelona - Sants,1,2.1331,41.3788,21.0,Good,30.0,11,23
+Barcelona - Eixample,1,2.1538,41.3853,12.0,Good,80.0,11,20
+Barcelona - Palau Reial,1,2.1151,41.3875,13.0,Good,47.0,11,29
+Barcelona - Vall Hebron,1,2.148,41.4261,5.0,Good,12.0,8,11
+Barcelona - Sants,1,2.1331,41.3788,10.0,Good,17.0,11,24
+Barcelona - Observ Fabra,1,2.1239,41.4183,10.0,Good,17.0,12,11
+Barcelona - Eixample,1,2.1538,41.3853,10.0,Good,81.0,11,16
+Barcelona - Gràcia,1,2.1534,41.3987,5.0,Good,24.0,11,17
+Barcelona - Sants,1,2.1331,41.3788,6.0,Good,45.0,11,22
+Barcelona - Eixample,1,2.1538,41.3853,16.0,Good,84.0,11,16
+Barcelona - Palau Reial,1,2.1151,41.3875,1.0,Good,18.0,7,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,10.0,Good,11.0,11,25
+Barcelona - Sants,1,2.1331,41.3788,22.0,Good,58.0,11,30
+Barcelona - Poblenou,1,2.2045,41.4039,12.0,Good,39.0,11,11
+Barcelona - Sants,1,2.1331,41.3788,22.0,Good,13.0,11,18
+Barcelona - Sants,1,2.1331,41.3788,14.0,Good,19.0,11,15
+Barcelona - Poblenou,1,2.2045,41.4039,22.0,Good,55.0,11,20
+Barcelona - Poblenou,1,2.2045,41.4039,,,,1,11
+Barcelona - Gràcia,1,2.1534,41.3987,6.0,Good,31.0,11,27
+Barcelona - Poblenou,1,2.2045,41.4039,6.0,Good,37.0,11,14
+Barcelona - Gràcia,0,2.1534,41.3987,11.0,--,,9,11
+Barcelona - Sants,1,2.1331,413788.0,5.0,Good,16.0,11,13
+Barcelona - Sants,1,2.1331,41.3788,11.0,Good,32.0,11,27
+Barcelona - Sants,1,2.1331,41.3788,0.0,Good,83.0,9,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,7.0,Good,3.0,11,22
+Barcelona - Gràcia,1,2.1534,41.3987,17.0,Good,46.0,11,27
+Barcelona - Observ Fabra,1,2.1239,41.4183,21.0,Good,8.0,11,28
+Barcelona - Eixample,1,2.1538,41.3853,13.0,Good,33.0,3,11
+Barcelona - Vall Hebron,1,2.148,41.4261,18.0,Good,28.0,11,18
+Barcelona - Eixample,1,2.1538,41.3853,11.0,Good,42.0,11,11
+Barcelona - Eixample,0,2.1538,413853.0,21.0,Good,82.0,11,13
+Barcelona - Palau Reial,1,2.1151,41.3875,19.0,Good,73.0,11,29
+Barcelona - Vall Hebron,1,2.148,41.4261,15.0,Good,59.0,11,16
+Barcelona - Poblenou,1,2.2045,41.4039,1.0,Good,6.0,11,15
+Barcelona - Gràcia,1,2.1534,41.3987,17.0,Good,46.0,12,11
+Barcelona - Eixample,1,2.1538,41.3853,19.0,Good,43.0,11,18
+Barcelona - Poblenou,1,2.2045,41.4039,14.0,Good,28.0,11,25
+Barcelona - Vall Hebron,1,2.148,41.4261,5.0,Good,14.0,11,21
+Barcelona - Gràcia,1,2.1534,41.3987,18.0,Good,58.0,11,27
+Barcelona - Ciutadella,1,2.1874,41.3864,1.0,Good,31.0,11,25
+Barcelona - Ciutadella,1,2.1874,41.3864,19.0,Good,40.0,11,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,4.0,Good,4.0,8,11
+Barcelona - Sants,1,2.1331,413788.0,7.0,Good,20.0,11,13
+Barcelona - Poblenou,1,2.2045,41.4039,10.0,Good,21.0,3,11
+Barcelona - Ciutadella,1,2.1874,41.3864,8.0,Good,38.0,12,11
+Barcelona - Sants,1,2.1331,41.3788,14.0,Good,25.0,11,25
+Barcelona - Palau Reial,1,2.1151,41.3875,6.0,Good,22.0,11,28
+Barcelona - Gràcia,1,2.1534,41.3987,3.0,Good,55.0,4,11
+Barcelona - Palau Reial,1,2.1151,41.3875,1.0,Good,28.0,1,11
+Barcelona - Eixample,0,2.1538,41.3853,4.0,Good,39.0,11,14
+Barcelona - Palau Reial,1,2.1151,41.3875,22.0,Good,41.0,11,14
+Barcelona - Poblenou,1,2.2045,41.4039,10.0,Good,70.0,5,11
+Barcelona - Eixample,1,2.1538,41.3853,20.0,--,,11,15
+Barcelona - Eixample,1,2.1538,41.3853,11.0,Good,76.0,2,11
+Barcelona - Eixample,1,2.1538,41.3853,9.0,Good,65.0,11,22
+Barcelona - Gràcia,1,2.1534,41.3987,22.0,Good,44.0,11,17
+Barcelona - Palau Reial,1,2.1151,41.3875,13.0,Good,4.0,3,11
+Barcelona - Eixample,1,2.1538,41.3853,11.0,Good,74.0,11,16
+Barcelona - Sants,1,2.1331,41.3788,20.0,Good,74.0,11,22
+Barcelona - Vall Hebron,1,2.148,41.4261,1.0,Good,32.0,11,17
+Barcelona - Gràcia,1,2.1534,41.3987,17.0,Good,42.0,11,26
+Barcelona - Sants,1,2.1331,41.3788,1.0,Good,12.0,11,19
+Barcelona - Poblenou,1,2.2045,41.4039,20.0,Good,71.0,4,11
+Barcelona - Eixample,1,2.1538,41.3853,9.0,Good,34.0,3,11
+Barcelona - Ciutadella,1,2.1874,41.3864,5.0,Good,33.0,8,11
+Barcelona - Sants,1,2.1331,41.3788,15.0,Good,18.0,11,21
+Barcelona - Sants,1,2.1331,41.3788,2.0,Good,14.0,11,19
+Barcelona - Palau Reial,1,2.1151,41.3875,15.0,--,,8,11
+Barcelona - Ciutadella,1,2.1874,41.3864,9.0,Good,68.0,11,23
+Barcelona - Palau Reial,1,2.1151,41.3875,15.0,Good,18.0,11,15
+Barcelona - Vall Hebron,1,2.148,414261.0,1.0,Good,26.0,11,13
+Barcelona - Poblenou,1,2.2045,41.4039,18.0,Good,89.0,11,22
+Barcelona - Palau Reial,1,2.1151,41.3875,12.0,Good,52.0,11,29
+Barcelona - Sants,1,2.1331,41.3788,6.0,Good,21.0,11,21
+Barcelona - Poblenou,1,2.2045,41.4039,18.0,Good,35.0,11,19
+Barcelona - Sants,1,2.1331,41.3788,20.0,Good,68.0,11,28
+Barcelona - Sants,1,2.1331,41.3788,13.0,Good,18.0,11,24
+Barcelona - Sants,1,2.1331,41.3788,16.0,Good,17.0,11,17
+Barcelona - Vall Hebron,1,2.148,41.4261,14.0,Good,11.0,10,11
+Barcelona - Sants,1,2.1331,41.3788,8.0,Good,45.0,1,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,3.0,Good,11.0,6,11
+Barcelona - Observ Fabra,1,2.1239,41.4183,8.0,Good,9.0,9,11
+Barcelona - Vall Hebron,1,2.148,41.4261,19.0,Good,39.0,11,18
+Barcelona - Palau Reial,1,2.1151,41.3875,20.0,Good,78.0,11,27
+Barcelona - Vall Hebron,1,2.148,41.4261,9.0,Good,32.0,11,26
+Barcelona - Poblenou,1,2.2045,41.4039,21.0,Good,44.0,11,23
+Barcelona - Vall Hebron,1,2.148,41.4261,4.0,Good,10.0,11,14
+Barcelona - Sants,1,2.1331,41.3788,13.0,Good,20.0,11,14
+Barcelona - Gràcia,1,2.1534,41.3987,0.0,Good,38.0,11,25
+Barcelona - Ciutadella,1,2.1874,41.3864,11.0,Good,50.0,7,11
+Barcelona - Gràcia,1,2.1534,413987.0,13.0,Good,43.0,11,13
+Barcelona - Observ Fabra,1,2.1239,41.4183,11.0,Good,4.0,11,22
+Barcelona - Eixample,1,2.1538,41.3853,18.0,--,,11,22
+Barcelona - Poblenou,1,2.2045,41.4039,4.0,Good,18.0,11,15
+Barcelona - Vall Hebron,1,2.148,41.4261,15.0,Good,15.0,2,11
+Barcelona - Gràcia,1,2.1534,41.3987,3.0,Good,52.0,11,29
+Barcelona - Ciutadella,1,2.1874,41.3864,5.0,Good,53.0,11,23
+Barcelona - Observ Fabra,1,2.1239,41.4183,3.0,Good,11.0,11,30
+Barcelona - Sants,1,2.1331,41.3788,12.0,Good,15.0,11,18
+Barcelona - Poblenou,1,2.2045,41.4039,14.0,Good,13.0,12,11
