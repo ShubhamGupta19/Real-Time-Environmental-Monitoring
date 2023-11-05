@@ -5,7 +5,7 @@ from sklearn.metrics import r2_score
 from sklearn.tree import DecisionTreeClassifier
 from catboost import  CatBoostClassifier
 from sklearn.ensemble import AdaBoostClassifier,GradientBoostingClassifier,RandomForestClassifier
-# from sklearn.neighbors import KNeighborsClassifier
+from sklearn.neighbors import KNeighborsClassifier
 from xgboost import XGBClassifier
 from sklearn.svm import SVC
 from src.exception import CustomException
@@ -35,15 +35,65 @@ class ModelTrainer:
             models={
                 "RandomForest": RandomForestClassifier(),
                 "DecisionTree": DecisionTreeClassifier(),
-                "Support Vector Machine":SVC(),
+               # "Support Vector Machine":SVC(),
                 "XGBoost":XGBClassifier(),
-                "CAT": CatBoostClassifier(),
+                "CatBoosting Classifier": CatBoostClassifier(),
                 "Gradient Boosting": GradientBoostingClassifier(),
-                "AdaBoostClassifier":AdaBoostClassifier()
+                "AdaBoostClassifier":AdaBoostClassifier(),
+               # "KNNClassifier":KNeighborsClassifier()
 
             }
+
+            params={
+                "DecisionTree": {
+                    'criterion':['gini', 'entropy', 'log_loss'],
+                    'splitter':['best','random'],
+                    # 'max_features':['sqrt','log2'],
+                },
+                "RandomForest":{
+                    # 'criterion':['squared_error', 'friedman_mse', 'absolute_error', 'poisson'],
+                 
+                    # 'max_features':['sqrt','log2',None],
+                    'n_estimators': [8,16,32,64,128,256]
+                },
+                "Gradient Boosting":{
+                    # 'loss':['squared_error', 'huber', 'absolute_error', 'quantile'],
+                    'learning_rate':[.1,.01,.05,.001],
+                    # 'subsample':[0.6,0.7,0.75,0.8,0.85,0.9],
+                    # 'criterion':['squared_error', 'friedman_mse'],
+                    # 'max_features':['auto','sqrt','log2'],
+                    'n_estimators': [8,16,32,64,128,256]
+                },
+               
+                # "KNNClassifier":{
+                #     'n_neighbors':[5,7,9,11],
+                #     # 'weights':['uniform','distance'],
+                #     # 'algorithm':['ball_tree','kd_tree','brute']
+                # },
+                "XGBoost":{
+                    'learning_rate':[.1,.01,.05,.001],
+                    'n_estimators': [8,16,32,64,128,256]
+                },
+                "CatBoosting Classifier":{
+                    'depth': [6,8,10],
+                    # 'learning_rate': [0.01, 0.05, 0.1],
+                    'iterations': [30, 50, 100]
+                },
+                "AdaBoostClassifier":{
+                    'learning_rate':[.1,.01,0.5,.001],
+                    # 'loss':['linear','square','exponential'],
+                    'n_estimators': [8,16,32,64,128,256]
+                },
+                # "Support Vector Machine":{
+                #     'C': [0.1,1, 10, 100], 
+                #     'gamma': [1,0.1,0.01,0.001],
+                #     'kernel': ['rbf', 'poly', 'sigmoid']
+
+                # }
+                
+            }
             logging.info("Training Model")
-            model_report:dict=evaluate_models(X=X_train,y=y_train,x_test=X_test,y_test=y_test ,models=models)
+            model_report:dict=evaluate_models(X=X_train,y=y_train,x_test=X_test,y_test=y_test ,models=models, param=params)
             print(model_report)
             logging.info("Predicting outputs")
 
