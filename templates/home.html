@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>AirQuality Predictor</title>
+</head>
+
+<body>
+    <div class="prediction">
+        <h1>AirQuality Predictor</h1>
+
+        <form action="{{ url_for('predict_datapoint') }}" method="post">
+            <h2>
+                <legend>Predict Air Quality</legend>
+            </h2>
+            <div class="mb-3">
+                <label class="form-label">Station</label>
+                <select class="form-control" name="station" required>
+                    <option class="placeholder" selected disabled value="">
+                        Select Station
+                    </option>
+                    <option value="Barcelona - Sants">Barcelona - Sants</option>
+                    <option value="Barcelona - Eixample">Barcelona - Eixample</option>
+                    <option value="Barcelona - Gràcia">Barcelona - Gràcia</option>
+                    <option value="Barcelona - Ciutadella">
+                        Barcelona - Ciutadella
+                    </option>
+                    <option value="Barcelona - Vall Hebron">
+                        Barcelona - Vall Hebron
+                    </option>
+                    <option value="Barcelona - Palau Reial">
+                        Barcelona - Palau Reial
+                    </option>
+                    <option value="Barcelona - Poblenou">Barcelona - Poblenou</option>
+                    <option value="Barcelona - Observ Fabra">
+                        Barcelona - Observ Fabra
+                    </option>
+                    <!-- Add more stations as needed -->
+                </select>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Longitude</label>
+                <input class="form-control" type="text" name="longitude" placeholder="Enter Longitude" required />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Latitude</label>
+                <input class="form-control" type="text" name="latitude" placeholder="Enter Latitude" required />
+            </div>
+            
+            <div class="mb-3">
+                <label class="form-label">NO2 Hour</label>
+                <input class="form-control" type="number" name="no2_hour" placeholder="Enter NO2 Hour" min="0" max="23"
+                    required />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">NO2 Quality</label>
+                <select class="form-control" name="no2_quality" required>
+                    <option class="placeholder" selected disabled value="">
+                        Select NO2 Quality
+                    </option>
+                    <option value="Good">Good</option>
+                    <option value="Moderate">Moderate</option>
+                    <!-- Add more NO2 qualities as needed -->
+                </select>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">NO2 Value</label>
+                <input class="form-control" type="number" name="no2_value" placeholder="Enter NO2 Value" min="0"
+                    required />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Month</label>
+                <input class="form-control" type="number" name="month" placeholder="Enter Month" min="1" max="12"
+                    required />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Day</label>
+                <input class="form-control" type="number" name="day" placeholder="Enter Day" min="1" max="31"
+                    required />
+            </div>
+            <div class="mb-3">
+                <input class="btn btn-primary" type="submit" value="Predict AirQuality" />
+            </div>
+        </form>
+
+        <h2>The predicted Air Quality is: {{ results }}</h2>
+    </div>
+</body>
+
+</html>
